@@ -56,8 +56,13 @@
           <img src="http://placehold.it/300x400" alt="">
         </div>
 
+
+
       </div>
+
     </section>
+    <!-- Back to Top -->
+    <?php include 'includes/backtotop.html'; ?>
 
 <div class="accent-bg">
     <section class="row">
@@ -123,7 +128,7 @@
         <br>
         <p>All applicants must be able to provide original certificates of academic and equivalent qualifications.</p>
 
-        <p><strong>Professional Skills Tests:</strong></p>
+        <p id="professionalskillstests"><strong>Professional Skills Tests:</strong></p>
         <p>You will be required to have passed the skills tests in both English and mathematics before the start of the course. The registration system is now open and we encourage all applicants to take the tests as early as possible to avoid the disappointment of gaining a place and not being able to start.</p>
 
         <ul class="vertical menu" data-accordion-menu>
@@ -165,35 +170,12 @@
         <p>Apply here using the following information:</p>
         <p><strong>The Solent SCITT: Location code S56</strong></p>
 
-        <ul class="vertical menu" data-accordion-menu>
-          <li>
-          <a href="#">What will I be doing on the course?</a>
-          <ul class="menu vertical nested">
-            <p>The Solent SCITT has been developed through years of collaboration with our partnership schools and Sussex University to offer a school based, high quality, cross phase and coherent training bespoke programme which is adapted to your individual needs. We are located in South East Hampshire in The Dickinson Centre, a professional training facility attached to Park Community School in close proximity to other local schools giving trainees an excellent experience across a variety of partnership providers.</p>
-            <p>We offer a full time one year training programme commencing in September. Successful completion of your training with us will result in being awarded QTS, along with a Post Graduate Certificate of Education (PGCE) at Level 7.</p>
-            <p>The Solent SCITT works in close partnership with the University of Sussex which has a long-established record of excellent initial teach training and is graded ‘Outstanding’ by Ofsted. This partnership ensures academic rigour which will enable you to establish links between theory and practice and understand how research is key to your professional development throughout your teaching career. The University of Sussex, who make the award of the PGCE, are involved in the development and moderation of the PGCE assignments and the Quality Assurance of our programme.</p>
-            <p>Our programme offers coherent and robust academic practice which supports your classroom teaching. Pedagogy, in turn, provides valuable action research to inform your assignment writing.</p>
-            <p>You will gain experience and training from schools who work in association with the Solent SCITT, including Primary, Secondary, Post 16 and Special Schools all located in Hampshire. The length, breadth, and content of the training will be flexible, taking account of your individual previous achievements, strengths and areas of development and ongoing interests.</p>
-            <p>Your school based Mentor will be a class teacher of the school in which you are placed. These high-quality practitioners receive regular and bespoke training and updates from the Solent SCITT and have responsibility for ensuring that you have an appropriate Individual Training Plan and that you have every opportunity to meet the Professional Standards for Qualified Teacher Status (QTS).</p>
-            <ul>For the award of PGCE and recommendation for QTS you will need to provide the following evidence:
-              <li>Teaching Standards Portfolio</li>
-              <li>Lesson Observations</li>
-              <li>Professional Conduct throughout</li>
-              <li>Assignments for Subject Study and 'Teaching and Learning and Personal Development'</li>
-            </ul>
-            <p>For the duration of your training your timetable will build up each term at a rate which is managed and agreed with your school based Curriculum and Professional Mentors and SCITT Tutor.</p>
-            <ul>You will;
-              <li>teach across two consecutive age ranges/phases</li>
-              <li>experience teaching in at least four contrasting schools.</li>
-            </ul>
-          </ul>
-          </li>
-        </ul>
-        <br>
-        <p><strong>The full programme can be accessed via <a href="#">this link</a></strong></p>
-        <a class="text-right" href="#">Back to Top</a>
+
       </div>
+
     </section>
+    <!-- Back to Top -->
+    <?php include 'includes/backtotop.html'; ?>
 
 <div class="accent-bg">
     <section class="row">
@@ -223,10 +205,67 @@
         </div>
       </div>
 </div>
+  <section class="row">
+    <div class="column">
+      <h2 id="whatbecometeacher">What will I be doing on the course</h2>
+      <p>The Solent SCITT has been developed through years of collaboration with our partnership schools and Sussex University to offer a school based, high quality, cross phase and coherent training bespoke programme which is adapted to your individual needs. We are located in South East Hampshire in The Dickinson Centre, a professional training facility attached to Park Community School in close proximity to other local schools giving trainees an excellent experience across a variety of partnership providers.</p>
+      <p>We offer a full time one year training programme commencing in September. Successful completion of your training with us will result in being awarded QTS, along with a Post Graduate Certificate of Education (PGCE) at Level 7.</p>
+      <p>The Solent SCITT works in close partnership with the University of Sussex which has a long-established record of excellent initial teach training and is graded ‘Outstanding’ by Ofsted. This partnership ensures academic rigour which will enable you to establish links between theory and practice and understand how research is key to your professional development throughout your teaching career. The University of Sussex, who make the award of the PGCE, are involved in the development and moderation of the PGCE assignments and the Quality Assurance of our programme.</p>
+      <p>Our programme offers coherent and robust academic practice which supports your classroom teaching. Pedagogy, in turn, provides valuable action research to inform your assignment writing.</p>
+      <p>You will gain experience and training from schools who work in association with the Solent SCITT, including Primary, Secondary, Post 16 and Special Schools all located in Hampshire. The length, breadth, and content of the training will be flexible, taking account of your individual previous achievements, strengths and areas of development and ongoing interests.</p>
+      <p>Your school based Mentor will be a class teacher of the school in which you are placed. These high-quality practitioners receive regular and bespoke training and updates from the Solent SCITT and have responsibility for ensuring that you have an appropriate Individual Training Plan and that you have every opportunity to meet the Professional Standards for Qualified Teacher Status (QTS).</p>
+      <ul>For the award of PGCE and recommendation for QTS you will need to provide the following evidence:
+        <li>Teaching Standards Portfolio</li>
+        <li>Lesson Observations</li>
+        <li>Professional Conduct throughout</li>
+        <li>Assignments for Subject Study and 'Teaching and Learning and Personal Development'</li>
+      </ul>
+      <p>For the duration of your training your timetable will build up each term at a rate which is managed and agreed with your school based Curriculum and Professional Mentors and SCITT Tutor.</p>
+      <ul>You will;
+        <li>teach across two consecutive age ranges/phases</li>
+        <li>experience teaching in at least four contrasting schools.</li>
+      </ul>
 
-    <section class="row" id="applybecometeacher">
+      <p><strong>The full programme structure can be accessed via <a href="/assets/programme-structure.pdf" target="_blank">this link</a></strong></p>
+    </div>
+  </section>
+  <!-- Back to Top -->
+  <?php include 'includes/backtotop.html'; ?>
+
+  <div class="accent-bg">
+      <section class="row">
+        <div class="columns">
+          <!-- QUOTE -->
+          <div class="row">
+            <div class="medium-2 column">
+              <img class="circle" src="http://placehold.it/200" alt="">
+            </div>
+            <div class="medium-pull-2 medium-8 column">
+              <blockquote>Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.
+              <cite>Steve Jobs</cite>
+              </blockquote>
+            </div>
+          </div>
+          <br>
+          <!-- QUOTE -->
+          <div class="row">
+            <div class="medium-push-2 medium-2 column">
+              <img class="circle" src="http://placehold.it/200" alt="">
+            </div>
+            <div class="medium-8 column">
+              <blockquote>Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.
+              <cite>Steve Jobs</cite>
+              </blockquote>
+            </div>
+          </div>
+          <br>
+        </div>
+      </section>
+  </div>
+
+    <section class="row">
       <div class="medium-6 large-7 columns">
-        <h2>Apply to become a teacher</h2>
+        <h2 id="applybecometeacher">Apply to become a teacher</h2>
         <p>The process could not be simpler! Log on to UCAS Teacher Training</p>
         <ul class="vertical menu" data-accordion-menu>
           <li>
@@ -288,9 +327,12 @@
       <div class="column">
         <p>The Solent SCITT and all partnership organisations are committed to safeguarding, promoting good welfare of pupils and expect all trainees to share this commitment. All successful candidates will be subject to enhanced Disclosure and Barring Service checks to review suitability of working with pupils.</p>
 
-        <a class="text-right" href="#">Back to Top</a>
+
       </div>
+
     </section>
+    <!-- Back to Top -->
+    <?php include 'includes/backtotop.html'; ?>
 
     <!-- FOOTER -->
     <?php include("includes/footer.html") ?>

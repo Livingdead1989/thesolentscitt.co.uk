@@ -42,6 +42,31 @@
       </div>
     </section>
 
+    <!-- School Logo -->
+    <div class="accent-bg">
+      <section class="row">
+        <div class="column text-center">
+          <h2>Partnership Schools</h2>
+        </div>
+        <!-- School1 -->
+        <div class="small-12 medium-4 column contact-schools">
+          <a href="//pcs.hants.sch.uk/" target="_blank"><img src="images/logo/pcs-logo.png" alt=""></a>
+        </div>
+
+        <!-- School2 -->
+        <div class="small-12 medium-4 column contact-schools">
+            <a href="//www.horndeantc.hants.sch.uk/" target="_blank"><img src="images/logo/htc-logo.png" alt=""></a>
+        </div>
+
+        <!-- School3 -->
+        <div class="small-12 medium-4 column contact-schools end">
+            <a href="//www.warblington.hants.sch.uk/" target="_blank"><img src="images/logo/warblington-logo.png" alt=""></a>
+        </div>
+
+
+      </section>
+    </div>
+
     <!-- FOOTER -->
     <?php include("includes/footer.html") ?>
 

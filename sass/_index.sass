@@ -3,7 +3,7 @@
   display: flex
   padding-bottom: 30px
 .hero
-  min-height: 300px
+  min-height: 500px
   height: 60vh
   background-position: top center
   background-repeat: no-repeat
@@ -20,12 +20,12 @@
     padding-left: 30px
     margin-bottom: 0
     text-transform: capitalize
-    font-weight: 700
+    font-weight: 900
     text-shadow: 3px 2px 2px #111
   h1, h2, h3
-    font-size: 5em
+    font-size: 3.5em
   p
-    font-size: 2em
+    font-size: 1.5em
 .hp-hero-prim
   background-image: url("http://lorempixel.com/920/400/business/9")
   color: $accent-color
@@ -36,10 +36,14 @@
 #hp-qlandpromo
   .hp-slogan-container
     background-color: $primary-color
-  .hp-slogan
-    padding: 70px 40px
-    text-align: center
-    text-transform: capitalize
-    font-size: 1.5em
-    font-style: 700
-    color: lighten($font-color, 15)
+    .hp-slogan
+      padding: 70px 40px 55px 40px
+      text-align: center
+      text-transform: capitalize
+      font-size: 1.5em
+      font-weight: 900
+      color: lighten($font-color, 15)
+      &>span a
+        color: lighten($font-color, 20)
+        font-weight: 400
+        font-size: 80%

@@ -27,7 +27,7 @@
         <p>In the case of Walter Cole, who has moved across the globe from Sydney, the course so far has been <em>“excellent beyond expectation”</em>.</p>
       </div>
       <div class="medium-6 columns">
-        <img src="http://placekitten.com/800/500?image=8" alt="">
+        <img src="images/logo/TheSolentSCITT.svg" alt="The Solent SCITT Logo">
       </div>
     </section>
 
@@ -40,10 +40,39 @@
             <!-- PERSON 1 -->
             <div class="column text-center">
               <a data-open="exampleModal1">
-                <img src="http://placekitten.com/g/200" alt="">
+                <img class="circle" src="http://placekitten.com/g/200" alt="">
                 <p>Mr P Holder</p>
               </a>
             </div>
+            <!-- PERSON 2 -->
+            <div class="column text-center">
+              <a data-open="exampleModal2">
+                <img class="circle" src="http://placekitten.com/g/200" alt="">
+                <p>Mr A Holder</p>
+              </a>
+            </div>
+            <!-- PERSON 3 -->
+            <div class="column text-center">
+              <a data-open="exampleModal3">
+                <img class="circle" src="http://placekitten.com/g/200" alt="">
+                <p>Mr B Holder</p>
+              </a>
+            </div>
+            <!-- PERSON 4 -->
+            <div class="column text-center">
+              <a data-open="exampleModal4">
+                <img class="circle" src="http://placekitten.com/g/200" alt="">
+                <p>Mr C Holder</p>
+              </a>
+            </div>
+            <!-- PERSON 5 -->
+            <div class="column text-center">
+              <a data-open="exampleModal5">
+                <img class="circle" src="http://placekitten.com/g/200" alt="">
+                <p>Mr D Holder</p>
+              </a>
+            </div>
+
             <!-- MODAL 1 -->
             <div class="reveal" id="exampleModal1" data-reveal>
               <h1>Mr P Holder</h1>
@@ -52,14 +81,6 @@
               <button class="close-button" data-close aria-label="Close modal" type="button">
                 <span aria-hidden="true">&times;</span>
               </button>
-            </div>
-
-            <!-- PERSON 2 -->
-            <div class="column text-center">
-              <a data-open="exampleModal2">
-                <img src="http://placekitten.com/g/200" alt="">
-                <p>Mr A Holder</p>
-              </a>
             </div>
             <!-- MODAL 2 -->
             <div class="reveal" id="exampleModal2" data-reveal>
@@ -70,14 +91,6 @@
                 <span aria-hidden="true">&times;</span>
               </button>
             </div>
-
-            <!-- PERSON 3 -->
-            <div class="column text-center">
-              <a data-open="exampleModal3">
-                <img src="http://placekitten.com/g/200" alt="">
-                <p>Mr B Holder</p>
-              </a>
-            </div>
             <!-- MODAL 3 -->
             <div class="reveal" id="exampleModal3" data-reveal>
               <h1>Mr B Holder</h1>
@@ -87,14 +100,6 @@
                 <span aria-hidden="true">&times;</span>
               </button>
             </div>
-
-            <!-- PERSON 4 -->
-            <div class="column text-center">
-              <a data-open="exampleModal4">
-                <img src="http://placekitten.com/g/200" alt="">
-                <p>Mr C Holder</p>
-              </a>
-            </div>
             <!-- MODAL 4 -->
             <div class="reveal" id="exampleModal4" data-reveal>
               <h1>Mr C Holder</h1>
@@ -103,14 +108,6 @@
               <button class="close-button" data-close aria-label="Close modal" type="button">
                 <span aria-hidden="true">&times;</span>
               </button>
-            </div>
-
-            <!-- PERSON 5 -->
-            <div class="column text-center">
-              <a data-open="exampleModal5">
-                <img src="http://placekitten.com/g/200" alt="">
-                <p>Mr D Holder</p>
-              </a>
             </div>
             <!-- MODAL 5 -->
             <div class="reveal" id="exampleModal5" data-reveal>
@@ -129,7 +126,7 @@
       </section>
     </div>
 
-    <section class="row">
+    <section class="row" id="successes">
       <div class="large-8 columns">
         <h2>Our Successes</h2>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
@@ -145,6 +142,8 @@
         <img src="http://placekitten.com/400/300?image=2" alt="">
       </div>
     </section>
+    <!-- Back to Top -->
+    <?php include 'includes/backtotop.html'; ?>
 
     <!-- FOOTER -->
     <?php include("includes/footer.html") ?>

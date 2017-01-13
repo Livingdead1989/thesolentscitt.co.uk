@@ -20,17 +20,46 @@
     </div>
 
     <section class="row">
-      <div class="columns">
+      <div class="column">
+
 
         <!-- COURSE1 -->
-        <div class="large-3 column">
+        <div class="small-12 medium-6 large-3 column text-center">
           <div class="course-container">
             <img class="course-img thumnbail" src="http://placehold.it/200" alt="">
             <p class="course-title">English</p>
-            <p class="course-code">32QT</p>
-            <p class="course-select"><a class="button" data-open="exampleModal1">SELECT</a></p>
+            <p class="course-code"><small>SCITT Code</small><br>32QT</p>
+            <p class="course-select"><a class="button" data-open="exampleModal1">View More!</a></p>
           </div>
         </div>
+        <!-- COURSE2 -->
+        <div class="small-12 medium-6 large-3 column text-center ">
+          <div class="course-container">
+            <img class="course-img thumnbail" src="http://placehold.it/200" alt="">
+            <p class="course-title">Physics</p>
+            <p class="course-code"><small>SCITT Code</small><br>2CLX</p>
+            <p class="course-select"><a class="button" data-open="exampleModal2">View More!</a></p>
+          </div>
+        </div>
+        <!-- COURSE3 -->
+        <div class="small-12 medium-6 large-3 column text-center ">
+          <div class="course-container">
+            <img class="course-img thumnbail" src="http://placehold.it/200" alt="">
+            <p class="course-title">DT</p>
+            <p class="course-code"><small>SCITT Code</small><br>32QS</p>
+            <p class="course-select"><a class="button" data-open="exampleModal3">View More!</a></p>
+          </div>
+        </div>
+        <!-- COURSE4 -->
+        <div class="small-12 medium-6 large-3 column text-center end">
+          <div class="course-container">
+            <img class="course-img thumnbail" src="http://placehold.it/200" alt="">
+            <p class="course-title">Computer Science</p>
+            <p class="course-code"><small>SCITT Code</small><br>2CLQ</p>
+            <p class="course-select"><a class="button" data-open="exampleModal4">View More!</a></p>
+          </div>
+        </div>
+
         <!-- MODAL1 -->
         <div class="reveal" id="exampleModal1" data-reveal>
           <h1>English</h1>
@@ -42,19 +71,23 @@
           <p class="lead">How is Subject Study structured?</p>
           <p>Subject specific sessions are run by Subject Experts for each specialism and take place for half a day each week. In addition there will be a weekly half day session in school for subject specialist development.</p>
           <p>Subject sessions being delivered by a Subject Expert who is a current outstanding practitioner ensures that you will get up to date advice on subject specific teaching and learning, and the most effective ways of making this outstanding within the classroom.</p>
+
+          <p class="lead">Course Codes</p>
+          <table>
+            <tr>
+              <td>SCITT</td>
+              <td>32QT</td>
+            </tr>
+            <tr>
+              <td>School Direct</td>
+              <td>XXXX</td>
+            </tr>
+          </table>
+          <br>
+
           <button class="close-button" data-close aria-label="Close modal" type="button">
             <span aria-hidden="true">&times;</span>
           </button>
-        </div>
-
-        <!-- COURSE2 -->
-        <div class="large-3 column">
-          <div class="course-container">
-            <img class="course-img thumnbail" src="http://placehold.it/200" alt="">
-            <p class="course-title">Physics</p>
-            <p class="course-code">2CLX</p>
-            <p class="course-select"><a class="button" data-open="exampleModal2">SELECT</a></p>
-          </div>
         </div>
         <!-- MODAL2 -->
         <div class="reveal" id="exampleModal2" data-reveal>
@@ -64,19 +97,23 @@
 
           <p class="lead">How is Subject Study structured?</p>
           <p>BLAH</p>
+
+          <p class="lead">Course Codes</p>
+          <table>
+            <tr>
+              <td>SCITT</td>
+              <td>32QT</td>
+            </tr>
+            <tr>
+              <td>School Direct</td>
+              <td>XXXX</td>
+            </tr>
+          </table>
+          <br>
+
           <button class="close-button" data-close aria-label="Close modal" type="button">
             <span aria-hidden="true">&times;</span>
           </button>
-        </div>
-
-        <!-- COURSE3 -->
-        <div class="large-3 column">
-          <div class="course-container">
-            <img class="course-img thumnbail" src="http://placehold.it/200" alt="">
-            <p class="course-title">DT</p>
-            <p class="course-code">32QS</p>
-            <p class="course-select"><a class="button" data-open="exampleModal3">SELECT</a></p>
-          </div>
         </div>
         <!-- MODAL3 -->
         <div class="reveal" id="exampleModal3" data-reveal>
@@ -86,19 +123,23 @@
 
           <p class="lead">How is Subject Study structured?</p>
           <p>BLAH</p>
+
+          <p class="lead">Course Codes</p>
+          <table>
+            <tr>
+              <td>SCITT</td>
+              <td>32QT</td>
+            </tr>
+            <tr>
+              <td>School Direct</td>
+              <td>XXXX</td>
+            </tr>
+          </table>
+          <br>
+
           <button class="close-button" data-close aria-label="Close modal" type="button">
             <span aria-hidden="true">&times;</span>
           </button>
-        </div>
-
-        <!-- COURSE4 -->
-        <div class="large-3 column">
-          <div class="course-container">
-            <img class="course-img thumnbail" src="http://placehold.it/200" alt="">
-            <p class="course-title">Computer Science</p>
-            <p class="course-code">2CLQ</p>
-            <p class="course-select"><a class="button" data-open="exampleModal4">SELECT</a></p>
-          </div>
         </div>
         <!-- MODAL4 -->
         <div class="reveal" id="exampleModal4" data-reveal>
@@ -108,17 +149,31 @@
 
           <p class="lead">How is Subject Study structured?</p>
           <p>BLAH</p>
+
+          <p class="lead">Course Codes</p>
+          <table>
+            <tr>
+              <td>SCITT</td>
+              <td>32QT</td>
+            </tr>
+            <tr>
+              <td>School Direct</td>
+              <td>XXXX</td>
+            </tr>
+          </table>
+          <br>
+
           <button class="close-button" data-close aria-label="Close modal" type="button">
             <span aria-hidden="true">&times;</span>
           </button>
         </div>
 
-
       </div>
 
-      <div class="column">
-        <p class="text-center">Course prices can be found on the <a href="//getintoteaching.education.gov.uk/funding-and-salary/overview" target="_blank">GetIntoTeaching website</a>.</p>
-      </div>
+        <div class="column">
+          <p class="text-center">Course prices can be found on the <a href="//getintoteaching.education.gov.uk/funding-and-salary/overview" target="_blank">GetIntoTeaching website</a>.</p>
+          <p class="text-center">Link to our <a href="/assets/programme-structure.pdf" target="_blank">Programme Structure</a>.</p>
+        </div>
     </section>
 
 

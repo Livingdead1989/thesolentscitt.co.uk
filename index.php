@@ -13,7 +13,7 @@
     <header class="row hero-container">
       <div class="columns hero hp-hero-prim">
         <h1>The Solent SCITT</h1>
-        <p>Training the Next Generation of Outstanding Teachers</p>
+        <p>Training the Next Generation of Outstanding Teachers <br><br>Call Now: 023 92 489 819</p>
       </div>
     </header>
 
@@ -21,28 +21,39 @@
     <section id="hp-qlandpromo" class="row" data-equalizer data-equalize-on="large" id="hp-qlandpromo">
       <div class="large-6 columns" data-equalizer-watch>
         <div class="hp-slogan-container">
-          <blockquote class="hp-slogan">teachers can inspire hope, ignite the imagination, and instill a love of learning.</blockquote>
+          <blockquote class="hp-slogan">On average you could save 75% with guaranteed placement!<br><span><a data-open="BetterThanUni">Find out more...</a></span></blockquote>
+        </div>
+
+        <!-- MODAL 1 -->
+        <div class="reveal" id="BetterThanUni" data-reveal>
+          <h1>An attractive proposition</h1>
+          <p>After just a year you will qualify as classroom teachers able to work in the UK and abroad (with PGCE). You will receive the most up to date training based on the latest educational research and spend most of the year in four local schools trained on the job by teachers in the classroom with supportive one to one mentoring and specialist subject training.</p>
+          <p>We will develop you as a lifelong learner, a reflective practitioner and a critical thinker.</p>
+          <p><strong>Linked to the University of Sussex</strong> you will have direct access to world-class educational resources and lectures. In addition, the Solent SCITT has an outstanding track record for employment on completion; and if that isn’t enough you will have free access to a fully equipped gym and use of a laptop.</p>
+          <button class="close-button" data-close aria-label="Close modal" type="button">
+            <span aria-hidden="true">&times;</span>
+          </button>
         </div>
         <div class="row">
 
-          <a href="#">
+          <a href="/about.php">
             <div class="small-4 columns text-center">
               <img class="thumbnail" src="http://placekitten.com/200/200?image=9" alt="">
-              <p class="thumbnail-caption">Quick Link Box 1</p>
+              <p class="thumbnail-caption">About Us</p>
             </div>
           </a>
 
-          <a href="#">
+          <a href="/becometeacher.php#howbecometeacher">
             <div class="small-4 columns text-center">
               <img class="thumbnail" src="http://placekitten.com/200/200?image=5" alt="">
-              <p class="thumbnail-caption">Quick Link Box 2</p>
+              <p class="thumbnail-caption">Become a teacher?</p>
             </div>
           </a>
 
-          <a href="#">
+          <a href="/becometeacher.php#applybecometeacher">
             <div class="small-4 columns text-center">
               <img class="thumbnail" src="http://placekitten.com/200/200?image=7" alt="">
-              <p class="thumbnail-caption">Quick Link Box 3</p>
+              <p class="thumbnail-caption">Apply!</p>
             </div>
           </a>
 
@@ -67,28 +78,28 @@
     <section class="row">
       <div class="large-8 columns">
 
-        <a href="#">
+        <a href="/becometeacher.php#whybecometeacher">
           <div class="small-6 columns text-center">
             <img class="thumbnail" src="http://placekitten.com/400/300?image=2" alt="">
-            <p class="thumbnail-caption">Quick Link Box 1</p>
+            <p class="thumbnail-caption">Why Teach?</p>
           </div>
         </a>
-        <a href="#">
+        <a href="/about.php#successes">
           <div class="small-6 columns text-center">
             <img class="thumbnail" src="http://placekitten.com/400/300?image=4" alt="">
-            <p class="thumbnail-caption">Quick Link Box 2</p>
+            <p class="thumbnail-caption">Our Successes!</p>
           </div>
         </a>
-        <a href="#">
+        <a href="/becometeacher.php#professionalskillstests">
           <div class="small-6 columns text-center">
             <img class="thumbnail" src="http://placekitten.com/400/300?image=6" alt="">
-            <p class="thumbnail-caption">Quick Link Box 3</p>
+            <p class="thumbnail-caption">Professional Skills Test</p>
           </div>
         </a>
-        <a href="#">
+        <a href="//getintoteaching.education.gov.uk/funding-and-salary/overview" target="_blank">
           <div class="small-6 columns text-center">
             <img class="thumbnail" src="http://placekitten.com/400/300?image=8" alt="">
-            <p class="thumbnail-caption">Quick Link Box 4</p>
+            <p class="thumbnail-caption">DfE Bursary Information</p>
           </div>
         </a>
 
