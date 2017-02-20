@@ -50,7 +50,7 @@
         </div>
         <!-- School1 -->
         <div class="small-12 medium-4 column contact-schools">
-          <a href="//pcs.hants.sch.uk/" target="_blank"><img src="images/logo/pcs-logo.png" alt=""></a>
+          <a href="//www.pcs.hants.sch.uk/" target="_blank"><img src="images/logo/pcs-logo.png" alt=""></a>
         </div>
 
         <!-- School2 -->

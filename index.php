@@ -25,7 +25,7 @@
         </div>
 
         <!-- MODAL 1 -->
-        <div class="reveal" id="BetterThanUni" data-reveal>
+        <div class="large reveal" id="BetterThanUni" data-reveal>
           <h1>An attractive proposition</h1>
           <p>After just a year you will qualify as classroom teachers able to work in the UK and abroad (with PGCE). You will receive the most up to date training based on the latest educational research and spend most of the year in four local schools trained on the job by teachers in the classroom with supportive one to one mentoring and specialist subject training.</p>
           <p>We will develop you as a lifelong learner, a reflective practitioner and a critical thinker.</p>
@@ -36,26 +36,27 @@
         </div>
         <div class="row">
 
-          <a href="/about.php">
-            <div class="small-4 columns text-center">
+          <div class="small-4 columns text-center">
+            <a href="/about.php">
               <img class="thumbnail" src="http://placekitten.com/200/200?image=9" alt="">
               <p class="thumbnail-caption">About Us</p>
-            </div>
-          </a>
+            </a>
+          </div>
 
-          <a href="/becometeacher.php#howbecometeacher">
-            <div class="small-4 columns text-center">
+          <div class="small-4 columns text-center">
+            <a href="/becometeacher.php#howbecometeacher">
               <img class="thumbnail" src="http://placekitten.com/200/200?image=5" alt="">
               <p class="thumbnail-caption">Become a teacher?</p>
-            </div>
-          </a>
+            </a>
+          </div>
 
-          <a href="/becometeacher.php#applybecometeacher">
-            <div class="small-4 columns text-center">
+          <div class="small-4 columns text-center">
+            <a href="/becometeacher.php#applybecometeacher">
               <img class="thumbnail" src="http://placekitten.com/200/200?image=7" alt="">
               <p class="thumbnail-caption">Apply!</p>
-            </div>
-          </a>
+            </a>
+          </div>
+
 
         </div>
       </div>
@@ -76,32 +77,35 @@
 
     <!-- Boxes & Twitter -->
     <section class="row">
-      <div class="large-8 columns">
+      <div class="large-8 columns quadbox-container">
 
-        <a href="/becometeacher.php#whybecometeacher">
-          <div class="small-6 columns text-center">
-            <img class="thumbnail" src="http://placekitten.com/400/300?image=2" alt="">
+        <div class="medium-6 columns text-center">
+          <a href="/becometeacher.php#whybecometeacher">
+            <img class="thumbnail" src="images/scitt07.jpg" alt="">
             <p class="thumbnail-caption">Why Teach?</p>
-          </div>
-        </a>
-        <a href="/about.php#successes">
-          <div class="small-6 columns text-center">
-            <img class="thumbnail" src="http://placekitten.com/400/300?image=4" alt="">
+          </a>
+        </div>
+
+        <div class="medium-6 columns text-center">
+          <a href="/about.php#successes">
+            <img class="thumbnail" src="images/scitt01.jpg" alt="">
             <p class="thumbnail-caption">Our Successes!</p>
-          </div>
-        </a>
-        <a href="/becometeacher.php#professionalskillstests">
-          <div class="small-6 columns text-center">
-            <img class="thumbnail" src="http://placekitten.com/400/300?image=6" alt="">
+          </a>
+        </div>
+
+        <div class="medium-6 columns text-center">
+          <a href="/becometeacher.php#professionalskillstests">
+            <img class="thumbnail" src="images/scitt02.jpg" alt="">
             <p class="thumbnail-caption">Professional Skills Test</p>
-          </div>
-        </a>
-        <a href="//getintoteaching.education.gov.uk/funding-and-salary/overview" target="_blank">
-          <div class="small-6 columns text-center">
-            <img class="thumbnail" src="http://placekitten.com/400/300?image=8" alt="">
+          </a>
+        </div>
+
+        <div class="medium-6 columns text-center">
+          <a href="//getintoteaching.education.gov.uk/funding-and-salary/overview" target="_blank">
+            <img class="thumbnail" src="http://placehold.it/1920x1080" alt="">
             <p class="thumbnail-caption">DfE Bursary Information</p>
-          </div>
-        </a>
+          </a>
+        </div>
 
       </div>
       <div class="hide-for-small-only hide-for-medium-only large-4 columns">

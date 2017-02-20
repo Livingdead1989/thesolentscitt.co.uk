@@ -68,7 +68,7 @@ section {
 .hero {
   min-height: 500px;
   height: 60vh;
-  background-position: top center;
+  background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
   display: -webkit-box;
@@ -104,11 +104,11 @@ section {
     font-size: 1.5em; }
 
 .hp-hero-prim {
-  background-image: url("http://lorempixel.com/920/400/business/9");
+  background-image: url("/images/scittapple.jpg");
   color: #FEB348; }
 
 .hp-hero-sec {
-  background-image: url("http://lorempixel.com/920/400/business/10");
+  background-image: url("/images/scitt05.jpg");
   color: #51BDEB; }
 
 #hp-qlandpromo .hp-slogan-container {
@@ -124,6 +124,10 @@ section {
       color: #444444;
       font-weight: 400;
       font-size: 80%; }
+
+.quadbox-container > div img {
+  width: 355px;
+  height: 232.41px; }
 
 @media screen and (max-width: 39.9375em) {
   footer {
@@ -206,5 +210,11 @@ footer {
     .contact-schools img:hover {
       -webkit-filter: grayscale(30%);
               filter: grayscale(30%); }
+
+.team-container > div img {
+  width: 200px;
+  height: 200px;
+  -webkit-filter: grayscale(90%);
+          filter: grayscale(90%); }
 
 /*# sourceMappingURL=master.css.map */

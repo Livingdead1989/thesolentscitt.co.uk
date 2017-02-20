@@ -36,7 +36,7 @@
         </div>
 
         <div class="large-4 columns show-for-large">
-          <img src="http://placehold.it/300x400" alt="">
+          <img src="images/scitt07.jpg" alt="">
         </div>
 
         <div class="large-8 column">
@@ -53,7 +53,7 @@
           <p>Three-quarters of new teachers now have a 1st or 2:1 degree – the highest proportion ever recorded.</p>
         </div>
         <div class="large-4 columns show-for-large">
-          <img src="http://placehold.it/300x400" alt="">
+          <img src="images/scitt05.jpg" alt="">
         </div>
 
 
@@ -70,11 +70,11 @@
         <!-- QUOTE -->
         <div class="row">
           <div class="medium-2 column">
-            <img class="circle" src="http://placehold.it/200" alt="">
+            <img class="circle" src="images/quotes/hpidgley.jpg" alt="">
           </div>
           <div class="medium-pull-2 medium-8 column">
-            <blockquote>Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.
-            <cite>Steve Jobs</cite>
+            <blockquote>Staff are incredibly helpful
+            <cite>Hannah Pidgley - SCITT Design &amp; Technology Trainee</cite>
             </blockquote>
           </div>
         </div>
@@ -82,11 +82,11 @@
         <!-- QUOTE -->
         <div class="row">
           <div class="medium-push-2 medium-2 column">
-            <img class="circle" src="http://placehold.it/200" alt="">
+            <img class="circle" src="images/quotes/wcole.jpg" alt="">
           </div>
           <div class="medium-8 column">
-            <blockquote>Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.
-            <cite>Steve Jobs</cite>
+            <blockquote>Excellent beyond expectation
+            <cite>Walter Cole - SCITT Maths Trainee</cite>
             </blockquote>
           </div>
         </div>
@@ -186,8 +186,8 @@
             <img class="circle" src="http://placehold.it/200" alt="">
           </div>
           <div class="medium-8 column">
-            <blockquote>Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.
-            <cite>Steve Jobs</cite>
+            <blockquote>The Solent SCITT has allowed me to develop as a teacher throughout my training and still continue to support me throughout my career. Their advice and assistance continues to be invaluable and has made me into the teacher that I strive to be.
+            <cite>Gemma Barrett</cite>
             </blockquote>
           </div>
         </div>
@@ -241,8 +241,8 @@
               <img class="circle" src="http://placehold.it/200" alt="">
             </div>
             <div class="medium-pull-2 medium-8 column">
-              <blockquote>Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.
-              <cite>Steve Jobs</cite>
+              <blockquote>… Growing collaboration between partnership schools, university and local subject networks help trainees to learn from good practice
+              <cite>Ofsted</cite>
               </blockquote>
             </div>
           </div>
@@ -253,8 +253,8 @@
               <img class="circle" src="http://placehold.it/200" alt="">
             </div>
             <div class="medium-8 column">
-              <blockquote>Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.
-              <cite>Steve Jobs</cite>
+              <blockquote>… All trainees are successful in gaining teaching posts in local schools
+              <cite>Ofsted</cite>
               </blockquote>
             </div>
           </div>
@@ -322,7 +322,7 @@
         <p><strong>Professional skills tests in literacy and numeracy need to be completed before starting training.</strong></p>
       </div>
       <div class="medium-6 large-5 columns">
-        <img src="http://lorempixel.com/500/400/people" alt="">
+        <img src="images/scitt08.jpg" alt="">
       </div>
       <div class="column">
         <p>The Solent SCITT and all partnership organisations are committed to safeguarding, promoting good welfare of pupils and expect all trainees to share this commitment. All successful candidates will be subject to enhanced Disclosure and Barring Service checks to review suitability of working with pupils.</p>

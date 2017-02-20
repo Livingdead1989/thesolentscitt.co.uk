@@ -26,7 +26,7 @@
         <!-- COURSE1 -->
         <div class="small-12 medium-6 large-3 column text-center">
           <div class="course-container">
-            <img class="course-img thumnbail" src="http://placehold.it/200" alt="">
+            <img class="course-img thumnbail" src="/images/scitt03.jpg" alt="">
             <p class="course-title">English</p>
             <p class="course-code"><small>SCITT Code</small><br>32QT</p>
             <p class="course-select"><a class="button" data-open="exampleModal1">View More!</a></p>
@@ -35,7 +35,7 @@
         <!-- COURSE2 -->
         <div class="small-12 medium-6 large-3 column text-center ">
           <div class="course-container">
-            <img class="course-img thumnbail" src="http://placehold.it/200" alt="">
+            <img class="course-img thumnbail" src="http://placehold.it/260x173" alt="">
             <p class="course-title">Physics</p>
             <p class="course-code"><small>SCITT Code</small><br>2CLX</p>
             <p class="course-select"><a class="button" data-open="exampleModal2">View More!</a></p>
@@ -44,7 +44,7 @@
         <!-- COURSE3 -->
         <div class="small-12 medium-6 large-3 column text-center ">
           <div class="course-container">
-            <img class="course-img thumnbail" src="http://placehold.it/200" alt="">
+            <img class="course-img thumnbail" src="/images/scitt06.jpg" alt="">
             <p class="course-title">DT</p>
             <p class="course-code"><small>SCITT Code</small><br>32QS</p>
             <p class="course-select"><a class="button" data-open="exampleModal3">View More!</a></p>
@@ -53,7 +53,7 @@
         <!-- COURSE4 -->
         <div class="small-12 medium-6 large-3 column text-center end">
           <div class="course-container">
-            <img class="course-img thumnbail" src="http://placehold.it/200" alt="">
+            <img class="course-img thumnbail" src="/images/scitt02.jpg" alt="">
             <p class="course-title">Computer Science</p>
             <p class="course-code"><small>SCITT Code</small><br>2CLQ</p>
             <p class="course-select"><a class="button" data-open="exampleModal4">View More!</a></p>
@@ -61,7 +61,7 @@
         </div>
 
         <!-- MODAL1 -->
-        <div class="reveal" id="exampleModal1" data-reveal>
+        <div class="large reveal" id="exampleModal1" data-reveal>
           <h1>English</h1>
           <p class="lead">Why English?</p>
           <p>Read a book that has changed you? Used writing as a therapy? English is an expressive art form, which can change people. Your passion and enthusiasm for English could show pupils the power of effective speaking, listening and writing for different audience and purpose.</p>
@@ -90,7 +90,7 @@
           </button>
         </div>
         <!-- MODAL2 -->
-        <div class="reveal" id="exampleModal2" data-reveal>
+        <div class="large reveal" id="exampleModal2" data-reveal>
           <h1>SUBJECT</h1>
           <p class="lead">Why Subject?</p>
           <p>BLAH</p>
@@ -116,7 +116,7 @@
           </button>
         </div>
         <!-- MODAL3 -->
-        <div class="reveal" id="exampleModal3" data-reveal>
+        <div class="large reveal" id="exampleModal3" data-reveal>
           <h1>SUBJECT</h1>
           <p class="lead">Why Subject?</p>
           <p>BLAH</p>
@@ -142,7 +142,7 @@
           </button>
         </div>
         <!-- MODAL4 -->
-        <div class="reveal" id="exampleModal4" data-reveal>
+        <div class="large reveal" id="exampleModal4" data-reveal>
           <h1>SUBJECT</h1>
           <p class="lead">Why Subject?</p>
           <p>BLAH</p>
