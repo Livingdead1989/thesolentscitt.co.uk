@@ -13,25 +13,25 @@
     <div id="page-header">
       <header class="row">
         <div class="columns">
-          <h1>About Us</h1>
-          <p>Let us introduce ourselves</p>
+          <h1 class="capitalize">About Us</h1>
+          <p class="capitalize">Let us introduce ourselves</p>
         </div>
       </header>
     </div>
 
     <section class="row">
-      <div class="medium-6 columns">
+      <div class="large-6 columns">
         <h2>About the SCITT</h2>
         <p>Now in its 4th year the Solent SCITT based at Park Community School is enjoying its most diverse class of trainee teachers yet.</p>
         <p>Ranging in age from 25 to 54 the student teachers have one thing in common – a desire to teach and inspire the next generation. <br>For some this has meant a continuation from a degree and for others a complete change of career.</p>
         <p>In the case of Walter Cole, who has moved across the globe from Sydney, the course so far has been <em>“excellent beyond expectation”</em>.</p>
       </div>
-      <div class="medium-6 columns">
+      <div class="small-8 small-pull-2 large-pull-0 large-6 columns">
         <img src="images/logo/TheSolentSCITT.svg" alt="The Solent SCITT Logo">
       </div>
     </section>
 
-    <div class="accent-bg">
+    <div class="accent-bg team-wrap">
       <section class="row">
         <div class="columns">
           <h2>Meet the team</h2>
@@ -61,15 +61,15 @@
             <!-- PERSON 4 -->
             <div class="column text-center">
               <a data-open="exampleModal4">
-                <img class="circle" src="images/team/2.jpg" alt="">
-                <p>Mr C Holder</p>
+                <img class="circle" src="images/team/Lowe.jpg" alt="">
+                <p>J Lowe</p>
               </a>
             </div>
             <!-- PERSON 5 -->
             <div class="column text-center">
               <a data-open="exampleModal5">
-                <img class="circle" src="images/team/3.jpg" alt="">
-                <p>Mr D Holder</p>
+                <img class="circle" src="images/team/Wood.jpg" alt="">
+                <p>J Wood</p>
               </a>
             </div>
 
@@ -127,19 +127,18 @@
     </div>
 
     <section class="row" id="successes">
-      <div class="large-8 columns">
+      <div class="large-6 columns">
         <h2>Our Successes</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
         <ul>
-          <li>Founded - The Solent SCITT was founded in December 2012.</li>
+          <li>The Solent SCITT was founded in December 2012.</li>
           <li>100% of our trainees have secured employment on completion of their training</li>
           <li>Graded 'Good' by <a href="//reports.ofsted.gov.uk/inspection-reports/find-inspection-report/provider/ELS/70281" target="_blank">Ofsted</a> in October 2015</li>
           <li>Incorporating primary places in partnership with <a href="//thesolenttsa.co.uk/" target="_blank">The Solent TSA</a> from September 2016</li>
           <li>All partnership schools used in 2016/17 are graded as 'Good' by Ofsted</li>
         </ul>
       </div>
-      <div class="large-4 columns">
-        <img src="http://placekitten.com/400/300?image=2" alt="">
+      <div class="small-8 small-pull-2 large-pull-0 large-6 columns">
+        <img src="images/scitt01.jpg" alt="">
       </div>
     </section>
     <!-- Back to Top -->

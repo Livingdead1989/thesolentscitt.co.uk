@@ -1,18 +1,28 @@
 // BASE
+img
+  border-radius: 2px
+.capitalize
+  text-transform: capitalize
 body
   font-family: $font-stack
   color: $font-color
-  a:hover, a:focus, a:active
-    color: $accent-color
-    transition: color .2s ease-out
-  .accent-bg a:hover, .accent-bg a:focus, .accent-bg a:active
+a, a svg
+  color: $accent-color
+  fill: $accent-color
+  &:hover, &:focus, &:active
     color: $primary-color
+    fill: $primary-color
+    transition: color .2s ease-out
+.dropdown.menu>li.is-dropdown-submenu-parent>a:after
+  border-color: $accent-color transparent transparent
+.accent-bg a:hover, .accent-bg a:focus, .accent-bg a:active
+  color: $primary-color
 #page-header
   background-color: $primary-color
   padding: 20px 0 30px 0
   h1, h2, p
     margin: 0
-    color: #FFFFFF
+    color: $font-lightcolor
   p
     margin-top: -10px
 .thumbnail
@@ -23,12 +33,14 @@ body
   margin-top: -15px
   text-transform: capitalize
 section
-  padding-top: 25px
-  padding-bottom: 25px
+  padding-top: 20px
+  padding-bottom: 20px
+  margin-top: 20px
+  margin-bottom: 20px
 .accent-bg
-  background-color: $accent-color
+  background-color: $gray-color
   blockquote, blockquote p, cite
-    color: $font-color
-    border-left-color: $font-color
+    color: $font-lightcolor
+    border-left-color: $font-lightcolor
 .circle
   border-radius: 50%

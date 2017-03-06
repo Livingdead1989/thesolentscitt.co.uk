@@ -11,7 +11,7 @@
   display: flex
   flex-direction: column
   justify-content: center
-  align-items: flex-start
+  align-items: center
   padding-top: 30px
   padding-bottom: 50px
   color: white
@@ -20,33 +20,39 @@
     padding-left: 30px
     margin-bottom: 0
     text-transform: capitalize
+    text-align: center
     font-weight: 900
-    text-shadow: 3px 2px 2px #111
+    text-shadow: 3px 2px 2px #000
   h1, h2, h3
     font-size: 3.5em
   p
     font-size: 1.5em
 .hp-hero-prim
-  background-image: url("/images/scittapple.jpg")
-  color: $accent-color
+  background-image: url("/images/scitt04.jpg")
+  // color: $primary-color
+  color: $primary-color
 .hp-hero-sec
-  background-image: url("/images/scitt05.jpg")
+  background-image: url("/images/scitt04.jpg")
+  // color: $primary-color
   color: $primary-color
 
 #hp-qlandpromo
   .hp-slogan-container
     background-color: $primary-color
+    margin-bottom: 30px
     .hp-slogan
       padding: 70px 40px 55px 40px
       text-align: center
       text-transform: capitalize
       font-size: 1.5em
       font-weight: 900
-      color: lighten($font-color, 15)
+      color: $font-lightcolor
       &>span a
-        color: lighten($font-color, 20)
+        color: $font-lightcolor
         font-weight: 400
         font-size: 80%
-.quadbox-container > div img
-  width: 355px
-  height: 232.41px
+  .quicklinks-container
+    .quicklink
+      a svg
+        height: 130px
+        box-shadow: none

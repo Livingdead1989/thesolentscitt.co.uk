@@ -13,8 +13,8 @@
     <div id="page-header">
       <header class="row">
         <div class="columns">
-          <h1>Becoming a Teacher</h1>
-          <p>Start your journey with us</p>
+          <h1 class="capitalize">Becoming A Teacher</h1>
+          <p class="capitalize">Start your journey with us</p>
         </div>
       </header>
     </div>
@@ -24,7 +24,7 @@
         <h2>Why become a teacher?</h2>
         <p>The top reasons for choosing a career in teaching</p>
 
-        <div class="large-8 columns">
+        <div class="large-9 columns">
           <h4>Teachers are in demand</h4>
           <p>Latest data shows that 9 out of 10 new teachers who want to teach found teaching jobs in the first 12 months. 95% of primary trained NQTs and 94% of secondary trained respondents were in employment in first 12 months.</p>
 
@@ -35,11 +35,11 @@
           <p>The leading practitioner pay range from 1 September 2014 applies to qualified teachers who are employed in posts that the relevant body has determined have the primary purpose of modelling and leading improvement of teaching skills.</p>
         </div>
 
-        <div class="large-4 columns show-for-large">
-          <img src="images/scitt07.jpg" alt="">
+        <div class="large-3 columns show-for-large">
+          <img src="images/scitt07-portrait.jpg" alt="">
         </div>
 
-        <div class="large-8 column">
+        <div class="large-9 column">
           <h4>Up to £25,000 tax-free to train</h4>
           <p>Bursaries are available for trainees on eligible postgraduate courses in England. Bursary amounts will vary depending on teaching subject and degree class or highest relevant academic qualification.</p>
 
@@ -52,8 +52,8 @@
           <h4>Career for achievers</h4>
           <p>Three-quarters of new teachers now have a 1st or 2:1 degree – the highest proportion ever recorded.</p>
         </div>
-        <div class="large-4 columns show-for-large">
-          <img src="images/scitt05.jpg" alt="">
+        <div class="large-3 columns show-for-large">
+          <img src="images/scitt08-portrait.jpg" alt="">
         </div>
 
 
@@ -70,27 +70,14 @@
         <!-- QUOTE -->
         <div class="row">
           <div class="medium-2 column">
-            <img class="circle" src="images/quotes/hpidgley.jpg" alt="">
+            <img class="circle" src="images/quotes/gbarrett.jpg" alt="">
           </div>
-          <div class="medium-pull-2 medium-8 column">
-            <blockquote>Staff are incredibly helpful
-            <cite>Hannah Pidgley - SCITT Design &amp; Technology Trainee</cite>
+          <div class="medium-8 medium-pull-2 column">
+            <blockquote>The Solent SCITT has allowed me to develop as a teacher throughout my training and still continue to support me throughout my career. Their advice and assistance continues to be invaluable and has made me into the teacher that I strive to be.
+            <cite>Gemma Barrett - Maths Teacher</cite>
             </blockquote>
           </div>
         </div>
-        <br>
-        <!-- QUOTE -->
-        <div class="row">
-          <div class="medium-push-2 medium-2 column">
-            <img class="circle" src="images/quotes/wcole.jpg" alt="">
-          </div>
-          <div class="medium-8 column">
-            <blockquote>Excellent beyond expectation
-            <cite>Walter Cole - SCITT Maths Trainee</cite>
-            </blockquote>
-          </div>
-        </div>
-        <br>
       </div>
     </section>
 </div>
@@ -182,24 +169,12 @@
       <div class="columns">
         <!-- QUOTE -->
         <div class="row">
-          <div class="medium-push-2 medium-2 column">
-            <img class="circle" src="http://placehold.it/200" alt="">
-          </div>
-          <div class="medium-8 column">
-            <blockquote>The Solent SCITT has allowed me to develop as a teacher throughout my training and still continue to support me throughout my career. Their advice and assistance continues to be invaluable and has made me into the teacher that I strive to be.
-            <cite>Gemma Barrett</cite>
-            </blockquote>
-          </div>
-        </div>
-        <br>
-        <!-- QUOTE -->
-        <div class="row ">
           <div class="medium-2 column">
-            <img class="circle" src="http://placehold.it/200" alt="">
+            <img class="circle" src="images/quotes/hpidgley.jpg" alt="">
           </div>
           <div class="medium-pull-2 medium-8 column">
-            <blockquote>Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.
-            <cite>Steve Jobs</cite>
+            <blockquote>Staff are incredibly helpful
+            <cite>Hannah Pidgley - SCITT Design &amp; Technology Trainee</cite>
             </blockquote>
           </div>
         </div>
@@ -238,33 +213,20 @@
           <!-- QUOTE -->
           <div class="row">
             <div class="medium-2 column">
-              <img class="circle" src="http://placehold.it/200" alt="">
+              <img class="circle" src="images/quotes/ofsted.jpg" alt="">
             </div>
             <div class="medium-pull-2 medium-8 column">
-              <blockquote>… Growing collaboration between partnership schools, university and local subject networks help trainees to learn from good practice
+              <blockquote>… Growing collaboration between partnership schools, university and local subject networks help trainees to learn from good practice<br>… All trainees are successful in gaining teaching posts in local schools
               <cite>Ofsted</cite>
               </blockquote>
             </div>
           </div>
-          <br>
-          <!-- QUOTE -->
-          <div class="row">
-            <div class="medium-push-2 medium-2 column">
-              <img class="circle" src="http://placehold.it/200" alt="">
-            </div>
-            <div class="medium-8 column">
-              <blockquote>… All trainees are successful in gaining teaching posts in local schools
-              <cite>Ofsted</cite>
-              </blockquote>
-            </div>
-          </div>
-          <br>
         </div>
       </section>
   </div>
 
     <section class="row">
-      <div class="medium-6 large-7 columns">
+      <div class="large-9 columns">
         <h2 id="applybecometeacher">Apply to become a teacher</h2>
         <p>The process could not be simpler! Log on to UCAS Teacher Training</p>
         <ul class="vertical menu" data-accordion-menu>
@@ -321,8 +283,8 @@
         <br>
         <p><strong>Professional skills tests in literacy and numeracy need to be completed before starting training.</strong></p>
       </div>
-      <div class="medium-6 large-5 columns">
-        <img src="images/scitt08.jpg" alt="">
+      <div class="hide-for-small-only hide-for-medium-only large-3 columns">
+        <img src="images/scitt01-portrait.jpg" alt="">
       </div>
       <div class="column">
         <p>The Solent SCITT and all partnership organisations are committed to safeguarding, promoting good welfare of pupils and expect all trainees to share this commitment. All successful candidates will be subject to enhanced Disclosure and Barring Service checks to review suitability of working with pupils.</p>

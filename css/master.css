@@ -1,12 +1,27 @@
+img {
+  border-radius: 2px; }
+
+.capitalize {
+  text-transform: capitalize; }
+
 body {
   font-family: "Roboto", sans-serif;
   color: #111111; }
-  body a:hover, body a:focus, body a:active {
-    color: #FEB348;
+
+a, a svg {
+  color: #FEB348;
+  fill: #FEB348; }
+  a:hover, a:focus, a:active, a svg:hover, a svg:focus, a svg:active {
+    color: #51BDEB;
+    fill: #51BDEB;
     -webkit-transition: color 0.2s ease-out;
             transition: color 0.2s ease-out; }
-  body .accent-bg a:hover, body .accent-bg a:focus, body .accent-bg a:active {
-    color: #51BDEB; }
+
+.dropdown.menu > li.is-dropdown-submenu-parent > a:after {
+  border-color: #FEB348 transparent transparent; }
+
+.accent-bg a:hover, .accent-bg a:focus, .accent-bg a:active {
+  color: #51BDEB; }
 
 #page-header {
   background-color: #51BDEB;
@@ -27,14 +42,16 @@ body {
   text-transform: capitalize; }
 
 section {
-  padding-top: 25px;
-  padding-bottom: 25px; }
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px; }
 
 .accent-bg {
-  background-color: #FEB348; }
+  background-color: #474747; }
   .accent-bg blockquote, .accent-bg blockquote p, .accent-bg cite {
-    color: #111111;
-    border-left-color: #111111; }
+    color: #FFFFFF;
+    border-left-color: #FFFFFF; }
 
 .circle {
   border-radius: 50%; }
@@ -84,10 +101,10 @@ section {
   -webkit-justify-content: center;
       -ms-flex-pack: center;
           justify-content: center;
-  -webkit-box-align: start;
-  -webkit-align-items: flex-start;
-      -ms-flex-align: start;
-          align-items: flex-start;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
   padding-top: 30px;
   padding-bottom: 50px;
   color: white;
@@ -96,38 +113,39 @@ section {
     padding-left: 30px;
     margin-bottom: 0;
     text-transform: capitalize;
+    text-align: center;
     font-weight: 900;
-    text-shadow: 3px 2px 2px #111; }
+    text-shadow: 3px 2px 2px #000; }
   .hero h1, .hero h2, .hero h3 {
     font-size: 3.5em; }
   .hero p {
     font-size: 1.5em; }
 
 .hp-hero-prim {
-  background-image: url("/images/scittapple.jpg");
-  color: #FEB348; }
+  background-image: url("/images/scitt04.jpg");
+  color: #51BDEB; }
 
 .hp-hero-sec {
-  background-image: url("/images/scitt05.jpg");
+  background-image: url("/images/scitt04.jpg");
   color: #51BDEB; }
 
 #hp-qlandpromo .hp-slogan-container {
-  background-color: #51BDEB; }
+  background-color: #51BDEB;
+  margin-bottom: 30px; }
   #hp-qlandpromo .hp-slogan-container .hp-slogan {
     padding: 70px 40px 55px 40px;
     text-align: center;
     text-transform: capitalize;
     font-size: 1.5em;
     font-weight: 900;
-    color: #373737; }
+    color: #FFFFFF; }
     #hp-qlandpromo .hp-slogan-container .hp-slogan > span a {
-      color: #444444;
+      color: #FFFFFF;
       font-weight: 400;
       font-size: 80%; }
-
-.quadbox-container > div img {
-  width: 355px;
-  height: 232.41px; }
+#hp-qlandpromo .quicklinks-container .quicklink a svg {
+  height: 130px;
+  box-shadow: none; }
 
 @media screen and (max-width: 39.9375em) {
   footer {
@@ -177,9 +195,14 @@ footer {
   .course-container * {
     list-style: none;
     line-height: 1; }
-  .course-container .course-img {
-    text-align: center;
+  .course-container .course-image {
     width: 100%; }
+    .course-container .course-image svg {
+      height: 150px;
+      padding: 15px 5px;
+      fill: #474747; }
+      .course-container .course-image svg.active {
+        fill: #51BDEB; }
   .course-container .course-title {
     background-color: #333333;
     color: #EEEEEE;
@@ -211,10 +234,15 @@ footer {
       -webkit-filter: grayscale(30%);
               filter: grayscale(30%); }
 
+.team-wrap {
+  padding: 20px 0; }
+
 .team-container > div img {
   width: 200px;
-  height: 200px;
-  -webkit-filter: grayscale(90%);
-          filter: grayscale(90%); }
+  height: auto;
+  -webkit-filter: grayscale(50%);
+          filter: grayscale(50%); }
+.team-container > div p {
+  color: #111111; }
 
 /*# sourceMappingURL=master.css.map */

@@ -13,8 +13,8 @@
     <div id="page-header">
       <header class="row">
         <div class="columns">
-          <h1>How to contact us</h1>
-          <p>We'd love to hear from you</p>
+          <h1 class="capitalize">How To Contact Us</h1>
+          <p class="capitalize">We'd love to hear from you</p>
         </div>
       </header>
     </div>
@@ -24,24 +24,29 @@
         <h2>Contact Information</h2>
         <ul class="no-bullet">
           <li>Telephone Number: 02392 489 819</li>
-          <li>Fax Number: 0000 000 000</li>
-          <li>Info Email: <a href="#">info@thesolentscitt.co.uk</a></li>
-          <li>Sales Email: <a href="#">sales@thesolentscitt.co.uk</a></li>
-          <li>Mentor Email: <a href="#">mentor@thesolentscitt.co.uk</a></li>
+          <li>Info Email: <a href="javascript:location='mailto:\u0069\u006e\u0066\u006f\u0040\u0074\u0068\u0065\u0073\u006f\u006c\u0065\u006e\u0074\u0073\u0063\u0069\u0074\u0074\u002e\u0063\u006f\u002e\u0075\u006b';void 0"><script type="text/javascript">document.write('\u0069\u006e\u0066\u006f\u0040\u0074\u0068\u0065\u0073\u006f\u006c\u0065\u006e\u0074\u0073\u0063\u0069\u0074\u0074\u002e\u0063\u006f\u002e\u0075\u006b')</script></a></li>
+          <br>
+          <li>
+            <a href="//twitter.com/thesolentscitt" target="_blank" class="hollow button"><i class="fa fa-twitter"></i> Twitter</a>
+            <a href="//www.facebook.com/pages/The-Solent-SCITT/422876271129768" target="_blank" class="hollow button"><i class="fa fa-facebook"></i> Facebook</a>
+          </li>
         </ul>
         <h2>How to find us</h2>
         <ul class="no-bullet">
           <li>The Solent SCITT</li>
+          <li>Dickinson Centre</li>
           <li>c/o Park Community School</li>
           <li>143 Middle Park Way</li>
-          <li>PO9 4DQ</li>
+          <li>PO9 4BU</li>
+          <li>SatNav: PO9 4DQ</li>
         </ul>
       </div>
       <div class="large-7 columns text-center">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2517.924934151751!2d-1.0030686342533546!3d50.86958942953536!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48744493ccc89649%3A0x4440ca57a28cadf4!2sHavant+PO9+4BU!5e0!3m2!1sen!2suk!4v1481638778441" width="600" height="450" frameborder="0" allowfullscreen></iframe>
+        <div class="flex-video">
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2517.924934151751!2d-1.0030686342533546!3d50.86958942953536!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48744493ccc89649%3A0x4440ca57a28cadf4!2sHavant+PO9+4BU!5e0!3m2!1sen!2suk!4v1481638778441" frameborder="0" allowfullscreen></iframe>
+        </div>
       </div>
     </section>
-
     <!-- School Logo -->
     <div class="accent-bg">
       <section class="row">
