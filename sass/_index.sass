@@ -17,28 +17,28 @@
   color: white
   background-color: $lightgraybg
   h1, h2, p
-    padding-left: 30px
     margin-bottom: 0
-    text-transform: capitalize
-    text-align: center
     font-weight: 900
-    text-shadow: 3px 2px 2px #000
+    // text-shadow: 3px 2px 2px #000
   h1, h2, h3
     font-size: 3.5em
   p
     font-size: 1.5em
 .hp-hero-prim
-  background-image: url("/images/scitt04.jpg")
-  // color: $primary-color
-  color: $primary-color
+  background-image: url("/images/scitt04hero.jpg")
+  background-position: bottom center
+  color: $secondary-color
+  text-align: center
+  text-shadow: -1px -1px 0 #000000
 .hp-hero-sec
-  background-image: url("/images/scitt04.jpg")
-  // color: $primary-color
-  color: $primary-color
+  background-image: url("/images/apple.jpg")
+  background-position: top right
+  color: $secondary-color
+  align-items: flex-start
 
 #hp-qlandpromo
   .hp-slogan-container
-    background-color: $primary-color
+    background-color: $secondary-color
     margin-bottom: 30px
     .hp-slogan
       padding: 70px 40px 55px 40px
@@ -53,6 +53,13 @@
         font-size: 80%
   .quicklinks-container
     .quicklink
-      a svg
-        height: 130px
+      a
+        color: $gray-color
+        &:hover, &:focus, &:active
+          color: $accent-color
+      & svg
+        height: 90px
         box-shadow: none
+        fill: $gray-color
+        &:hover, &:focus, &:active
+          fill: $accent-color

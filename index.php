@@ -123,7 +123,7 @@
 
         <div class="medium-6 columns text-center">
           <a href="//getintoteaching.education.gov.uk/funding-and-salary/overview" target="_blank">
-            <img class="thumbnail" src="http://placehold.it/1920x1080" alt="">
+            <img class="thumbnail" src="images/logo/dfe.jpg" alt="">
             <p class="thumbnail-caption">DfE Bursary Information</p>
           </a>
         </div>

@@ -41,7 +41,7 @@
           <li>SatNav: PO9 4DQ</li>
         </ul>
       </div>
-      <div class="large-7 columns text-center">
+      <div class="small-pull-1 small-10 large-pull-0 large-7 columns text-center">
         <div class="flex-video">
           <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2517.924934151751!2d-1.0030686342533546!3d50.86958942953536!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48744493ccc89649%3A0x4440ca57a28cadf4!2sHavant+PO9+4BU!5e0!3m2!1sen!2suk!4v1481638778441" frameborder="0" allowfullscreen></iframe>
         </div>
@@ -53,19 +53,31 @@
         <div class="column text-center">
           <h2>Partnership Schools</h2>
         </div>
-        <!-- School1 -->
-        <div class="small-12 medium-4 column contact-schools">
+        <!-- Major Partners -->
+        <div class="small-4 medium-4 column contact-schools">
           <a href="//www.pcs.hants.sch.uk/" target="_blank"><img src="images/logo/pcs-logo.png" alt=""></a>
         </div>
-
-        <!-- School2 -->
-        <div class="small-12 medium-4 column contact-schools">
+        <div class="small-4 medium-4 column contact-schools">
             <a href="//www.horndeantc.hants.sch.uk/" target="_blank"><img src="images/logo/htc-logo.png" alt=""></a>
         </div>
-
-        <!-- School3 -->
-        <div class="small-12 medium-4 column contact-schools end">
+        <div class="small-4 medium-4 column contact-schools">
             <a href="//www.warblington.hants.sch.uk/" target="_blank"><img src="images/logo/warblington-logo.png" alt=""></a>
+        </div>
+        <!-- Minor Partners -->
+        <div class="small-3 medium-3 large-push-2 large-2 column contact-schools">
+          <a href="//www.crookhorn.hants.sch.uk/" target="_blank"><img src="images/logo/crookhorn-logo.png" alt=""></a>
+        </div>
+
+        <div class="small-3 medium-3 large-push-2 large-2 column contact-schools">
+          <a href="//www.havant-tkat.org/" target="_blank"><img src="images/logo/havantacademy-logo.png" alt=""></a>
+        </div>
+
+        <div class="small-3 medium-3 large-push-2 large-2 column contact-schools">
+          <a href="//thesolenttsa.co.uk/" target="_blank"><img src="images/logo/tsa-logo.png" alt=""></a>
+        </div>
+
+        <div class="small-3 medium-3 large-push-2 large-2 end column contact-schools">
+          <a href="//www.pcs.hants.sch.uk/" target="_blank"><img src="images/logo/pcs-logo.png" alt=""></a>
         </div>
 
 

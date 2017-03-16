@@ -69,7 +69,7 @@
       <div class="columns">
         <!-- QUOTE -->
         <div class="row">
-          <div class="medium-2 column">
+          <div class="small-push-3 small-6 medium-push-0 medium-2 column">
             <img class="circle" src="images/quotes/gbarrett.jpg" alt="">
           </div>
           <div class="medium-8 medium-pull-2 column">
@@ -153,7 +153,7 @@
         <p><strong>In addition:</strong></p>
         <p>As well as meeting the above criteria It is important that you can demonstrate an ability to work independently as well as being an effective team member. You will need to be hard working, committed and resilient, all qualities which will be sought after during the selection process.</p>
         <p>Applications should be made through UCAS Teacher Training via the button below.</p>
-        <button type="button" name="button" class="button">BIG BUTTON</button>
+        <a class="button" href="//www.ucas.com/ucas/teacher-training/ucas-teacher-training-apply-and-track" target="_blank">UCAS Teacher Training</a>
         <p>Apply here using the following information:</p>
         <p><strong>The Solent SCITT: Location code S56</strong></p>
 
@@ -169,11 +169,11 @@
       <div class="columns">
         <!-- QUOTE -->
         <div class="row">
-          <div class="medium-2 column">
+          <div class="small-push-3 small-6 medium-push-0 medium-2 column">
             <img class="circle" src="images/quotes/hpidgley.jpg" alt="">
           </div>
           <div class="medium-pull-2 medium-8 column">
-            <blockquote>Staff are incredibly helpful
+            <blockquote>SCITT staff have been incredibly helpful all the way through the course. They all have years of teaching experience and cater for any extra training needs we have as a group. I made the right choice in choosing this pathway into teaching as their support and encouragement has helped me to push myself to be the best teacher I can be. I have now secured my first teaching job in the local area and cannot wait to get started. 
             <cite>Hannah Pidgley - SCITT Design &amp; Technology Trainee</cite>
             </blockquote>
           </div>
@@ -212,7 +212,7 @@
         <div class="columns">
           <!-- QUOTE -->
           <div class="row">
-            <div class="medium-2 column">
+            <div class="small-push-3 small-6 medium-push-0 medium-2 column">
               <img class="circle" src="images/quotes/ofsted.jpg" alt="">
             </div>
             <div class="medium-pull-2 medium-8 column">

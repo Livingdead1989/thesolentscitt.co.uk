@@ -14,36 +14,49 @@
       <header class="row">
         <div class="columns">
           <h1 class="capitalize">Course Information</h1>
-          <p class="capitalize">BLAH</p>
+          <p class="capitalize">All the courses we provide</p>
         </div>
       </header>
     </div>
 
     <section class="row">
+      <div class="toggleSwitch">
+        <p>Hide Unavailable Courses:</p>
+        <div class="switch">
+          <input class="switch-input" id="hideUnavailable" type="checkbox" name="hideUnavailable">
+          <label class="switch-paddle" for="hideUnavailable">
+            <span class="show-for-sr">Hide Unavailable Courses</span>
+          </label>
+        </div>
+      </div>
+
+
       <div class="column">
 
 
         <!-- COURSE1 -->
-        <div class="small-12 medium-6 large-3 column text-center">
+        <div class="medium-6 large-3 column text-center">
           <div class="course-container">
+            <p class="course-title">English</p>
             <div class="course-image">
-              <svg viewBox="0 0 197.5 189" class="active">
+              <svg viewBox="0 0 197.5 189">
               	<path d="M185.8,30c-10,39-28,103-38,135c-0.9,3-5.8,9-9,9c-23,0-93,0-114,0c-10,0-14-15-5-15c19,0,71,0,107,0
               		c3.7,0,10-6.4,11-10c9-34,27-98,36-134c1.1-4.2,0.1-15-9-15c-29,0-82,0-110,0c-4,0-12,5.2-13,9c-8,31-29,106.8-40,142
               		c-5,16,0,38,24,38c18,0,89-1,123,0c4.1,0.1,11.1-7,12-11c7-31,26.9-101,36-135C200.8,28,186.9,25.5,185.8,30z M120.6,50H76.3l1.8-7
               		h43.7L120.6,50z M67.8,29h73l-2,7h-74L67.8,29z"/>
               </svg>
             </div>
-            <p class="course-title">English</p>
+
             <p class="course-code"><small>SCITT Code</small><br>32QT</p>
-            <p class="course-select"><a class="button" data-open="exampleModal1">View More!</a></p>
+            <p class="course-select"><a class="button accentbutton" data-open="exampleModal1">Course Details</a></p>
           </div>
         </div>
         <!-- COURSE2 -->
-        <div class="small-12 medium-6 large-3 column text-center ">
+        <div class="medium-6 large-3 column text-center ">
           <div class="course-container">
+            <p class="course-title">Physics</p>
             <div class="course-image">
-              <svg viewBox="0 0 310 289" class="active">
+              <svg viewBox="0 0 310 289">
               <g>
               	<path d="M304.9,157.2c0.6-2.5,0.9-5,0.9-7.5c-0.1-21.7-22.7-40.8-57.9-53.2c7.6-37.7,2.6-67.9-16.5-79.1
               		c-19.1-11.2-48.1-0.9-77.4,24.4c-8.5-7.6-17-13.9-25.3-18.6c0-0.4,0-0.8,0-1.1c0-12.2-9.8-22-22-22c-9.3,0-17.2,5.8-20.5,13.9
@@ -74,16 +87,16 @@
               </g>
               </svg>
             </div>
-            <p class="course-title">Physics</p>
             <p class="course-code"><small>SCITT Code</small><br>2CLX</p>
-            <p class="course-select"><a class="button" data-open="exampleModal2">View More!</a></p>
+            <p class="course-select"><a class="button accentbutton" data-open="exampleModal2">Course Details</a></p>
           </div>
         </div>
         <!-- COURSE3 -->
-        <div class="small-12 medium-6 large-3 column text-center ">
+        <div class="medium-6 large-3 column text-center ">
           <div class="course-container">
+            <p class="course-title">Design Technology</p>
             <div class="course-image">
-              <svg viewBox="0 0 76.4 77.4" class="active">
+              <svg viewBox="0 0 76.4 77.4">
               	<path d="M63.7,4.7c-3-3-6,0-6,0l-49,50l14,14l50-51c0,0,2-2,0-4S65.7,6.7,63.7,4.7z M64.7,22.7l-11-11l3-3l11,11
               		L64.7,22.7z"/>
               	<g>
@@ -97,16 +110,16 @@
               	<path d="M7.7,56.7l13,13c0,0-17,6-18,5S7.7,56.7,7.7,56.7z"/>
               </svg>
             </div>
-            <p class="course-title">Design Technology</p>
             <p class="course-code"><small>SCITT Code</small><br>32QS</p>
-            <p class="course-select"><a class="button" data-open="exampleModal3">View More!</a></p>
+            <p class="course-select"><a class="button accentbutton" data-open="exampleModal3">Course Details</a></p>
           </div>
         </div>
         <!-- COURSE4 -->
-        <div class="small-12 medium-6 large-3 column text-center">
+        <div class="medium-6 large-3 column text-center">
           <div class="course-container">
+            <p class="course-title">Computer Science</p>
             <div class="course-image">
-              <svg viewBox="0 0 148 148" class="active">
+              <svg viewBox="0 0 148 148">
               	<rect x="30.5" y="30.5" width="87" height="87"/>
               	<rect x="41" width="5" height="20"/>
               	<rect x="61" width="5" height="20"/>
@@ -126,28 +139,28 @@
               	<rect y="102" width="20" height="5"/>
               </svg>
             </div>
-            <p class="course-title">Computer Science</p>
             <p class="course-code"><small>SCITT Code</small><br>2CLQ</p>
-            <p class="course-select"><a class="button" data-open="exampleModal4">View More!</a></p>
+            <p class="course-select"><a class="button accentbutton" data-open="exampleModal4">Course Details</a></p>
           </div>
         </div>
         <!-- COURSE5 -->
-        <div class="small-12 medium-6 large-3 column text-center">
+        <div class="medium-6 large-3 column text-center inactive">
           <div class="course-container">
+            <p class="course-title">History</p>
             <div class="course-image">
               <svg viewBox="0 0 300.65 284">
                 <path d="M158.94,3A139,139,0,0,0,22,116.49c-.17.94-9.75-.07-17.37.12a1.67,1.67,0,0,0-1.3,2.66L30,163.42a5,5,0,0,0,7.41.75c9.52-8.74,23.11-35.92,28.58-44.53a1.69,1.69,0,0,0-1.45-2.6c-5.47.06-16.24.14-16.17-.17A112.53,112.53,0,0,1,159.65,29c61.65.8,111.52,51.8,111,113.46A112.51,112.51,0,0,1,65.55,205.4c-.55-.79-1.07-1.6-1.6-2.4H33.73c.36.75.72,1.49,1.1,2.23A139,139,0,0,0,297.65,141C297.11,65,234.88,3.15,158.94,3Z"/>
                 <polygon points="150.65 54 150.65 147 216.65 185 223.65 174 163.65 139 163.65 54 150.65 54"/>
               </svg>
             </div>
-            <p class="course-title">History</p>
             <p class="course-code"><small>SCITT Code</small><br>Unavailable</p>
-            <p class="course-select"><a class="button" data-open="exampleModal5">View More!</a></p>
+            <p class="course-select"><a class="button accentbutton" data-open="exampleModal5">Course Details</a></p>
           </div>
         </div>
         <!-- COURSE6 -->
-        <div class="small-12 medium-6 large-3 column text-center">
+        <div class="medium-6 large-3 column text-center inactive">
           <div class="course-container">
+            <p class="course-title">Geography</p>
             <div class="course-image">
               <svg viewBox="0 0 126 147">
               	<path d="M111.4,96.5c0.2-0.2,0.4-0.4,0.5-0.6c-1.1-1.4-2.4-3.4-2.9-5.9c-0.4-1.8-5.5,1-7,0c-1.5-1-1.8-5.4-1-7
@@ -165,14 +178,14 @@
               		C118.7,104.7,113.4,98.8,111.4,96.5z"/>
               </svg>
             </div>
-            <p class="course-title">Geography</p>
             <p class="course-code"><small>SCITT Code</small><br>Unavailable</p>
-            <p class="course-select"><a class="button" data-open="exampleModal6">View More!</a></p>
+            <p class="course-select"><a class="button accentbutton" data-open="exampleModal6">Course Details</a></p>
           </div>
         </div>
         <!-- COURSE7 -->
-        <div class="small-12 medium-6 large-3 column text-center">
+        <div class="medium-6 large-3 column text-center inactive">
           <div class="course-container">
+            <p class="course-title">Dance</p>
             <div class="course-image">
               <svg viewBox="0 0 329.1 334">
               	<path d="M214.8,112.5c0,0-14.4-25.4-19-34c-7-13-26-4-18,13c4.4,9.3,16.4,29.8,23,42c7,13,19,4,19,4l16-11l-2,52
@@ -188,14 +201,14 @@
               	<circle cx="95.8" cy="44.5" r="29"/>
               </svg>
             </div>
-            <p class="course-title">Dance</p>
             <p class="course-code"><small>SCITT Code</small><br>Unavailable</p>
-            <p class="course-select"><a class="button" data-open="exampleModal7">View More!</a></p>
+            <p class="course-select"><a class="button accentbutton" data-open="exampleModal7">Course Details</a></p>
           </div>
         </div>
         <!-- COURSE8 -->
-        <div class="small-12 medium-6 large-3 column text-center">
+        <div class="medium-6 large-3 column text-center inactive">
           <div class="course-container">
+            <p class="course-title">Religious Education</p>
             <div class="course-image">
               <svg viewBox="0 0 116.7 175.5">
               	<path d="M103.9,136.7c-0.1-3,8.7-56.3,6.6-65.3c-2.4-9.9-31.2-53.8-39.5-67.6c-4-6.6-13.3-4-15.4,2.3
@@ -206,14 +219,14 @@
               		c0.3-0.6,0.4-1.1,0.6-1.6c0.2,0.5,0.4,1.1,0.7,1.6c5,10,17.1,33.5,21.4,41.3C77.7,54.7,96.5,52.9,92.5,72.1z"/>
               </svg>
             </div>
-            <p class="course-title">Religious Education</p>
             <p class="course-code"><small>SCITT Code</small><br>Unavailable</p>
-            <p class="course-select"><a class="button" data-open="exampleModal8">View More!</a></p>
+            <p class="course-select"><a class="button accentbutton" data-open="exampleModal8">Course Details</a></p>
           </div>
         </div>
         <!-- COURSE9 -->
-        <div class="small-12 medium-6 large-3 column text-center end">
+        <div class="medium-6 large-3 column text-center end inactive">
           <div class="course-container">
+            <p class="course-title">Mathematics</p>
             <div class="course-image">
               <svg viewBox="0 0 300 301">
               	<path d="M135,0C102,0,41,0,5,0C3.2,0,0,3.2,0,5c1,38,0,101,0,133c0,1.4,2.6,4,4,4c34,0,93,0,132,0c1.8,0,5-3.2,5-5
@@ -227,9 +240,8 @@
               		 M232,255c-3.9,0-7-3.1-7-7c0-3.9,3.1-7,7-7s7,3.1,7,7C239,251.9,235.9,255,232,255z M269,231h-76v-7h76V231z"/>
               </svg>
             </div>
-            <p class="course-title">Mathematics</p>
             <p class="course-code"><small>SCITT Code</small><br>Unavailable</p>
-            <p class="course-select"><a class="button" data-open="exampleModal9">View More!</a></p>
+            <p class="course-select"><a class="button accentbutton" data-open="exampleModal9">Course Details</a></p>
           </div>
         </div>
 
@@ -495,5 +507,7 @@
     <script src="js/vendor/what-input.js"></script>
     <script src="js/vendor/foundation.js"></script>
     <script src="js/app.js"></script>
+    <!-- JQuery toggleSwitch -->
+    <script src="js/coursesToggleSwitch.js"></script>
   </body>
 </html>
