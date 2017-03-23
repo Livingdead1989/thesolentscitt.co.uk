@@ -27,16 +27,16 @@ body {
             hyphens: none; }
 
 a, a svg {
-  color: #18a0da;
-  fill: #18a0da; }
+  color: #9e1a56;
+  fill: #9e1a56; }
   a:hover, a:focus, a:active, a svg:hover, a svg:focus, a svg:active {
-    color: #9e1a56;
-    fill: #9e1a56;
+    color: #18a0da;
+    fill: #18a0da;
     -webkit-transition: color 0.2s ease-out;
             transition: color 0.2s ease-out; }
 
 .dropdown.menu > li.is-dropdown-submenu-parent > a:after {
-  border-color: #18a0da transparent transparent; }
+  border-color: #9e1a56 transparent transparent; }
 
 #page-header {
   background-color: #9e1a56;
@@ -122,7 +122,7 @@ section {
           align-items: center;
   padding-top: 30px;
   padding-bottom: 50px;
-  color: white;
+  color: #FFFFFF;
   background-color: #EEEEEE; }
   .hero h1, .hero h2, .hero p {
     margin-bottom: 0;
@@ -179,9 +179,7 @@ section {
     footer .ft-social {
       margin-bottom: 25px;
       display: inline-block;
-      float: none; }
-      footer .ft-social .ft-social-container {
-        width: calc(100% / 3); } }
+      float: none; } }
 footer {
   margin-top: 25px;
   background-color: #474747; }
@@ -268,6 +266,10 @@ footer {
   .toggleSwitch > * {
     padding: 0 5px; }
 
+.reveal .lead {
+  text-transform: capitalize;
+  text-decoration: underline; }
+
 .contact-schools {
   text-align: center;
   margin: 20px 0; }
@@ -289,6 +291,10 @@ footer {
   height: auto;
   -webkit-filter: grayscale(50%);
           filter: grayscale(50%); }
+.team-container > div a {
+  color: #FFFFFF; }
+  .team-container > div a:hover, .team-container > div a:active, .team-container > div a:focus {
+    color: #9e1a56; }
 
 .modal-profile-img {
   display: -webkit-box;

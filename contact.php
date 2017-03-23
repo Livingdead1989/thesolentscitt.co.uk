@@ -14,7 +14,7 @@
       <header class="row">
         <div class="columns">
           <h1 class="capitalize">How To Contact Us</h1>
-          <p class="capitalize">We'd love to hear from you</p>
+          <p class="capitalize">We look forward to hearing from you!</p>
         </div>
       </header>
     </div>
@@ -55,11 +55,13 @@
         </div>
         <!-- Major Partners -->
         <div class="small-4 medium-4 column contact-schools">
-          <a href="//www.pcs.hants.sch.uk/" target="_blank"><img src="images/logo/pcs-logo.png" alt=""></a>
-        </div>
-        <div class="small-4 medium-4 column contact-schools">
             <a href="//www.horndeantc.hants.sch.uk/" target="_blank"><img src="images/logo/htc-logo.png" alt=""></a>
         </div>
+
+        <div class="small-4 medium-4 column contact-schools">
+          <a href="//www.pcs.hants.sch.uk/" target="_blank"><img src="images/logo/pcs-logo.png" alt=""></a>
+        </div>
+
         <div class="small-4 medium-4 column contact-schools">
             <a href="//www.warblington.hants.sch.uk/" target="_blank"><img src="images/logo/warblington-logo.png" alt=""></a>
         </div>
@@ -73,11 +75,11 @@
         </div>
 
         <div class="small-3 medium-3 large-push-2 large-2 column contact-schools">
-          <a href="//thesolenttsa.co.uk/" target="_blank"><img src="images/logo/tsa-logo.png" alt=""></a>
+          <a href="//www.oaklands.hants.sch.uk/" target="_blank"><img src="images/logo/oaklands-logo.png" alt=""></a>
         </div>
 
-        <div class="small-3 medium-3 large-push-2 large-2 end column contact-schools">
-          <a href="//www.pcs.hants.sch.uk/" target="_blank"><img src="images/logo/pcs-logo.png" alt=""></a>
+        <div class="small-3 medium-3 large-push-2 large-2 column contact-schools end">
+          <a href="//thesolenttsa.co.uk/" target="_blank"><img src="images/logo/tsa-logo.png" alt=""></a>
         </div>
 
 

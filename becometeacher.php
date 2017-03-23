@@ -24,39 +24,38 @@
         <h2>Why become a teacher?</h2>
         <p>The top reasons for choosing a career in teaching</p>
 
-        <div class="large-9 columns">
-          <h4>Teachers are in demand</h4>
-          <p>Latest data shows that 9 out of 10 new teachers who want to teach found teaching jobs in the first 12 months. 95% of primary trained NQTs and 94% of secondary trained respondents were in employment in first 12 months.</p>
+        <h4>Teachers are in demand</h4>
+        <p>Latest data shows that 9 out of 10 new teachers who want to teach found teaching jobs in the first 12 months. 95% of primary trained NQTs and 94% of secondary trained respondents were in employment in first 12 months.</p>
 
-          <h4>Starting salary of between £22k and £27k</h4>
-          <p>The average starting salary for teachers in England now stands at £24,200 [Source: School Workforce Census, November 2013]. This compares favourably with average starting salaries of UK graduates who are employed six months after graduation (£18,345 – £22,535)<br><em>[Source: What Do Graduates Do? 2013, HECSU/AGCAS/UCAS]</em>.</p>
+        <h4>Starting salary of between £22k and £27k</h4>
+        <p>The average starting salary for teachers in England now stands at £24,200 [Source: School Workforce Census, November 2013]. This compares favourably with average starting salaries of UK graduates who are employed six months after graduation (£18,345 – £22,535)<br><em>[Source: What Do Graduates Do? 2013, HECSU/AGCAS/UCAS]</em>.</p>
 
-          <h4>Teachers can earn up to £65,000 as a leading practitioner</h4>
-          <p>The leading practitioner pay range from 1 September 2014 applies to qualified teachers who are employed in posts that the relevant body has determined have the primary purpose of modelling and leading improvement of teaching skills.</p>
+        <h4>Teachers can earn up to £65,000 as a leading practitioner</h4>
+        <p>The leading practitioner pay range from 1 September 2014 applies to qualified teachers who are employed in posts that the relevant body has determined have the primary purpose of modelling and leading improvement of teaching skills.</p>
+
+        <div class="small-8 small-push-2">
+          <br>
+          <img src="images/scitt07.jpg" alt="">
+          <br><br>
         </div>
 
-        <div class="large-3 columns show-for-large">
-          <img src="images/scitt07-portrait.jpg" alt="">
+        <h4>Up to £25,000 tax-free to train</h4>
+        <p>Bursaries are available for trainees on eligible postgraduate courses in England. Bursary amounts will vary depending on teaching subject and degree class or highest relevant academic qualification.</p>
+
+        <h4>Teacher training is better than ever</h4>
+        <p>92% of newly qualified secondary teachers, and 90% of newly qualified primary teachers highly rated the overall quality of their training.</p>
+
+        <h4>Change a young person’s life</h4>
+        <p>Teachers make students curious, question, and criticise. Teachers make the frightened, confident. The uninterested, ambitious. And the gifted… brilliant</p>
+
+        <h4>Career for achievers</h4>
+        <p>Three-quarters of new teachers now have a 1st or 2:1 degree – the highest proportion ever recorded.</p>
+
+        <div class="small-8 small-push-2">
+          <br>
+          <img src="images/scitt08.jpg" alt="">
+          <br><br>
         </div>
-
-        <div class="large-9 column">
-          <h4>Up to £25,000 tax-free to train</h4>
-          <p>Bursaries are available for trainees on eligible postgraduate courses in England. Bursary amounts will vary depending on teaching subject and degree class or highest relevant academic qualification.</p>
-
-          <h4>Teacher training is better than ever</h4>
-          <p>92% of newly qualified secondary teachers, and 90% of newly qualified primary teachers highly rated the overall quality of their training.</p>
-
-          <h4>Change a young person’s life</h4>
-          <p>Teachers make students curious, question, and criticise. Teachers make the frightened, confident. The uninterested, ambitious. And the gifted… brilliant</p>
-
-          <h4>Career for achievers</h4>
-          <p>Three-quarters of new teachers now have a 1st or 2:1 degree – the highest proportion ever recorded.</p>
-        </div>
-        <div class="large-3 columns show-for-large">
-          <img src="images/scitt08-portrait.jpg" alt="">
-        </div>
-
-
 
       </div>
 
@@ -173,7 +172,7 @@
             <img class="circle" src="images/quotes/hpidgley.jpg" alt="">
           </div>
           <div class="medium-pull-2 medium-8 column">
-            <blockquote>SCITT staff have been incredibly helpful all the way through the course. They all have years of teaching experience and cater for any extra training needs we have as a group. I made the right choice in choosing this pathway into teaching as their support and encouragement has helped me to push myself to be the best teacher I can be. I have now secured my first teaching job in the local area and cannot wait to get started. 
+            <blockquote>SCITT staff have been incredibly helpful all the way through the course. They all have years of teaching experience and cater for any extra training needs we have as a group. I made the right choice in choosing this pathway into teaching as their support and encouragement has helped me to push myself to be the best teacher I can be. I have now secured my first teaching job in the local area and cannot wait to get started.
             <cite>Hannah Pidgley - SCITT Design &amp; Technology Trainee</cite>
             </blockquote>
           </div>

@@ -14,12 +14,11 @@
   align-items: center
   padding-top: 30px
   padding-bottom: 50px
-  color: white
+  color: $font-lightcolor
   background-color: $lightgraybg
   h1, h2, p
     margin-bottom: 0
     font-weight: 900
-    // text-shadow: 3px 2px 2px #000
   h1, h2, h3
     font-size: 3.5em
   p
@@ -27,18 +26,21 @@
 .hp-hero-prim
   background-image: url("/images/scitt04hero.jpg")
   background-position: bottom center
-  color: $secondary-color
+  color: $accent-color
   text-align: center
   text-shadow: -1px -1px 0 #000000
+  & > *
+    // background-color: rgba(158, 26, 86, 0.69)
+    // padding: 0 10px
 .hp-hero-sec
   background-image: url("/images/apple.jpg")
   background-position: top right
-  color: $secondary-color
+  color: $accent-color
   align-items: flex-start
 
 #hp-qlandpromo
   .hp-slogan-container
-    background-color: $secondary-color
+    background-color: $accent-color
     margin-bottom: 30px
     .hp-slogan
       padding: 70px 40px 55px 40px

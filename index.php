@@ -13,7 +13,9 @@
     <header class="row hero-container">
       <div class="columns hero hp-hero-prim">
         <h1>The Solent SCITT</h1>
-        <p class="capitalize">Training the Next Generation of Outstanding Teachers <br><br>Call Now: 023 92 489 819</p>
+        <p class="capitalize">Training the Next Generation of Outstanding Teachers</p>
+        <br>
+        <p class="capitalize">Call Now: 023 92 489 819</p>
       </div>
     </header>
 
@@ -21,19 +23,10 @@
     <section id="hp-qlandpromo" class="row" data-equalizer data-equalize-on="large" id="hp-qlandpromo">
       <div class="large-6 columns" data-equalizer-watch>
         <div class="hp-slogan-container">
-          <blockquote class="hp-slogan">On average you could save 75% with guaranteed placement!<br><span><a data-open="BetterThanUni">Find out more...</a></span></blockquote>
+          <blockquote class="hp-slogan">school-centred primary and secondary teacher training <br><br><small>designed and guided by outstanding teachers</small></blockquote>
         </div>
 
-        <!-- MODAL 1 -->
-        <div class="large reveal" id="BetterThanUni" data-reveal>
-          <h1>An attractive proposition</h1>
-          <p>After just a year you will qualify as classroom teachers able to work in the UK and abroad (with PGCE). You will receive the most up to date training based on the latest educational research and spend most of the year in four local schools trained on the job by teachers in the classroom with supportive one to one mentoring and specialist subject training.</p>
-          <p>We will develop you as a lifelong learner, a reflective practitioner and a critical thinker.</p>
-          <p><strong>Linked to the University of Sussex</strong> you will have direct access to world-class educational resources and lectures. In addition, the Solent SCITT has an outstanding track record for employment on completion; and if that isn’t enough you will have free access to a fully equipped gym and use of a laptop.</p>
-          <button class="close-button" data-close aria-label="Close modal" type="button">
-            <span aria-hidden="true">&times;</span>
-          </button>
-        </div>
+
         <div class="row quicklinks-container">
 
           <div class="small-4 columns text-center quicklink">
@@ -83,6 +76,8 @@
       </div>
       <div class="large-6 columns hp-promovid" data-equalizer-watch>
         <div class="flex-video">
+          <!-- <iframe src="https://www.youtube-nocookie.com/embed/videoseries?list=PLwoce5sLv49k32qQmo9hLzHg4QuRwLpUD?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe> -->
+
           <iframe src="https://www.youtube-nocookie.com/embed/gRwq21ZtvqU?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
         </div>
       </div>
@@ -92,7 +87,7 @@
     <section class="row">
       <div class="columns hero hp-hero-sec">
         <h2 class="capitalize">Get into teaching</h2>
-        <p>thinking about becoming a teacher? <br>you’ve come to the right place!</p>
+        <p class="capitalize">thinking about becoming a teacher? <br>you have come to the right place!</p>
       </div>
     </section>
 

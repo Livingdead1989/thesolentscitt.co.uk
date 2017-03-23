@@ -37,41 +37,42 @@
           <h2>Meet the team</h2>
           <div class="small-up-2 medium-up-3 large-up-5 team-container">
 
-            <!-- PERSON 1 -->
+            <!-- Clare Harrison -->
             <div class="column text-center">
               <a data-open="exampleModalharrison">
                 <img class="circle" src="images/team/Clare.jpg" alt="">
                 Clare Harrison
               </a>
             </div>
-            <!-- PERSON 2 -->
-            <div class="column text-center">
-              <a data-open="exampleModalseery">
-                <img class="circle" src="images/team/Phil.jpg" alt="">
-                Phil Seery
-              </a>
-            </div>
-            <!-- PERSON 3 -->
-            <div class="column text-center">
-              <a data-open="exampleModalmillet">
-                <img class="circle" src="images/team/Gill.jpg" alt="">
-                Gill Millet
-              </a>
-            </div>
-            <!-- PERSON 4 -->
+            <!-- Jackie Lowe -->
             <div class="column text-center">
               <a data-open="exampleModallowe">
                 <img class="circle" src="images/team/Lowe.jpg" alt="">
                 Jackie Lowe
               </a>
             </div>
-            <!-- PERSON 5 -->
+            <!-- Gill Millet -->
+            <div class="column text-center">
+              <a data-open="exampleModalmillet">
+                <img class="circle" src="images/team/Gill.jpg" alt="">
+                Gill Millet
+              </a>
+            </div>
+            <!-- Phil Seery -->
+            <div class="column text-center">
+              <a data-open="exampleModalseery">
+                <img class="circle" src="images/team/Phil.jpg" alt="">
+                Phil Seery
+              </a>
+            </div>
+            <!-- Jane Wood -->
             <div class="column text-center">
               <a data-open="exampleModalwood">
                 <img class="circle" src="images/team/Wood.jpg" alt="">
                 Jane Wood
               </a>
             </div>
+
 
             <!-- MODAL 1 -->
             <div class="large reveal" id="exampleModalharrison" data-reveal>
@@ -166,7 +167,7 @@
 
     <section class="row" id="successes">
       <div class="large-6 columns">
-        <h2>Our Successes</h2>
+        <h2>Our Achievements</h2>
         <ul>
           <li>The Solent SCITT was founded in December 2012.</li>
           <li>100% of our trainees have secured employment on completion of their training</li>
