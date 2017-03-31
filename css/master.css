@@ -1,4 +1,4 @@
-h1, h2, h3, h4, h5, h6 {
+h1, h3, h4, h5, h6, .capitalize {
   text-transform: capitalize; }
 
 h2 {
@@ -6,9 +6,6 @@ h2 {
 
 img {
   border-radius: 5px; }
-
-.capitalize {
-  text-transform: capitalize; }
 
 .button.accentbutton {
   background-color: #9e1a56;
@@ -77,11 +74,26 @@ section {
   .menu-icon.dark::after {
     height: 4px; }
 
-.top-bar, .top-bar ul {
+.top-bar {
   background-color: #FFFFFF; }
-
-.top-bar-logo {
-  width: 140px; }
+  .top-bar .topbar-contact {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    padding: 5px 0 0 0; }
+    .top-bar .topbar-contact > p {
+      text-align: center;
+      font-size: 0.8em;
+      margin: 0 5px; }
+  .top-bar ul {
+    background-color: #FFFFFF; }
+  .top-bar .top-bar-logo {
+    width: 140px; }
 
 #top-nav-toggle {
   margin: 25px;
@@ -89,7 +101,14 @@ section {
 
 @media screen and (min-width: 40em) {
   #top-nav {
-    margin-top: 17px; } }
+    margin-top: 17px; }
+
+  .top-bar .topbar-contact {
+    -webkit-box-pack: end;
+    -webkit-justify-content: flex-end;
+        -ms-flex-pack: end;
+            justify-content: flex-end;
+    padding: 0; } }
 .hero-container {
   display: -webkit-box;
   display: -webkit-flex;
@@ -154,7 +173,6 @@ section {
   #hp-qlandpromo .hp-slogan-container .hp-slogan {
     padding: 70px 40px 55px 40px;
     text-align: center;
-    text-transform: capitalize;
     font-size: 1.5em;
     font-weight: 900;
     color: #FFFFFF; }
@@ -270,27 +288,60 @@ footer {
   text-transform: capitalize;
   text-decoration: underline; }
 
-.contact-schools {
-  text-align: center;
-  margin: 20px 0; }
-  .contact-schools img {
+div.partnershipschools {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap; }
+  div.partnershipschools .contact-school {
+    margin: 20px;
+    position: relative; }
+  div.partnershipschools img {
     width: 200px;
-    padding: 10px;
     background-color: #FFFFFF;
     -webkit-filter: grayscale(100%);
             filter: grayscale(100%); }
-    .contact-schools img:hover {
+    div.partnershipschools img:hover {
       -webkit-filter: grayscale(30%);
               filter: grayscale(30%); }
+  div.partnershipschools .banner {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: #9e1a56;
+    padding: 7px 0;
+    margin-bottom: 20px; }
+    div.partnershipschools .banner::before {
+      content: "";
+      height: 60px;
+      width: 10px;
+      position: absolute;
+      background-color: #9e1a56;
+      left: -10px;
+      bottom: 0;
+      border-radius: 10px 0 0 10px; }
+    div.partnershipschools .banner p {
+      text-align: center;
+      margin: 0;
+      font-size: 0.8em; }
 
 .team-wrap {
   padding: 20px 0; }
 
 .team-container > div img {
   width: 200px;
-  height: auto;
-  -webkit-filter: grayscale(50%);
-          filter: grayscale(50%); }
+  height: auto; }
 .team-container > div a {
   color: #FFFFFF; }
   .team-container > div a:hover, .team-container > div a:active, .team-container > div a:focus {

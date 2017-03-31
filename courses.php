@@ -14,19 +14,23 @@
       <header class="row">
         <div class="columns">
           <h1 class="capitalize">Course Information</h1>
-          <p class="capitalize">All the courses we provide</p>
         </div>
       </header>
     </div>
 
     <section class="row">
-      <div class="toggleSwitch">
-        <p>Hide Unavailable Courses:</p>
-        <div class="switch">
-          <input class="switch-input" id="hideUnavailable" type="checkbox" name="hideUnavailable">
-          <label class="switch-paddle" for="hideUnavailable">
-            <span class="show-for-sr">Hide Unavailable Courses</span>
-          </label>
+      <div class="medium-6 column text-center">
+        <h3>UCAS Provider Code: <strong>S56</strong></h3>
+      </div>
+      <div class="medium-6 column text-center">
+        <div class="toggleSwitch">
+          <p>Hide Unavailable Courses:</p>
+          <div class="switch">
+            <input class="switch-input" id="hideUnavailable" type="checkbox" name="hideUnavailable">
+            <label class="switch-paddle" for="hideUnavailable">
+              <span class="show-for-sr">Hide Unavailable Courses</span>
+            </label>
+          </div>
         </div>
       </div>
 

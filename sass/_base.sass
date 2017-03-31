@@ -1,23 +1,27 @@
 // BASE]
-h1, h2, h3, h4, h5, h6
+h1, h3, h4, h5, h6, .capitalize
   text-transform: capitalize
+
 h2
   color: $accent-color
+
 img
   border-radius: 5px
-.capitalize
-  text-transform: capitalize
+
 .button.accentbutton
   background-color: $accent-color
   color: $font-lightcolor
+
 input:checked~.switch-paddle
   background-color: $primary-color
+
 body
   // background-color: $body-color
   font-family: $font-stack
   color: $font-color
   p
     hyphens: none
+
 a, a svg
   color: $accent-color
   fill: $accent-color
@@ -25,8 +29,10 @@ a, a svg
     color: $primary-color
     fill: $primary-color
     transition: color .2s ease-out
+
 .dropdown.menu>li.is-dropdown-submenu-parent>a:after
   border-color: $accent-color transparent transparent
+
 #page-header
   background-color: $accent-color
   padding: 20px 0 30px 0
@@ -35,22 +41,27 @@ a, a svg
     color: $font-lightcolor
   p
     margin-top: -10px
+
 .thumbnail
   border: none
   &:focus, &:hover
     box-shadow: 0 0 6px 1px $accent-color
+
 .thumbnail-caption
   margin-top: -15px
   text-transform: capitalize
+
 section
   padding-top: 20px
   padding-bottom: 20px
   margin-top: 20px
   margin-bottom: 20px
+
 .accent-bg
   background-color: $gray-color
   & *:not(a)
     color: $font-lightcolor
     border-color: $font-lightcolor
+
 .circle
   border-radius: 50%

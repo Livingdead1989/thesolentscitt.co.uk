@@ -14,7 +14,6 @@
       <header class="row">
         <div class="columns">
           <h1 class="capitalize">Becoming A Teacher</h1>
-          <p class="capitalize">Start your journey with us</p>
         </div>
       </header>
     </div>
@@ -181,7 +180,7 @@
 </div>
   <section class="row">
     <div class="column">
-      <h2 id="whatbecometeacher">What will I be doing on the course</h2>
+      <h2 id="whatbecometeacher">What will I be doing on the course?</h2>
       <p>The Solent SCITT has been developed through years of collaboration with our partnership schools and Sussex University to offer a school based, high quality, cross phase and coherent training bespoke programme which is adapted to your individual needs. We are located in South East Hampshire in The Dickinson Centre, a professional training facility attached to Park Community School in close proximity to other local schools giving trainees an excellent experience across a variety of partnership providers.</p>
       <p>We offer a full time one year training programme commencing in September. Successful completion of your training with us will result in being awarded QTS, along with a Post Graduate Certificate of Education (PGCE) at Level 7.</p>
       <p>The Solent SCITT works in close partnership with the University of Sussex which has a long-established record of excellent initial teach training and is graded ‘Outstanding’ by Ofsted. This partnership ensures academic rigour which will enable you to establish links between theory and practice and understand how research is key to your professional development throughout your teaching career. The University of Sussex, who make the award of the PGCE, are involved in the development and moderation of the PGCE assignments and the Quality Assurance of our programme.</p>

@@ -1,10 +1,38 @@
-.contact-schools
-  text-align: center
-  margin: 20px 0
+div.partnershipschools
+  display: flex
+  justify-content: center
+  align-items: center
+  flex-wrap: wrap
+
+  .contact-school
+    margin: 20px
+    position: relative
+
   img
     width: 200px
-    padding: 10px
     background-color: #FFFFFF
     filter: grayscale(100%)
     &:hover
       filter: grayscale(30%)
+
+  .banner
+    position: absolute
+    bottom: 0
+    width: 100%
+    background-color: $accent-color
+    padding: 7px 0
+    margin-bottom: 20px
+    &::before
+      content: ''
+      height: 60px
+      width: 10px
+      position: absolute
+      background-color: $accent-color
+      left: -10px
+      bottom: 0
+      border-radius: 10px 0 0 10px
+
+    p
+      text-align: center
+      margin: 0
+      font-size: .8em

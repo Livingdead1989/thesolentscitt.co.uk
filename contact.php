@@ -14,7 +14,6 @@
       <header class="row">
         <div class="columns">
           <h1 class="capitalize">How To Contact Us</h1>
-          <p class="capitalize">We look forward to hearing from you!</p>
         </div>
       </header>
     </div>
@@ -23,7 +22,7 @@
       <div class="large-5 columns">
         <h2>Contact Information</h2>
         <ul class="no-bullet">
-          <li>Telephone Number: 02392 489 819</li>
+          <li>Telephone Number: <a href="tel://02392-489819">02392 489 819</a></li>
           <li>Info Email: <a href="javascript:location='mailto:\u0069\u006e\u0066\u006f\u0040\u0074\u0068\u0065\u0073\u006f\u006c\u0065\u006e\u0074\u0073\u0063\u0069\u0074\u0074\u002e\u0063\u006f\u002e\u0075\u006b';void 0"><script type="text/javascript">document.write('\u0069\u006e\u0066\u006f\u0040\u0074\u0068\u0065\u0073\u006f\u006c\u0065\u006e\u0074\u0073\u0063\u0069\u0074\u0074\u002e\u0063\u006f\u002e\u0075\u006b')</script></a></li>
           <br>
           <li>
@@ -50,39 +49,76 @@
     <!-- School Logo -->
     <div class="accent-bg">
       <section class="row">
-        <div class="column text-center">
-          <h2>Partnership Schools</h2>
-        </div>
-        <!-- Major Partners -->
-        <div class="small-4 medium-4 column contact-schools">
-            <a href="//www.horndeantc.hants.sch.uk/" target="_blank"><img src="images/logo/htc-logo.png" alt=""></a>
-        </div>
+        <div class="partnershipschools column">
 
-        <div class="small-4 medium-4 column contact-schools">
-          <a href="//www.pcs.hants.sch.uk/" target="_blank"><img src="images/logo/pcs-logo.png" alt=""></a>
-        </div>
+          <div class="contact-school">
+            <a href="//www.horndeantc.hants.sch.uk/" target="_blank">
+              <img src="images/logo/htc-logo.png" alt="">
+              <div class="banner">
+                <p>Horndean Technology College</p>
+              </div>
+            </a>
+          </div>
 
-        <div class="small-4 medium-4 column contact-schools">
-            <a href="//www.warblington.hants.sch.uk/" target="_blank"><img src="images/logo/warblington-logo.png" alt=""></a>
-        </div>
-        <!-- Minor Partners -->
-        <div class="small-3 medium-3 large-push-2 large-2 column contact-schools">
-          <a href="//www.crookhorn.hants.sch.uk/" target="_blank"><img src="images/logo/crookhorn-logo.png" alt=""></a>
-        </div>
+          <div class="contact-school">
+            <a href="//www.pcs.hants.sch.uk/" target="_blank">
+              <img src="images/logo/pcs-logo.png" alt="">
+              <div class="banner">
+                <p>Park Community School</p>
+              </div>
+            </a>
+          </div>
 
-        <div class="small-3 medium-3 large-push-2 large-2 column contact-schools">
-          <a href="//www.havant-tkat.org/" target="_blank"><img src="images/logo/havantacademy-logo.png" alt=""></a>
+          <div class="contact-school">
+            <a href="//www.warblington.hants.sch.uk/" target="_blank">
+              <img src="images/logo/warblington-logo.png" alt="">
+              <div class="banner">
+                <p>Warblington School</p>
+              </div>
+            </a>
+          </div>
+
         </div>
+      <!-- Minors -->
+        <div class="partnershipschools column">
 
-        <div class="small-3 medium-3 large-push-2 large-2 column contact-schools">
-          <a href="//www.oaklands.hants.sch.uk/" target="_blank"><img src="images/logo/oaklands-logo.png" alt=""></a>
+          <div class="contact-school">
+            <a href="//www.crookhorn.hants.sch.uk/" target="_blank">
+              <img src="images/logo/crookhorn-logo.png" alt="">
+              <div class="banner">
+                <p>Crookhorn College</p>
+              </div>
+            </a>
+          </div>
+
+          <div class="contact-school">
+            <a href="//www.havant-tkat.org/" target="_blank">
+              <img src="images/logo/havantacademy-logo.png" alt="">
+              <div class="banner">
+                <p>Havant Academy</p>
+              </div>
+            </a>
+          </div>
+
+          <div class="contact-school">
+            <a href="//www.oaklands.hants.sch.uk/" target="_blank">
+              <img src="images/logo/oaklands-logo.png" alt="">
+              <div class="banner">
+                <p>Oaklands School</p>
+              </div>
+            </a>
+          </div>
+
+          <div class="contact-school">
+            <a href="//thesolenttsa.co.uk/" target="_blank">
+              <img src="images/logo/tsa-logo.png" alt="">
+              <div class="banner">
+                <p>The Solent TSA</p>
+              </div>
+            </a>
+          </div>
+
         </div>
-
-        <div class="small-3 medium-3 large-push-2 large-2 column contact-schools end">
-          <a href="//thesolenttsa.co.uk/" target="_blank"><img src="images/logo/tsa-logo.png" alt=""></a>
-        </div>
-
-
       </section>
     </div>
 

@@ -14,7 +14,6 @@
       <header class="row">
         <div class="columns">
           <h1 class="capitalize">About Us</h1>
-          <p class="capitalize">Let us introduce ourselves</p>
         </div>
       </header>
     </div>
@@ -41,35 +40,35 @@
             <div class="column text-center">
               <a data-open="exampleModalharrison">
                 <img class="circle" src="images/team/Clare.jpg" alt="">
-                Clare Harrison
+                <p>Clare Harrison <br>SCITT Coordinator</p>
               </a>
             </div>
             <!-- Jackie Lowe -->
             <div class="column text-center">
               <a data-open="exampleModallowe">
-                <img class="circle" src="images/team/Lowe.jpg" alt="">
-                Jackie Lowe
+                <img class="circle" src="images/team/Jackie.jpg" alt="">
+                <p>Jackie Lowe <br>SCITT Coordinator</p>
               </a>
             </div>
             <!-- Gill Millet -->
             <div class="column text-center">
               <a data-open="exampleModalmillet">
                 <img class="circle" src="images/team/Gill.jpg" alt="">
-                Gill Millet
+                <p>Gill Millet <br>SCITT Trainer</p>
               </a>
             </div>
             <!-- Phil Seery -->
             <div class="column text-center">
               <a data-open="exampleModalseery">
                 <img class="circle" src="images/team/Phil.jpg" alt="">
-                Phil Seery
+                <p>Phil Seery <br>Course Administrator</p>
               </a>
             </div>
             <!-- Jane Wood -->
             <div class="column text-center">
               <a data-open="exampleModalwood">
-                <img class="circle" src="images/team/Wood.jpg" alt="">
-                Jane Wood
+                <img class="circle" src="images/team/Jane.jpg" alt="">
+                <p>Jane Wood <br>SCITT Coordinator</p>
               </a>
             </div>
 
@@ -112,7 +111,6 @@
               <div class="small-8 column">
                 <h2>Gill Millet</h2>
                 <p class="lead">Qualifications</p>
-                <p>SCITT Trainer</p>
                 <p>Gill is a very experienced Teacher of 42 years in the Secondary Sector. Initially trained as a PE Teacher in 1975, she has been Head of PE Department and has experience in teaching History and English and Performing Arts.S he has qualified as an Advanced Skills Teacher and an ITP /OTP facilitator. Her Training has included qualifications in Coaching and Teaching and Learning.</p>
                 <p>In the latter years, Gill has been involved in coaching teachers in schools that have 'Required Improvement' and for the last 3 years has been working with The Solent SCITT training the next generation of teachers.</p>
               </div>
@@ -133,7 +131,7 @@
                 <p>Whilst training to be a teacher, Jackie worked as a supply teacher in many Hampshire schools before taking on a full time role as a teacher of technology. She was recognised as an outstanding practitioner and quickly promoted to Head of Technology. Working alongside South Downs College, Jackie received national acclaim for her joint delivery of the Hospitality Diploma and presented at several conferences. Jackie is now an Assistant Headteacher, working part time at Warblington School, with responsibility for teaching and learning, continual professional learning and Performance Management. She has been instrumental in developing a whole school coaching ethos and the embedding of a Growth Mindset approach to teaching and learning. Jackie also offers consultancy work to other schools and is a qualified facilitator for the NPQML.</p>
               </div>
               <div class="small-4 column">
-                <img class="modal-profile-img circle" src="images/team/Lowe.jpg" alt="">
+                <img class="modal-profile-img circle" src="images/team/Jackie.jpg" alt="">
               </div>
               <button class="close-button" data-close aria-label="Close modal" type="button">
                 <span aria-hidden="true">&times;</span>
@@ -145,13 +143,11 @@
                 <h2>Jane Wood</h2>
                 <p class="lead">Qualifications</p>
                 <p>BA (Hons), PGCE, NPQH: Warblington School</p>
-                <p class="lead">Subject Expert</p>
-                <p>English</p>
                 <p>Jane is one of the Solent SCITT’s three coordinators who has vast experience of initial teacher, training having been a mentor and a professional tutor for many years. Jane was a career changer when she started teaching from the financial sector and is a passionate advocate of the rewards of joining the profession at any time in working life.</p>
                 <p>Jane started her teaching career as a teacher of English and was soon recognised as an outstanding practitioner, quickly promoted to Head of English as well as a Lead Teacher of English for Hampshire. Jane is now an Assistant Headteacher at Warblington School with responsibility for teaching and learning, continual professional learning, Induction tutor and line manager of science and Performing arts. Jane is a qualified facilitator for the Improving Teacher Programme and the Outstanding Teacher Programme and has delivered training at both local and national level on the power of guided reading.</p>
               </div>
               <div class="small-4 column">
-                <img class="modal-profile-img circle" src="images/team/Wood.jpg" alt="">
+                <img class="modal-profile-img circle" src="images/team/Jane.jpg" alt="">
               </div>
               <button class="close-button" data-close aria-label="Close modal" type="button">
                 <span aria-hidden="true">&times;</span>

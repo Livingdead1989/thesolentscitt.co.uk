@@ -13,9 +13,7 @@
     <header class="row hero-container">
       <div class="columns hero hp-hero-prim">
         <h1>The Solent SCITT</h1>
-        <p class="capitalize">Training the Next Generation of Outstanding Teachers</p>
-        <br>
-        <p class="capitalize">Call Now: 023 92 489 819</p>
+        <p>Training the next generation of outstanding teachers</p>
       </div>
     </header>
 
@@ -23,7 +21,7 @@
     <section id="hp-qlandpromo" class="row" data-equalizer data-equalize-on="large" id="hp-qlandpromo">
       <div class="large-6 columns" data-equalizer-watch>
         <div class="hp-slogan-container">
-          <blockquote class="hp-slogan">school-centred primary and secondary teacher training <br><br><small>designed and guided by outstanding teachers</small></blockquote>
+          <blockquote class="hp-slogan">School-centred primary &amp; secondary teacher training <br><br><small>SCITT &amp; School Direct programmes designed &amp; guided by outstanding teachers</small></blockquote>
         </div>
 
 
@@ -87,7 +85,7 @@
     <section class="row">
       <div class="columns hero hp-hero-sec">
         <h2 class="capitalize">Get into teaching</h2>
-        <p class="capitalize">thinking about becoming a teacher? <br>you have come to the right place!</p>
+        <p>Training the next generation of outstanding teachers</p>
       </div>
     </section>
 
@@ -105,14 +103,14 @@
         <div class="medium-6 columns text-center">
           <a href="/about.php#successes">
             <img class="thumbnail" src="images/scitt01.jpg" alt="">
-            <p class="thumbnail-caption">Our Successes!</p>
+            <p class="thumbnail-caption">Our Achievements</p>
           </a>
         </div>
 
         <div class="medium-6 columns text-center">
           <a href="/becometeacher.php#professionalskillstests">
             <img class="thumbnail" src="images/scitt02.jpg" alt="">
-            <p class="thumbnail-caption">Professional Skills Test</p>
+            <p class="thumbnail-caption">Professional Skills Tests</p>
           </a>
         </div>
 

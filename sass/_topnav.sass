@@ -4,13 +4,30 @@
   height: 22px
   &::after
     height: 4px
-.top-bar, .top-bar ul
+.top-bar
   background-color: #FFFFFF
-.top-bar-logo
-  width: 140px
+  .topbar-contact
+    display: flex
+    justify-content: center
+    padding: 5px 0 0 0
+    & > p
+      text-align: center
+      font-size: .8em
+      margin: 0 5px
+  ul
+    background-color: #FFFFFF
+
+  .top-bar-logo
+    width: 140px
+
 #top-nav-toggle
   margin: 25px
   float: right
+
 @media screen and (min-width: 40em)
   #top-nav
     margin-top: 17px
+  .top-bar
+    .topbar-contact
+      justify-content: flex-end
+      padding: 0
