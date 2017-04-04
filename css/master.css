@@ -171,7 +171,7 @@ section {
   background-color: #9e1a56;
   margin-bottom: 30px; }
   #hp-qlandpromo .hp-slogan-container .hp-slogan {
-    padding: 70px 40px 55px 40px;
+    padding: 45px 10px;
     text-align: center;
     font-size: 1.5em;
     font-weight: 900;
@@ -307,6 +307,14 @@ div.partnershipschools {
   div.partnershipschools .contact-school {
     margin: 20px;
     position: relative; }
+  div.partnershipschools a:hover p, div.partnershipschools a:active p, div.partnershipschools a:focus p {
+    color: #18a0da;
+    -webkit-transition: color 0.2s ease-in-out;
+            transition: color 0.2s ease-in-out; }
+  div.partnershipschools a:hover img, div.partnershipschools a:active img, div.partnershipschools a:focus img {
+    box-shadow: 0 0 10px #9e1a56;
+    -webkit-transition: box-shadow 0.2s ease-in-out;
+            transition: box-shadow 0.2s ease-in-out; }
   div.partnershipschools img {
     width: 200px;
     background-color: #FFFFFF;
@@ -321,7 +329,8 @@ div.partnershipschools {
     width: 100%;
     background-color: #9e1a56;
     padding: 7px 0;
-    margin-bottom: 20px; }
+    margin-bottom: -29px;
+    border-radius: 0 0 5px 0; }
     div.partnershipschools .banner::before {
       content: "";
       height: 60px;
@@ -342,10 +351,14 @@ div.partnershipschools {
 .team-container > div img {
   width: 200px;
   height: auto; }
-.team-container > div a {
-  color: #FFFFFF; }
-  .team-container > div a:hover, .team-container > div a:active, .team-container > div a:focus {
-    color: #9e1a56; }
+.team-container > div a:hover p, .team-container > div a:active p, .team-container > div a:focus p {
+  color: #9e1a56;
+  -webkit-transition: color 0.2s ease-in-out;
+          transition: color 0.2s ease-in-out; }
+.team-container > div a:hover img, .team-container > div a:active img, .team-container > div a:focus img {
+  box-shadow: 0 0 5px #9e1a56;
+  -webkit-transition: box-shadow 0.2s ease-in-out;
+          transition: box-shadow 0.2s ease-in-out; }
 
 .modal-profile-img {
   display: -webkit-box;

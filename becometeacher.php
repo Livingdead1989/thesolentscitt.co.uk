@@ -94,7 +94,7 @@
                 <li>The degree should include a minimum content of 50% which is directly related to the subject which you are training to teach.</li>
                 <li>The degree, or equivalent qualification, must comprise 300 HE credit points, 60 of which are at level 6 of QCF (foundation degrees must be supplemented with 60 credits at level 6)</li>
                 <li>You must be able to demonstrate appropriate subject knowledge for the age range you intend to teach.</li>
-                <li>If the degree is not in the subject specialism you must hold an A Level in the subject or have considerable relevant industry experience.</li>
+                <li>If the degree is not in the subject specialism, you must hold an A Level in the subject or have considerable relevant industry experience.</li>
                 <li>Applicants with a non-UK degree will be required to demonstrate equivalence with UK standards through NARIC.</li>
               </ul>
             </ul>
@@ -114,7 +114,7 @@
         <p>All applicants must be able to provide original certificates of academic and equivalent qualifications.</p>
 
         <p id="professionalskillstests"><strong>Professional Skills Tests:</strong></p>
-        <p>You will be required to have passed the skills tests in both English and mathematics before the start of the course. The registration system is now open and we encourage all applicants to take the tests as early as possible to avoid the disappointment of gaining a place and not being able to start.</p>
+        <p>You will be required to have passed the skills tests in both English and Mathematics before the start of the course. The registration system is now open and we encourage all applicants to take the tests as early as possible to avoid the disappointment of gaining a place and not being able to start.</p>
 
         <ul class="vertical menu" data-accordion-menu>
           <li>
@@ -149,11 +149,11 @@
         <p>You should already have undertaken (or have arrangements in hand to undertake) an appropriate educational experience before applying. Evidence of this practical experience, or similar recent connection, will be discussed at interview.</p>
 
         <p><strong>In addition:</strong></p>
-        <p>As well as meeting the above criteria It is important that you can demonstrate an ability to work independently as well as being an effective team member. You will need to be hard working, committed and resilient, all qualities which will be sought after during the selection process.</p>
+        <p>As well as meeting the above criteria, It is important that you can demonstrate an ability to work independently as well as being an effective team member. You will need to be hard-working, committed and resilient, all qualities which will be sought after during the selection process.</p>
         <p>Applications should be made through UCAS Teacher Training via the button below.</p>
         <a class="button" href="//www.ucas.com/ucas/teacher-training/ucas-teacher-training-apply-and-track" target="_blank">UCAS Teacher Training</a>
         <p>Apply here using the following information:</p>
-        <p><strong>The Solent SCITT: Location code S56</strong></p>
+        <p><strong>The Solent SCITT: Provider code S56</strong></p>
 
 
       </div>
@@ -181,19 +181,19 @@
   <section class="row">
     <div class="column">
       <h2 id="whatbecometeacher">What will I be doing on the course?</h2>
-      <p>The Solent SCITT has been developed through years of collaboration with our partnership schools and Sussex University to offer a school based, high quality, cross phase and coherent training bespoke programme which is adapted to your individual needs. We are located in South East Hampshire in The Dickinson Centre, a professional training facility attached to Park Community School in close proximity to other local schools giving trainees an excellent experience across a variety of partnership providers.</p>
-      <p>We offer a full time one year training programme commencing in September. Successful completion of your training with us will result in being awarded QTS, along with a Post Graduate Certificate of Education (PGCE) at Level 7.</p>
+      <p>The Solent SCITT has been developed through years of collaboration with our partnership schools and Sussex University to offer a school-based, high-quality, cross-phase and coherent bespoke training programme, which is adapted to your individual needs. We are located in South East Hampshire in The Dickinson Centre, a professional training facility attached to Park Community School in close proximity to other local schools, giving trainees an excellent experience across a variety of partnership providers.</p>
+      <p>We offer a full time one-year training programme commencing in September. Successful completion of your training with us will result in being awarded QTS, along with a Post Graduate Certificate of Education (PGCE) at Level 7.</p>
       <p>The Solent SCITT works in close partnership with the University of Sussex which has a long-established record of excellent initial teach training and is graded ‘Outstanding’ by Ofsted. This partnership ensures academic rigour which will enable you to establish links between theory and practice and understand how research is key to your professional development throughout your teaching career. The University of Sussex, who make the award of the PGCE, are involved in the development and moderation of the PGCE assignments and the Quality Assurance of our programme.</p>
       <p>Our programme offers coherent and robust academic practice which supports your classroom teaching. Pedagogy, in turn, provides valuable action research to inform your assignment writing.</p>
-      <p>You will gain experience and training from schools who work in association with the Solent SCITT, including Primary, Secondary, Post 16 and Special Schools all located in Hampshire. The length, breadth, and content of the training will be flexible, taking account of your individual previous achievements, strengths and areas of development and ongoing interests.</p>
-      <p>Your school based Mentor will be a class teacher of the school in which you are placed. These high-quality practitioners receive regular and bespoke training and updates from the Solent SCITT and have responsibility for ensuring that you have an appropriate Individual Training Plan and that you have every opportunity to meet the Professional Standards for Qualified Teacher Status (QTS).</p>
-      <ul>For the award of PGCE and recommendation for QTS you will need to provide the following evidence:
+      <p>You will gain experience and training from schools who work in association with The Solent SCITT, including Primary, Secondary, Post 16 and Special Schools all located in Hampshire. The length, breadth, and content of the training will be flexible, taking account of your individual previous achievements, strengths and areas of development and ongoing interests.</p>
+      <p>Your school based Mentor will be a class teacher of the school in which you are placed. These high-quality practitioners receive regular and bespoke training and updates from The Solent SCITT and have responsibility for ensuring that you have an appropriate Individual Training Plan and that you have every opportunity to meet the Professional Standards for Qualified Teacher Status (QTS).</p>
+      <ul>For the award of PGCE and recommendation for QTS, you will need to provide the following evidence:
         <li>Teaching Standards Portfolio</li>
         <li>Lesson Observations</li>
         <li>Professional Conduct throughout</li>
         <li>Assignments for Subject Study and 'Teaching and Learning and Personal Development'</li>
       </ul>
-      <p>For the duration of your training your timetable will build up each term at a rate which is managed and agreed with your school based Curriculum and Professional Mentors and SCITT Tutor.</p>
+      <p>For the duration of your training your timetable will build up each term at a rate which is managed and agreed with your school-based Curriculum and Professional Mentors and SCITT Tutor.</p>
       <ul>You will;
         <li>teach across two consecutive age ranges/phases</li>
         <li>experience teaching in at least four contrasting schools.</li>
@@ -233,19 +233,19 @@
             <ul class="menu vertical nested">
               <ul>
                 <li>your degree qualification is from a UK higher education institution or equivalent qualification comprising of 300 HE credit points, 60 of which are at level 6 of QCF (foundation degrees must be supplemented with 60 credits at level 6) (obtain NARIC confirmation for overseas qualifications)</li>
-                <li>you have achieved a standard equivalent to a grade C in the GCSE examinations in English and mathematics.</li>
+                <li>you have achieved a standard equivalent to a grade C in the GCSE examinations in English and Mathematics.</li>
               </ul>
             </ul>
           </li>
           <li>
-            <a href="//www.ucas.com/ucas/teacher-training/ucas-teacher-training-apply-and-track" target="_blank">Submit through UCAS Teacher Training.</a>
+            <a href="//www.ucas.com/ucas/teacher-training/ucas-teacher-training-apply-and-track" target="_blank">Submit through UCAS Teacher Training:</a>
           </li>
           <li>
             <a href="#">We will call you and arrange for an interview. You will be asked to:</a>
             <ul class="menu vertical nested">
               <ul>
                 <li>complete a subject task</li>
-                <li>carry out a prioritizing exercise</li>
+                <li>carry out a prioritising exercise</li>
                 <li>complete a professional task</li>
                 <li>present a short microteach session of approximately 5 minutes’ duration</li>
                 <li>attend an interview with one of the SCITT coordinators and a subject teacher</li>
@@ -267,7 +267,7 @@
             <ul class="menu vertical nested">
               <ul>
                 <li>Original certificates for the qualifications stated on your application form</li>
-                <li>Proof of identity including a passport, birth certificate, driving license and a utilities bill</li>
+                <li>Proof of identity including: a passport, birth certificate, driving license and a utilities bill</li>
               </ul>
             </ul>
           </li>
@@ -285,7 +285,7 @@
         <img src="images/scitt01-portrait.jpg" alt="">
       </div>
       <div class="column">
-        <p>The Solent SCITT and all partnership organisations are committed to safeguarding, promoting good welfare of pupils and expect all trainees to share this commitment. All successful candidates will be subject to enhanced Disclosure and Barring Service checks to review suitability of working with pupils.</p>
+        <p>The Solent SCITT and all partnership organisations are committed to safeguarding and promoting good welfare of pupils. We expect all trainees to share this commitment. All successful candidates will be subject to enhanced Disclosure and Barring Service checks to review suitability of working with pupils.</p>
 
 
       </div>

@@ -21,7 +21,7 @@
     <section id="hp-qlandpromo" class="row" data-equalizer data-equalize-on="large" id="hp-qlandpromo">
       <div class="large-6 columns" data-equalizer-watch>
         <div class="hp-slogan-container">
-          <blockquote class="hp-slogan">School-centred primary &amp; secondary teacher training <br><br><small>SCITT &amp; School Direct programmes designed &amp; guided by outstanding teachers</small></blockquote>
+          <blockquote class="hp-slogan">School-centred primary <br>&amp; secondary teacher training <br><br><small>SCITT &amp; School Direct programmes <br>designed &amp; guided by outstanding teachers</small></blockquote>
         </div>
 
 
