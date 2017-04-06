@@ -2,6 +2,7 @@
 .hero-container
   display: flex
   padding-bottom: 30px
+
 .hero
   min-height: 500px
   height: 60vh
@@ -10,33 +11,41 @@
   background-size: cover
   display: flex
   flex-direction: column
-  justify-content: center
-  align-items: center
-  padding-top: 30px
-  padding-bottom: 50px
-  color: $font-lightcolor
+  padding: 30px 0 30px 0
   background-color: $lightgraybg
-  h1, h2, p
-    margin-bottom: 0
-    font-weight: 900
-  h1, h2, h3
-    font-size: 3.5em
-  p
-    font-size: 1.5em
+  .hero-text
+    background-color: rgba(255, 255, 255, 0.69)
+    color: $accent-color
+    padding: 10px 15px
+    border-radius: 0 10px 10px 0
+    h1
+      font-size: 3em
+      margin: 0
+      font-weight: 900
+    p
+      font-size: 1.5em
+      margin: 0
+      font-weight: 900
+    @media screen and (max-width: 39.9375em)
+      h1
+        font-size: 1.8em
+      p
+        font-size: 1.2em
+  @media screen and (max-width: 500px)
+    .hero-text
+      border-radius: 0
+
 .hp-hero-prim
-  background-image: url("/images/scitt04hero.jpg")
-  background-position: bottom center
-  color: $accent-color
-  text-align: center
-  text-shadow: -1px -1px 0 #000000
-  & > *
-    // background-color: rgba(158, 26, 86, 0.69)
-    // padding: 0 10px
+  background-image: url("/images/scitt09.jpg")
+  background-position: right center
+  align-items: flex-start
+  justify-content: flex-end
+
 .hp-hero-sec
   background-image: url("/images/apple.jpg")
   background-position: top right
-  color: $accent-color
   align-items: flex-start
+  justify-content: flex-end
 
 #hp-qlandpromo
   .hp-slogan-container

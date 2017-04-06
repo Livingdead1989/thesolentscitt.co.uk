@@ -12,8 +12,10 @@
     <!-- HEADER -->
     <header class="row hero-container">
       <div class="columns hero hp-hero-prim">
-        <h1>The Solent SCITT</h1>
-        <p>Training the next generation of outstanding teachers</p>
+        <div class="hero-text">
+          <h1>The Solent SCITT</h1>
+          <p>Training the next generation of outstanding teachers</p>
+        </div>
       </div>
     </header>
 
@@ -74,8 +76,6 @@
       </div>
       <div class="large-6 columns hp-promovid" data-equalizer-watch>
         <div class="flex-video">
-          <!-- <iframe src="https://www.youtube-nocookie.com/embed/videoseries?list=PLwoce5sLv49k32qQmo9hLzHg4QuRwLpUD?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe> -->
-
           <iframe src="https://www.youtube-nocookie.com/embed/gRwq21ZtvqU?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
         </div>
       </div>
@@ -84,8 +84,10 @@
     <!-- Hero Image -->
     <section class="row">
       <div class="columns hero hp-hero-sec">
-        <h2 class="capitalize">Get into teaching</h2>
-        <p>Training the next generation of outstanding teachers</p>
+        <div class="hero-text">
+          <h1 class="capitalize">Get into teaching</h1>
+          <p>Training the next generation of outstanding teachers</p>
+        </div>
       </div>
     </section>
 
@@ -95,21 +97,21 @@
 
         <div class="medium-6 columns text-center">
           <a href="/becometeacher.php#whybecometeacher">
-            <img class="thumbnail" src="images/scitt07.jpg" alt="">
+            <img class="thumbnail" src="images/scitt07.jpg" alt="Maths graduate Seamus achieved QTS with PGCE through the SCITT.">
             <p class="thumbnail-caption">Why Teach?</p>
           </a>
         </div>
 
         <div class="medium-6 columns text-center">
           <a href="/about.php#successes">
-            <img class="thumbnail" src="images/scitt01.jpg" alt="">
+            <img class="thumbnail" src="images/scitt01.jpg" alt="Gemma secured employment in a Hampshire school after completing her Maths PGCE with QTS course">
             <p class="thumbnail-caption">Our Achievements</p>
           </a>
         </div>
 
         <div class="medium-6 columns text-center">
           <a href="/becometeacher.php#professionalskillstests">
-            <img class="thumbnail" src="images/scitt02.jpg" alt="">
+            <img class="thumbnail" src="images/scitt02.jpg" alt="Graduates apply for teacher training via UCAS stating their degree and other qualifications">
             <p class="thumbnail-caption">Professional Skills Tests</p>
           </a>
         </div>

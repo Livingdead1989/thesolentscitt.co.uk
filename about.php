@@ -173,7 +173,7 @@
         </ul>
       </div>
       <div class="small-8 small-pull-2 large-pull-0 large-6 columns">
-        <img src="images/scitt01.jpg" alt="">
+        <img src="images/scitt01.jpg" alt="Gemma secured employment in a Hampshire school after completing her Maths PGCE with QTS course">
       </div>
     </section>
     <!-- Back to Top -->
