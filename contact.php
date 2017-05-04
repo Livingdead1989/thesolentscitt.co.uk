@@ -53,7 +53,7 @@
 
           <div class="contact-school">
             <a href="//www.horndeantc.hants.sch.uk/" target="_blank">
-              <img src="images/logo/htc-logo.png" alt="">
+              <img src="images/logo/htc-logo.png" alt="Horndean Technology College Logo">
               <div class="banner">
                 <p>Horndean Technology College</p>
               </div>
@@ -62,7 +62,7 @@
 
           <div class="contact-school">
             <a href="//www.pcs.hants.sch.uk/" target="_blank">
-              <img src="images/logo/pcs-logo.png" alt="">
+              <img src="images/logo/pcs-logo.png" alt="Park Community School Logo">
               <div class="banner">
                 <p>Park Community School</p>
               </div>
@@ -71,7 +71,7 @@
 
           <div class="contact-school">
             <a href="//www.warblington.hants.sch.uk/" target="_blank">
-              <img src="images/logo/warblington-logo.png" alt="">
+              <img src="images/logo/warblington-logo.png" alt="Warblington School Logo">
               <div class="banner">
                 <p>Warblington School</p>
               </div>
@@ -84,7 +84,7 @@
 
           <div class="contact-school">
             <a href="//www.crookhorn.hants.sch.uk/" target="_blank">
-              <img src="images/logo/crookhorn-logo.png" alt="">
+              <img src="images/logo/crookhorn-logo.png" alt="Crookhorn College Logo">
               <div class="banner">
                 <p>Crookhorn College</p>
               </div>
@@ -93,7 +93,7 @@
 
           <div class="contact-school">
             <a href="//www.havant-tkat.org/" target="_blank">
-              <img src="images/logo/havantacademy-logo.png" alt="">
+              <img src="images/logo/havantacademy-logo.png" alt="Havant Academy Logo">
               <div class="banner">
                 <p>Havant Academy</p>
               </div>
@@ -102,16 +102,16 @@
 
           <div class="contact-school">
             <a href="//www.oaklands.hants.sch.uk/" target="_blank">
-              <img src="images/logo/oaklands-logo.png" alt="">
+              <img src="images/logo/oaklands-logo.png" alt="Oaklands Catholic School Logo">
               <div class="banner">
-                <p>Oaklands School</p>
+                <p>Oaklands Catholic School</p>
               </div>
             </a>
           </div>
 
           <div class="contact-school">
             <a href="//thesolenttsa.co.uk/" target="_blank">
-              <img src="images/logo/tsa-logo.png" alt="">
+              <img src="images/logo/tsa-logo.png" alt="The Solent TSA Logo">
               <div class="banner">
                 <p>The Solent TSA</p>
               </div>

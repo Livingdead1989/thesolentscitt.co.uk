@@ -76,7 +76,7 @@
       </div>
       <div class="large-6 columns hp-promovid" data-equalizer-watch>
         <div class="flex-video">
-          <iframe src="https://www.youtube-nocookie.com/embed/gRwq21ZtvqU?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+		  <iframe src="https://www.youtube.com/embed/vM9eTFCFJQQ?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
         </div>
       </div>
     </section>
@@ -118,7 +118,7 @@
 
         <div class="medium-6 columns text-center">
           <a href="//getintoteaching.education.gov.uk/funding-and-salary/overview" target="_blank">
-            <img class="thumbnail" src="images/logo/dfe.jpg" alt="">
+            <img class="thumbnail" src="images/logo/dfe.jpg" alt="Graduates are eligible for ITT bursaries in specific subjects and these are issued by the DfE">
             <p class="thumbnail-caption">DfE Bursary Information</p>
           </a>
         </div>

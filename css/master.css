@@ -1,3 +1,6 @@
+.hidden {
+  display: none !important; }
+
 h1, h3, h4, h5, h6, .capitalize {
   text-transform: capitalize; }
 
@@ -18,10 +21,7 @@ body {
   font-family: "Roboto", sans-serif;
   color: #111111; }
   body p {
-    -webkit-hyphens: none;
-       -moz-hyphens: none;
-        -ms-hyphens: none;
-            hyphens: none; }
+    hyphens: none; }
 
 a, a svg {
   color: #9E1A56;
@@ -29,8 +29,7 @@ a, a svg {
   a:hover, a:focus, a:active, a svg:hover, a svg:focus, a svg:active {
     color: #18A0DA;
     fill: #18A0DA;
-    -webkit-transition: color 0.2s ease-out;
-            transition: color 0.2s ease-out; }
+    transition: color 0.2s ease-out; }
 
 .dropdown.menu > li.is-dropdown-submenu-parent > a:after {
   border-color: #9E1A56 transparent transparent; }
@@ -77,14 +76,8 @@ section {
 .top-bar {
   background-color: #FFFFFF; }
   .top-bar .topbar-contact {
-    display: -webkit-box;
-    display: -webkit-flex;
-    display: -ms-flexbox;
     display: flex;
-    -webkit-box-pack: center;
-    -webkit-justify-content: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    justify-content: center;
     padding: 5px 0 0 0; }
     .top-bar .topbar-contact > p {
       text-align: center;
@@ -104,15 +97,9 @@ section {
     margin-top: 17px; }
 
   .top-bar .topbar-contact {
-    -webkit-box-pack: end;
-    -webkit-justify-content: flex-end;
-        -ms-flex-pack: end;
-            justify-content: flex-end;
+    justify-content: flex-end;
     padding: 0; } }
 .hero-container {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
   display: flex;
   padding-bottom: 30px; }
 
@@ -122,15 +109,8 @@ section {
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-  -webkit-flex-direction: column;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  flex-direction: column;
   padding: 30px 0 30px 0;
   background-color: #EEEEEE; }
   .hero .hero-text {
@@ -158,26 +138,14 @@ section {
 .hp-hero-prim {
   background-image: url("/images/scitt09.jpg");
   background-position: right center;
-  -webkit-box-align: start;
-  -webkit-align-items: flex-start;
-      -ms-flex-align: start;
-          align-items: flex-start;
-  -webkit-box-pack: end;
-  -webkit-justify-content: flex-end;
-      -ms-flex-pack: end;
-          justify-content: flex-end; }
+  align-items: flex-start;
+  justify-content: flex-end; }
 
 .hp-hero-sec {
   background-image: url("/images/apple.jpg");
   background-position: top right;
-  -webkit-box-align: start;
-  -webkit-align-items: flex-start;
-      -ms-flex-align: start;
-          align-items: flex-start;
-  -webkit-box-pack: end;
-  -webkit-justify-content: flex-end;
-      -ms-flex-pack: end;
-          justify-content: flex-end; }
+  align-items: flex-start;
+  justify-content: flex-end; }
 
 #hp-qlandpromo .hp-slogan-container {
   background-color: #9E1A56;
@@ -280,18 +248,9 @@ footer {
     margin-bottom: 0; }
 
 .toggleSwitch {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-pack: center;
-  -webkit-justify-content: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-  -webkit-box-align: center;
-  -webkit-align-items: center;
-      -ms-flex-align: center;
-          align-items: center;
+  justify-content: center;
+  align-items: center;
   margin-bottom: 30px; }
   .toggleSwitch > * {
     padding: 0 5px; }
@@ -301,40 +260,25 @@ footer {
   text-decoration: underline; }
 
 div.partnershipschools {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-pack: center;
-  -webkit-justify-content: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-  -webkit-box-align: center;
-  -webkit-align-items: center;
-      -ms-flex-align: center;
-          align-items: center;
-  -webkit-flex-wrap: wrap;
-      -ms-flex-wrap: wrap;
-          flex-wrap: wrap; }
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap; }
   div.partnershipschools .contact-school {
     margin: 20px;
     position: relative; }
   div.partnershipschools a:hover p, div.partnershipschools a:active p, div.partnershipschools a:focus p {
     color: #474747;
-    -webkit-transition: color 0.2s ease-in-out;
-            transition: color 0.2s ease-in-out; }
+    transition: color 0.2s ease-in-out; }
   div.partnershipschools a:hover img, div.partnershipschools a:active img, div.partnershipschools a:focus img {
     box-shadow: 0 0 10px #9E1A56;
-    -webkit-transition: box-shadow 0.2s ease-in-out;
-            transition: box-shadow 0.2s ease-in-out; }
+    transition: box-shadow 0.2s ease-in-out; }
   div.partnershipschools img {
     width: 200px;
     background-color: #FFFFFF;
-    -webkit-filter: grayscale(100%);
-            filter: grayscale(100%); }
+    filter: grayscale(100%); }
     div.partnershipschools img:hover {
-      -webkit-filter: grayscale(30%);
-              filter: grayscale(30%); }
+      filter: grayscale(30%); }
   div.partnershipschools .banner {
     position: absolute;
     bottom: 0;
@@ -365,21 +309,13 @@ div.partnershipschools {
   height: auto; }
 .team-container > div a:hover p, .team-container > div a:active p, .team-container > div a:focus p {
   color: #9E1A56;
-  -webkit-transition: color 0.2s ease-in-out;
-          transition: color 0.2s ease-in-out; }
+  transition: color 0.2s ease-in-out; }
 .team-container > div a:hover img, .team-container > div a:active img, .team-container > div a:focus img {
   box-shadow: 0 0 5px #9E1A56;
-  -webkit-transition: box-shadow 0.2s ease-in-out;
-          transition: box-shadow 0.2s ease-in-out; }
+  transition: box-shadow 0.2s ease-in-out; }
 
 .modal-profile-img {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-pack: center;
-  -webkit-justify-content: center;
-      -ms-flex-pack: center;
-          justify-content: center; }
+  justify-content: center; }
 
 /*# sourceMappingURL=master.css.map */

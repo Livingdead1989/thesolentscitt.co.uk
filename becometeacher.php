@@ -20,16 +20,16 @@
 
     <section class="row" id="whybecometeacher">
       <div class="columns">
-        <h2>Why become a teacher?</h2>
+        <h2>Why become a Teacher?</h2>
         <p>The top reasons for choosing a career in teaching</p>
 
-        <h4>Teachers are in demand</h4>
+        <h4>Teachers are in Demand</h4>
         <p>Latest data shows that 9 out of 10 new teachers who want to teach found teaching jobs in the first 12 months. 95% of primary trained NQTs and 94% of secondary trained respondents were in employment in first 12 months.</p>
 
-        <h4>Starting salary of between £22k and £27k</h4>
+        <h4>Starting Salary of between £22k and £27k</h4>
         <p>The average starting salary for teachers in England now stands at £24,200 [Source: School Workforce Census, November 2013]. This compares favourably with average starting salaries of UK graduates who are employed six months after graduation (£18,345 – £22,535)<br><em>[Source: What Do Graduates Do? 2013, HECSU/AGCAS/UCAS]</em>.</p>
 
-        <h4>Teachers can earn up to £65,000 as a leading practitioner</h4>
+        <h4>Teachers can earn up to £65,000 as a Leading Practitioner</h4>
         <p>The leading practitioner pay range from 1 September 2014 applies to qualified teachers who are employed in posts that the relevant body has determined have the primary purpose of modelling and leading improvement of teaching skills.</p>
 
         <div class="small-8 small-push-2">
@@ -38,16 +38,16 @@
           <br><br>
         </div>
 
-        <h4>Up to £25,000 tax-free to train</h4>
+        <h4>Up to £25,000 Tax-Free to Train</h4>
         <p>Bursaries are available for trainees on eligible postgraduate courses in England. Bursary amounts will vary depending on teaching subject and degree class or highest relevant academic qualification.</p>
 
-        <h4>Teacher training is better than ever</h4>
+        <h4>Teacher Training is better than ever</h4>
         <p>92% of newly qualified secondary teachers, and 90% of newly qualified primary teachers highly rated the overall quality of their training.</p>
 
-        <h4>Change a young person’s life</h4>
+        <h4>Change a Young Person’s Life</h4>
         <p>Teachers make students curious, question, and criticise. Teachers make the frightened, confident. The uninterested, ambitious. And the gifted… brilliant</p>
 
-        <h4>Career for achievers</h4>
+        <h4>Career for Achievers</h4>
         <p>Three-quarters of new teachers now have a 1st or 2:1 degree – the highest proportion ever recorded.</p>
 
         <div class="small-8 small-push-2">
@@ -68,7 +68,7 @@
         <!-- QUOTE -->
         <div class="row">
           <div class="small-push-3 small-6 medium-push-0 medium-2 column">
-            <img class="circle" src="images/quotes/gbarrett.jpg" alt="">
+            <img class="circle" src="images/quotes/gbarrett.jpg" alt="Maths NQT Gemma benefited from a bursary to successfully achieve QTS with PGCE">
           </div>
           <div class="medium-8 medium-pull-2 column">
             <blockquote>The Solent SCITT has allowed me to develop as a teacher throughout my training and still continue to support me throughout my career. Their advice and assistance continues to be invaluable and has made me into the teacher that I strive to be.
@@ -82,7 +82,7 @@
 
     <section class="row" id="howbecometeacher">
       <div class="columns">
-        <h2>How do I become a teacher?</h2>
+        <h2>How do I become a Teacher?</h2>
         <p>To enrol you will need the following:</p>
 
         <ul class="vertical menu" data-accordion-menu>
@@ -168,7 +168,7 @@
         <!-- QUOTE -->
         <div class="row">
           <div class="small-push-3 small-6 medium-push-0 medium-2 column">
-            <img class="circle" src="images/quotes/hpidgley.jpg" alt="">
+            <img class="circle" src="images/quotes/hpidgley.jpg" alt="A DT bursary helped graduate Hannah study QTS with PGCE through The Solent SCITT">
           </div>
           <div class="medium-pull-2 medium-8 column">
             <blockquote>SCITT staff have been incredibly helpful all the way through the course. They all have years of teaching experience and cater for any extra training needs we have as a group. I made the right choice in choosing this pathway into teaching as their support and encouragement has helped me to push myself to be the best teacher I can be. I have now secured my first teaching job in the local area and cannot wait to get started.
@@ -178,6 +178,9 @@
         </div>
       </div>
 </div>
+
+
+
   <section class="row">
     <div class="column">
       <h2 id="whatbecometeacher">What will I be doing on the course?</h2>
@@ -211,7 +214,7 @@
           <!-- QUOTE -->
           <div class="row">
             <div class="small-push-3 small-6 medium-push-0 medium-2 column">
-              <img class="circle" src="images/quotes/ofsted.jpg" alt="">
+              <img class="circle" src="images/quotes/ofsted.jpg" alt="Ofsted Logo">
             </div>
             <div class="medium-pull-2 medium-8 column">
               <blockquote>… Growing collaboration between partnership schools, university and local subject networks help trainees to learn from good practice<br>… All trainees are successful in gaining teaching posts in local schools
@@ -223,10 +226,12 @@
       </section>
   </div>
 
+
+
     <section class="row">
       <div class="large-9 columns">
-        <h2 id="applybecometeacher">Apply to become a teacher</h2>
-        <p>The process could not be simpler! Log on to UCAS Teacher Training</p>
+        <h2 id="applybecometeacher">Apply to become a Teacher</h2>
+        <p>The process is simple. Log on to <a href="//www.ucas.com/ucas/teacher-training/ucas-teacher-training-apply-and-track" target="_blank">UCAS Teacher Training.</a></p>
         <ul class="vertical menu" data-accordion-menu>
           <li>
             <a href="#">Complete the application form ensuring:</a>
@@ -236,9 +241,6 @@
                 <li>you have achieved a standard equivalent to a grade C in the GCSE examinations in English and Mathematics.</li>
               </ul>
             </ul>
-          </li>
-          <li>
-            <a href="//www.ucas.com/ucas/teacher-training/ucas-teacher-training-apply-and-track" target="_blank">Submit through UCAS Teacher Training:</a>
           </li>
           <li>
             <a href="#">We will call you and arrange for an interview. You will be asked to:</a>
