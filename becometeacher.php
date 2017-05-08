@@ -71,7 +71,7 @@
             <img class="circle" src="images/quotes/gbarrett.jpg" alt="Maths NQT Gemma benefited from a bursary to successfully achieve QTS with PGCE">
           </div>
           <div class="medium-8 medium-pull-2 column">
-            <blockquote>The Solent SCITT has allowed me to develop as a teacher throughout my training and still continue to support me throughout my career. Their advice and assistance continues to be invaluable and has made me into the teacher that I strive to be.
+            <blockquote>The Solent SCITT has allowed me to develop as a teacher throughout my training and continues to support me throughout my career. The advice and assistance continues to be invaluable and has made me into the teacher that I strive to be.
             <cite>Gemma Barrett - Maths Teacher</cite>
             </blockquote>
           </div>
