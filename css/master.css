@@ -67,6 +67,17 @@ section {
 .circle {
   border-radius: 50%; }
 
+.notification {
+  background-color: #9E1A56;
+  color: #FFFFFF;
+  text-align: center;
+  padding: 5px 0; }
+  .notification a {
+    color: #FFFFFF;
+    font-weight: 700; }
+  .notification:hover, .notification:active, .notification:focus {
+    text-decoration: underline; }
+
 .menu-icon.dark {
   width: 25px;
   height: 22px; }
