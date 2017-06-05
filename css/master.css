@@ -82,8 +82,8 @@ section {
   .notification a {
     color: #FFFFFF;
     font-weight: 700; }
-  .notification:hover, .notification:active, .notification:focus {
-    text-decoration: underline; }
+    .notification a:hover, .notification a:active, .notification a:focus {
+      text-decoration: underline; }
 
 .menu-icon.dark {
   width: 25px;
