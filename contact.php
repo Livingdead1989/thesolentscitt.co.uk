@@ -92,15 +92,6 @@
           </div>
 
           <div class="contact-school">
-            <a href="//www.havant-tkat.org/" target="_blank">
-              <img src="images/logo/havantacademy-logo.png" alt="Havant Academy Logo">
-              <div class="banner">
-                <p>Havant Academy</p>
-              </div>
-            </a>
-          </div>
-
-          <div class="contact-school">
             <a href="//www.oaklands.hants.sch.uk/" target="_blank">
               <img src="images/logo/oaklands-logo.png" alt="Oaklands Catholic School Logo">
               <div class="banner">
