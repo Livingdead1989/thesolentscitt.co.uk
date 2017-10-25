@@ -14,7 +14,7 @@
       <div class="columns hero hp-hero-prim">
         <div class="hero-text">
           <h1>The Solent SCITT</h1>
-          <p>Training the next generation of outstanding teachers</p>
+          <p>School-centred primary and <br>secondary teacher training </p>
         </div>
       </div>
     </header>
@@ -23,13 +23,13 @@
     <section id="hp-qlandpromo" class="row" data-equalizer data-equalize-on="large" id="hp-qlandpromo">
       <div class="large-6 columns" data-equalizer-watch>
         <div class="hp-slogan-container">
-          <blockquote class="hp-slogan">School-centred primary <br>&amp; secondary teacher training <br><br><small>SCITT &amp; School Direct programmes <br>designed &amp; guided by outstanding teachers</small></blockquote>
+          <blockquote class="hp-slogan"><a href="/becometeacher.php#professionalskillstests">Skills tests support offered</a> <br><br><small>100% of secondary &amp; primary trainees seeking employment have secured teaching posts on completion.</small></blockquote>
         </div>
 
 
         <div class="row quicklinks-container">
 
-          <div class="small-4 columns text-center quicklink">
+          <div class="small-3 columns text-center quicklink">
             <a href="/about.php">
               <svg viewBox="0 0 107.32 89.01" class="thumbnail">
                 <path d="M35.32,27.5c5,0-2.36,10.42,9.5,15.5,3.5,1.5-6.5.5-10,1-6.45.92-9.55,4.83-10,8-.5,3.5,0,13,0,13H.82S.09,47.49.82,38c.5-6.5,6.5-11.5,15-11C25.32,27.56,28.32,27.5,35.32,27.5Z"/>
@@ -44,7 +44,18 @@
             </a>
           </div>
 
-          <div class="small-4 columns text-center quicklink">
+          <div class="small-3 columns text-center quicklink">
+            <a href="/casestudies.php">
+              <svg viewBox="0 0 107.3 89" class="thumbnail">
+                <circle cx="55.8" cy="28" r="15.5"/>
+                <path d="M27.3,88.5h55v-32c0-4-4-10-9-10h-35c-6,0-11,5-11,9V88.5z"/>
+              </svg>
+              
+              <p class="thumbnail-caption">Case Studies</p>
+            </a>
+          </div>
+
+          <div class="small-3 columns text-center quicklink">
             <a href="/becometeacher.php#howbecometeacher">
               <svg viewBox="0 0 136.66 107.5" class="thumbnail">
                 <path d="M72.38,107h60c11,0-4-30-19-30-4.47,0,9-2,8-16-.64-9-7-15-17-15-8,0-17,6-17,15,0,12,11,14,6,17-7.33,4.4-26,12-26,12-1-1-7.9-14.08-12-19-5-6-13-1-9,5,3.23,4.85,10,16,14,23,.9,1.58,4.18,2.11,6,2,2.37-.14,10.35-4.35,9-3C73.38,100,72.38,107,72.38,107Z"/>
@@ -55,7 +66,7 @@
             </a>
           </div>
 
-          <div class="small-4 columns text-center quicklink">
+          <div class="small-3 columns text-center quicklink">
             <a href="/becometeacher.php#applybecometeacher">
               <svg viewBox="0 0 118.21 110" class="thumbnail">
                 <path  d="M78.5,26.5l8-8V8.5c0-2.83-5.17-8-8-8H9.5c-3.18,0-9,5.82-9,9v91c0,2.83,5.17,9,8,9h69c3.18,0,9-5.82,9-9v-41l-8,8v31c0,.9-1.1,3-2,3h-65c-1.06,0-3-2.94-3-4,0-20,1-66,1-86,0-1.06,1.94-3,3-3h62c1.25,0,4,1.75,4,3Z"/>
@@ -104,7 +115,7 @@
 
         <div class="medium-6 columns text-center">
           <a href="/about.php#successes">
-            <img class="thumbnail" src="images/scitt01.jpg" alt="Gemma secured employment in a Hampshire school after completing her Maths PGCE with QTS course">
+            <img class="thumbnail" src="images/scitt10.jpg" alt="DT trainee teachers celebrating QTS at graduation">
             <p class="thumbnail-caption">Our Achievements</p>
           </a>
         </div>

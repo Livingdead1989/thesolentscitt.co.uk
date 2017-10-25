@@ -1,0 +1,26 @@
+// CASE STUDIES
+.cs-personal
+	display: flex
+	justify-content: center
+	align-items: center
+	flex-wrap: wrap
+	
+	.profile-img
+		width: 100%
+		margin-bottom: 20px
+
+	blockquote
+		font-size: 1.2em
+
+// Small Only
+@media screen and (max-width: 39.9375em)
+	.cs-personal
+		h2
+			text-align: center
+			font-size: 1.5em
+// Small - Medium
+@media screen and (max-width: 63.9375em)
+	.cs-personal
+		h2
+			&>small
+				display: block

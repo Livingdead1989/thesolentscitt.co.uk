@@ -65,7 +65,7 @@
           </div>
         </div>
         <!-- courseComputerScience -->
-        <div class="medium-6 large-3 column text-center">
+        <div class="medium-6 large-3 column text-center inactive">
           <div class="course-container">
             <p class="course-title">Computer Science</p>
             <div class="course-image">
@@ -73,7 +73,7 @@
                 <path d="M325,0H41A41.12,41.12,0,0,0,0,41V244a41.12,41.12,0,0,0,41,41H159v17s-22.38-.54-35,4c-25,9-40.39,28-21,28H262c19.36,0,5-22-26-30-11-2.85-29-2-29-2V285H325a41.12,41.12,0,0,0,41-41V41A41.12,41.12,0,0,0,325,0ZM279,272a10,10,0,1,1,10-10A10,10,0,0,1,279,272Zm41-38a5,5,0,0,1-5,5H52a5,5,0,0,1-5-5V49a5,5,0,0,1,5-5H315a5,5,0,0,1,5,5Z"/>
               </svg>
             </div>
-            <p class="course-code"><small>SCITT Code</small><br>2CLQ</p>
+            <p class="course-code"><small>SCITT Code</small><br>Unavailable</p>
             <p class="course-select"><a class="button accentbutton" data-open="courseComputerScience">Course Details</a></p>
           </div>
         </div>
@@ -300,6 +300,10 @@
               <td>SCITT</td>
               <td>2CLV</td>
             </tr>
+            <tr>
+              <td>School Direct</td>
+              <td>38CF</td>
+            </tr>
           </table>
           <br>
 
@@ -353,7 +357,7 @@
           <table>
             <tr>
               <td>SCITT</td>
-              <td>2CLQ</td>
+              <td></td>
             </tr>
           </table>
           <br>
@@ -378,10 +382,6 @@
             <tr>
               <td>SCITT</td>
               <td>32QS</td>
-            </tr>
-            <tr>
-              <td>School Direct</td>
-              <td>2ZHP</td>
             </tr>
           </table>
           <br>
@@ -538,6 +538,10 @@
               <td>SCITT</td>
               <td>2CLX</td>
             </tr>
+            <tr>
+              <td>School Direct</td>
+              <td>38CG</td>
+            </tr>
           </table>
           <br>
 
@@ -608,9 +612,9 @@
 
       </div>
 
-        <div class="column">
-          <p class="text-center">Course prices can be found on the <a href="//getintoteaching.education.gov.uk/funding-and-salary/overview" target="_blank">GetIntoTeaching website</a>.</p>
-          <p class="text-center">Link to our <a href="/assets/programme-structure.pdf" target="_blank">Programme Structure</a>.</p>
+        <div class="column text-center">
+          <p>Bursaries can be found on the <a href="//getintoteaching.education.gov.uk/funding-and-salary/overview" target="_blank">GetIntoTeaching website</a>.</p>
+          <p>The full programme structures can be accessed via <a href="/assets/primary_programme.pdf" target="_blank">Primary Programme</a> or <a href="/assets/secondary_programme.pdf" target="_blank">Secondary Programme</a>.</p>
         </div>
     </section>
 

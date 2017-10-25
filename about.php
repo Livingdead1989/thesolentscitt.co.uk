@@ -21,7 +21,7 @@
     <section class="row">
       <div class="large-6 columns">
         <h2>About the SCITT</h2>
-        <p>Now in its 4th year, The Solent SCITT based at Park Community School is enjoying its most diverse class of trainee teachers yet.</p>
+        <p>Now in its 5th year, The Solent SCITT based at Park Community School is enjoying its most diverse class of trainee teachers yet.</p>
         <p>Ranging in age from 25 to 54 the student teachers have one thing in common – a desire to teach and inspire the next generation. <br>For some this has meant a continuation from a degree and for others a complete change of career.</p>
         <p>In the case of Walter Cole, who has moved across the globe from Sydney, the course so far has been <em>“excellent beyond expectation”</em>.</p>
       </div>
@@ -166,15 +166,18 @@
       <div class="large-6 columns">
         <h2>Our Achievements</h2>
         <ul>
+          
           <li>The Solent SCITT was founded in December 2012.</li>
-          <li>100% of our trainees have secured employment on completion of their training</li>
-          <li>Graded 'Good' by <a href="//reports.ofsted.gov.uk/inspection-reports/find-inspection-report/provider/ELS/70281" target="_blank">Ofsted</a> in October 2015</li>
-          <li>Incorporating primary places in partnership with <a href="//thesolenttsa.co.uk/" target="_blank">The Solent TSA</a> from September 2016</li>
-          <li>All partnership schools used in 2016/17 are graded as 'Good' by Ofsted</li>
+          <li>100% of secondary trainees seeking employment have secured teaching posts on completion.</li>
+          <li>Graded 'Good' by <a href="//reports.ofsted.gov.uk/inspection-reports/find-inspection-report/provider/ELS/70281" target="_blank">Ofsted</a> in October 2015.</li>
+          <li>Incorporating primary places in partnership with <a href="//thesolenttsa.co.uk/" target="_blank">The Solent TSA</a> from September 2016.</li>
+          <li>All partnership schools used in 2016/17 are graded as 'Good' by Ofsted.</li>
+          <li>The Solent TSA have 100% success in our primary trainees obtaining a full-time job within an Alliance school.</li>
+
         </ul>
       </div>
       <div class="small-8 small-pull-2 large-pull-0 large-6 columns">
-        <img src="images/scitt01.jpg" alt="Gemma secured employment in a Hampshire school after completing her Maths PGCE with QTS course">
+        <img src="images/scitt10.jpg" alt="DT trainee teachers celebrating QTS at graduation">
       </div>
     </section>
     <!-- Back to Top -->

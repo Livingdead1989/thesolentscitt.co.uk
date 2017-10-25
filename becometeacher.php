@@ -62,23 +62,9 @@
     <!-- Back to Top -->
     <?php include 'includes/backtotop.html'; ?>
 
-<div class="accent-bg">
-    <section class="row">
-      <div class="columns">
-        <!-- QUOTE -->
-        <div class="row">
-          <div class="small-push-3 small-6 medium-push-0 medium-2 column">
-            <img class="circle" src="images/quotes/gbarrett.jpg" alt="Maths NQT Gemma benefited from a bursary to successfully achieve QTS with PGCE">
-          </div>
-          <div class="medium-8 medium-pull-2 column">
-            <blockquote>The Solent SCITT has allowed me to develop as a teacher throughout my training and continues to support me throughout my career. The advice and assistance continues to be invaluable and has made me into the teacher that I strive to be.
-            <cite>Gemma Barrett - Maths Teacher</cite>
-            </blockquote>
-          </div>
-        </div>
-      </div>
-    </section>
-</div>
+<!-- Quote -->
+<?php include 'includes/quotes/gbarrett.html' ?>
+<!-- Quote End -->
 
     <section class="row" id="howbecometeacher">
       <div class="columns">
@@ -113,7 +99,8 @@
         <br>
         <p>All applicants must be able to provide original certificates of academic and equivalent qualifications.</p>
 
-        <p id="professionalskillstests"><strong>Professional Skills Tests:</strong></p>
+        <h3 id="professionalskillstests"><strong>Professional Skills Tests:</strong></h3>
+        <p><em>We offer <strong>personalised support to help you pass your skills tests</strong>. The £50 fee is fully refunded when you confirm your place at The Solent SCITT on UCAS. If you are interested, please get in touch via the <a href="/contact.php">Contact Page</a>.</em></p>
         <p>You will be required to have passed the skills tests in both English and Mathematics before the start of the course. The registration system is now open and we encourage all applicants to take the tests as early as possible to avoid the disappointment of gaining a place and not being able to start.</p>
 
         <ul class="vertical menu" data-accordion-menu>
@@ -139,6 +126,19 @@
           </li>
         </ul>
         <br>
+        <div class="text-center">
+          <a class="button rounded large" href="//www.skillstestbooking.com/sta-web/" target="_blank">Book Your Skills Test Online</a>
+        </div>
+      </div>
+</section>
+
+<!-- Quote -->
+<?php include 'includes/quotes/hmitchell.html'; ?>
+<!-- Quote End -->
+
+<section class="row" id="howbecometeacher">
+  <div class="columns">
+        <br>
         <p><strong>Communication Skills:</strong></p>
         <p>We expect all our applicants to be able to communicate clearly and accurately in both written and spoken English.</p>
 
@@ -151,7 +151,11 @@
         <p><strong>In addition:</strong></p>
         <p>As well as meeting the above criteria, It is important that you can demonstrate an ability to work independently as well as being an effective team member. You will need to be hard-working, committed and resilient, all qualities which will be sought after during the selection process.</p>
         <p>Applications should be made through UCAS Teacher Training via the button below.</p>
-        <a class="button" href="//www.ucas.com/ucas/teacher-training/ucas-teacher-training-apply-and-track" target="_blank">UCAS Teacher Training</a>
+        <br>
+        <div class="text-center">
+          <a class="button rounded large" href="//www.ucas.com/ucas/teacher-training/ucas-teacher-training-apply-and-track" target="_blank">UCAS Teacher Training</a>
+        </div>
+        <br>
         <p>Apply here using the following information:</p>
         <p><strong>The Solent SCITT: Provider code S56</strong></p>
 
@@ -162,22 +166,9 @@
     <!-- Back to Top -->
     <?php include 'includes/backtotop.html'; ?>
 
-<div class="accent-bg">
-    <section class="row">
-      <div class="columns">
-        <!-- QUOTE -->
-        <div class="row">
-          <div class="small-push-3 small-6 medium-push-0 medium-2 column">
-            <img class="circle" src="images/quotes/hpidgley.jpg" alt="A DT bursary helped graduate Hannah study QTS with PGCE through The Solent SCITT">
-          </div>
-          <div class="medium-pull-2 medium-8 column">
-            <blockquote>SCITT staff have been incredibly helpful all the way through the course. They all have years of teaching experience and cater for any extra training needs we have as a group. I made the right choice in choosing this pathway into teaching as their support and encouragement has helped me to push myself to be the best teacher I can be. I have now secured my first teaching job in the local area and cannot wait to get started.
-            <cite>Hannah Pidgley - SCITT Design &amp; Technology Trainee</cite>
-            </blockquote>
-          </div>
-        </div>
-      </div>
-</div>
+<!-- Quote -->
+<?php include 'includes/quotes/hpidgley.html' ?>
+<!-- Quote End -->
 
 
 
@@ -202,30 +193,16 @@
         <li>experience teaching in at least four contrasting schools.</li>
       </ul>
 
-      <p><strong>The full programme structure can be accessed via <a href="/assets/programme-structure.pdf" target="_blank">this link</a></strong></p>
+      <p><strong>The full programme structures can be accessed via <a href="/assets/primary_programme.pdf" target="_blank">Primary Programme</a> or <a href="/assets/secondary_programme.pdf" target="_blank">Secondary Programme</a>.</strong></p>
     </div>
   </section>
   <!-- Back to Top -->
   <?php include 'includes/backtotop.html'; ?>
 
-  <div class="accent-bg">
-      <section class="row">
-        <div class="columns">
-          <!-- QUOTE -->
-          <div class="row">
-            <div class="small-push-3 small-6 medium-push-0 medium-2 column">
-              <img class="circle" src="images/quotes/ofsted.jpg" alt="Ofsted Logo">
-            </div>
-            <div class="medium-pull-2 medium-8 column">
-              <blockquote>… Growing collaboration between partnership schools, university and local subject networks help trainees to learn from good practice<br>… All trainees are successful in gaining teaching posts in local schools
-              <cite>Ofsted</cite>
-              </blockquote>
-            </div>
-          </div>
-        </div>
-      </section>
-  </div>
-
+  
+<!-- Quote -->
+<?php include 'includes/quotes/ofsted.html' ?>
+<!-- Quote End -->
 
 
     <section class="row">
