@@ -32,6 +32,20 @@
    	<?php include 'includes/casestudies/cs-rpurkis.html' ?>
     <?php include 'includes/backtotop.html' ?>
 
+  <!-- Sara Case Study -->
+    <div class="accent-bg">
+      <?php include 'includes/casestudies/cs-swareham.html' ?>
+    </div>
+
+
+    <section class="">
+      <div class="row">
+        <div class="columns">
+          <br>
+          <?php include 'includes/backtotop.html' ?>
+        </div>
+      </div>
+    </section>
     <!-- FOOTER -->
     <?php include("includes/footer.html") ?>
 
