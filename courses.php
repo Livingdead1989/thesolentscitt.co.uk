@@ -573,6 +573,10 @@
               <td>School Direct</td>
               <td>1R1 25SW</td>
             </tr>
+            <tr>
+              <td>School Direct Salaried</td>
+              <td>1R1 25SY</td>
+            </tr>
           </table>
           <br>
 
