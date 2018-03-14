@@ -20,9 +20,10 @@
 
     <div class="row">
       <div class="columns">
-        <br>
-        <p>No Content Currently Available.</p>
-        <br>
+        <h2>Newsletters</h2>
+        <ul class="circle">
+          <li><a href="/assets/archive/newsletter-dec2017.pdf" target="_blank">December 2017</a></li>
+        </ul>
 
       </div>
     </div>
