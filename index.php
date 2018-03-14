@@ -134,10 +134,18 @@
           </a>
         </div>
 
+        <div class="column text-center">
+          <a href="/media.php" class="button accentbutton expanded large">Media</a>
+        </div>
+
+        <div class="column text-center">
+          <a href="/archive.php" class="button accentbutton expanded large">Archive</a>
+        </div>
+
       </div>
       <div class="hide-for-small-only hide-for-medium-only large-4 columns">
 
-        <a class="twitter-timeline" data-height="726" data-link-color="#FAB81E" href="https://twitter.com/thesolentscitt">Tweets by TheSolentSCITT</a>
+        <a class="twitter-timeline" data-height="556" data-link-color="#FAB81E" href="https://twitter.com/thesolentscitt">Tweets by TheSolentSCITT</a>
         <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
       </div>
