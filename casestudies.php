@@ -18,25 +18,18 @@
       </header>
     </div>
 
-	<!-- Gemma Barrett Case Study -->
-    <?php include 'includes/casestudies/cs-gbarrett.html' ?>
-    <?php include 'includes/backtotop.html' ?>
+    <div class="row">
+      <div class="columns small-up-1 medium-up-2">
+        <?php include 'includes/casestudies/cs-gbarrett.html' ?>
 
+        <?php include 'includes/casestudies/cs-rpurkis.html' ?>
 
-	<!-- Walter Cole Case Study -->
-    <div class="accent-bg">
-      <?php include 'includes/casestudies/cs-wcole.html' ?>
+        <?php include 'includes/casestudies/cs-swareham.html' ?>
+
+        <?php include 'includes/casestudies/cs-wcole.html' ?>
+
+      </div>
     </div>
-    
-	<!-- Becky Case Study -->
-   	<?php include 'includes/casestudies/cs-rpurkis.html' ?>
-    <?php include 'includes/backtotop.html' ?>
-
-  <!-- Sara Case Study -->
-    <div class="accent-bg">
-      <?php include 'includes/casestudies/cs-swareham.html' ?>
-    </div>
-
 
     <section class="">
       <div class="row">

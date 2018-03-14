@@ -102,7 +102,7 @@
 
           <div class="contact-school">
             <a href="//thesolenttsa.co.uk/" target="_blank">
-              <img src="images/logo/tsa-logo.png" alt="The Solent TSA Logo">
+              <img src="images/logo/tstsa.svg" alt="The Solent TSA Logo">
               <div class="banner">
                 <p>The Solent TSA</p>
               </div>

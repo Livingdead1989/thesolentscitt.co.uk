@@ -20,7 +20,7 @@
 
     <section class="row">
       <div class="large-6 columns">
-        <h2>About the SCITT</h2>
+        <h2>About The Solent SCITT</h2>
         <p>Now in its 5th year, The Solent SCITT based at Park Community School is enjoying its most diverse class of trainee teachers yet.</p>
         <p>Ranging in age from 25 to 54 the student teachers have one thing in common – a desire to teach and inspire the next generation. <br>For some this has meant a continuation from a degree and for others a complete change of career.</p>
         <p>In the case of Walter Cole, who has moved across the globe from Sydney, the course so far has been <em>“excellent beyond expectation”</em>.</p>

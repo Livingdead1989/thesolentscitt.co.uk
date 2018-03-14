@@ -13,7 +13,7 @@
     <div id="page-header">
       <header class="row">
         <div class="columns">
-          <h1 class="capitalize">Becoming A Teacher</h1>
+          <h1 class="capitalize">Becoming a Teacher</h1>
         </div>
       </header>
     </div>
@@ -34,7 +34,7 @@
 
         <div class="small-8 small-push-2">
           <br>
-          <img src="images/scitt07.jpg" alt="Maths graduate Seamus achieved QTS with PGCE through the SCITT.">
+          <img src="images/scitt15.jpg" alt="Maths graduate Seamus achieved QTS with PGCE through the SCITT.">
           <br><br>
         </div>
 

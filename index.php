@@ -14,7 +14,7 @@
       <div class="columns hero hp-hero-prim">
         <div class="hero-text">
           <h1>The Solent SCITT</h1>
-          <p>School-centred primary and <br>secondary teacher training </p>
+          <p>School-centred primary and secondary teacher training</p>
         </div>
       </div>
     </header>
@@ -104,30 +104,30 @@
 
     <!-- Boxes & Twitter -->
     <section class="row">
-      <div class="large-8 columns quadbox-container">
+      <div class="large-8 columns small-up-1 medium-up-2">
 
-        <div class="medium-6 columns text-center">
+        <div class="column text-center">
           <a href="/becometeacher.php#whybecometeacher">
-            <img class="thumbnail" src="images/scitt07.jpg" alt="Maths graduate Seamus achieved QTS with PGCE through the SCITT.">
+            <img class="thumbnail" src="images/scitt18.jpg" alt="Maths graduate Seamus achieved QTS with PGCE through the SCITT.">
             <p class="thumbnail-caption">Why Teach?</p>
           </a>
         </div>
 
-        <div class="medium-6 columns text-center">
+        <div class="column text-center">
           <a href="/about.php#successes">
             <img class="thumbnail" src="images/scitt10.jpg" alt="DT trainee teachers celebrating QTS at graduation">
             <p class="thumbnail-caption">Our Achievements</p>
           </a>
         </div>
 
-        <div class="medium-6 columns text-center">
+        <div class="column text-center">
           <a href="/becometeacher.php#professionalskillstests">
-            <img class="thumbnail" src="images/scitt02.jpg" alt="Graduates apply for teacher training via UCAS stating their degree and other qualifications">
+            <img class="thumbnail" src="images/scitt17.jpg" alt="Graduates apply for teacher training via UCAS stating their degree and other qualifications">
             <p class="thumbnail-caption">Professional Skills Tests</p>
           </a>
         </div>
 
-        <div class="medium-6 columns text-center">
+        <div class="column text-center">
           <a href="//getintoteaching.education.gov.uk/funding-and-salary/overview" target="_blank">
             <img class="thumbnail" src="images/logo/dfe.jpg" alt="Graduates are eligible for ITT bursaries in specific subjects and these are issued by the DfE">
             <p class="thumbnail-caption">DfE Bursary Information</p>
@@ -137,7 +137,7 @@
       </div>
       <div class="hide-for-small-only hide-for-medium-only large-4 columns">
 
-        <a class="twitter-timeline" data-height="480" data-link-color="#FAB81E" href="https://twitter.com/thesolentscitt">Tweets by TheSolentSCITT</a>
+        <a class="twitter-timeline" data-height="726" data-link-color="#FAB81E" href="https://twitter.com/thesolentscitt">Tweets by TheSolentSCITT</a>
         <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
       </div>
