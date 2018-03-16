@@ -261,7 +261,7 @@
         <p><strong>Professional skills tests in literacy and numeracy need to be completed before starting training.</strong></p>
       </div>
       <div class="hide-for-small-only hide-for-medium-only large-3 columns">
-        <img src="images/scitt01-portrait.jpg" alt="Gemma secured employment in a Hampshire school after completing her Maths PGCE with QTS course">
+        <img src="images/scitt19.jpg" alt="Secured employment in a Hampshire school">
       </div>
       <div class="column">
         <p>The Solent SCITT and all partnership organisations are committed to safeguarding and promoting good welfare of pupils. We expect all trainees to share this commitment. All successful candidates will be subject to enhanced Disclosure and Barring Service checks to review suitability of working with pupils.</p>
