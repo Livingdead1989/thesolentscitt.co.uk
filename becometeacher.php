@@ -13,7 +13,7 @@
     <div id="page-header">
       <header class="row">
         <div class="columns">
-          <h1 class="capitalize">Becoming a Teacher</h1>
+          <h1>Becoming a Teacher</h1>
         </div>
       </header>
     </div>

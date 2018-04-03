@@ -13,7 +13,7 @@
     <div id="page-header">
       <header class="row">
         <div class="columns">
-          <h1 class="capitalize">How To Contact Us</h1>
+          <h1>How to Contact Us</h1>
         </div>
       </header>
     </div>

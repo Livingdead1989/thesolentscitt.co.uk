@@ -10,7 +10,7 @@
 .hidden {
   display: none !important; }
 
-h1, h3, h5, h6, .capitalize {
+.capitalize {
   text-transform: capitalize; }
 
 h2 {
@@ -62,8 +62,7 @@ a, a svg {
             box-shadow: 0 0 6px 1px #9E1A56; }
 
 .thumbnail-caption {
-  margin-top: -15px;
-  text-transform: capitalize; }
+  margin-top: -15px; }
 
 section {
   padding-top: 20px;
@@ -167,14 +166,14 @@ section {
       margin: 0;
       font-weight: 900; }
     .hero .hero-text p {
-      font-size: 1.5em;
+      font-size: 1.3em;
       margin: 0;
       font-weight: 900; }
     @media screen and (max-width: 39.9375em) {
       .hero .hero-text h1 {
         font-size: 1.8em; }
       .hero .hero-text p {
-        font-size: 1.2em; } }
+        font-size: 1em; } }
   @media screen and (max-width: 500px) {
     .hero .hero-text {
       border-radius: 0; } }
@@ -425,7 +424,8 @@ div.partnershipschools {
       flex-wrap: wrap; }
   .cs-personal .profile-img {
     width: 100%;
-    margin-bottom: 20px; }
+    margin-bottom: 20px;
+    padding-right: 15px; }
   .cs-personal blockquote {
     font-size: 1.2em; }
 
