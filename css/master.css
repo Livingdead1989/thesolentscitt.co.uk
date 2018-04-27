@@ -194,9 +194,15 @@ section {
   -webkit-box-align: start;
       -ms-flex-align: start;
           align-items: flex-start;
-  -webkit-box-pack: end;
-      -ms-flex-pack: end;
-          justify-content: flex-end; }
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
+  padding: 0; }
+  .hp-hero-sec .hero-text {
+    border-radius: 0 0 10px 0; }
+  @media screen and (max-width: 500px) {
+    .hp-hero-sec .hero-text {
+      border-radius: 0; } }
 
 #hp-qlandpromo .hp-slogan-container {
   background-color: #9E1A56;

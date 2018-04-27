@@ -45,7 +45,14 @@
   background-image: url("/images/apple.jpg")
   background-position: top right
   align-items: flex-start
-  justify-content: flex-end
+  justify-content: flex-start
+  padding: 0
+  .hero-text
+    border-radius: 0 0 10px 0
+  @media screen and (max-width: 500px)
+    .hero-text
+      border-radius: 0
+
 
 #hp-qlandpromo
   .hp-slogan-container

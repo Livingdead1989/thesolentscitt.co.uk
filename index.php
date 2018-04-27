@@ -23,7 +23,7 @@
     <section id="hp-qlandpromo" class="row" data-equalizer data-equalize-on="large" id="hp-qlandpromo">
       <div class="large-6 columns" data-equalizer-watch>
         <div class="hp-slogan-container">
-          <blockquote class="hp-slogan"><a href="/becometeacher.php#professionalskillstests">Skills tests support offered</a> <br><br><small>100% of secondary &amp; primary trainees seeking employment have secured teaching posts on completion.</small></blockquote>
+          <blockquote class="hp-slogan"><br><small>It is not too late to join the best profession in the world <br>Learn from real teachers in real classrooms</small><br><br></blockquote>
         </div>
 
 
@@ -96,8 +96,15 @@
     <section class="row">
       <div class="columns hero hp-hero-sec">
         <div class="hero-text">
-          <h1 class="capitalize">Get into teaching</h1>
-          <p>Training the next generation of outstanding teachers</p>
+          <p>The Solent SCITT provides:</p>
+          <ul>
+            <li>High-quality primary and secondary teacher training</li>
+            <li>A personalised and supportive approach delivered by experts</li>
+            <li>A commitment to helping trainees find employment: 100% success to date</li>
+            <li>QTS with a PGCE option</li>
+            <li>Routes into a broad range of subject areas</li>
+            <li>Graded 'Good' by Ofsted (October 2015)</li>
+          </ul>
         </div>
       </div>
     </section>
