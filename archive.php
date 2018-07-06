@@ -24,6 +24,7 @@
         <ul class="circle">
           <li><a href="/assets/archive/newsletter-dec2017.pdf" target="_blank">December 2017</a></li>
           <li><a href="/assets/archive/newsletter-mar2018.pdf" target="_blank">March 2018</a></li>
+          <li><a href="/assets/archive/newsletter-jul2018.pdf" target="_blank">July 2018</a></li>
         </ul>
 
       </div>
