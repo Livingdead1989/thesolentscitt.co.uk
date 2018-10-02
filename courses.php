@@ -208,8 +208,6 @@
               <svg viewBox="0 0 1366 768">
                 <path d="M365.87,601.49C263.83,594,189,517.12,189,435.43c0-93.72,99.84-169.7,223-169.7s223,76,223,169.7c0,79.19-71.27,145.71-167.67,164.44C449.64,603.3,299,689,279.92,689Z"/>
                 <path d="M929,620c-24.37,0-216.52-109.33-239.09-113.72C566.93,482.39,476,397.53,476,296.5,476,176.93,603.37,80,760.5,80S1045,176.93,1045,296.5c0,104.21-95.47,202.32-225.65,211.86Z"/>
-                <text transform="translate(643.43 403.9)">A</text>
-                <text transform="translate(325 518.7)">á</text>
               </svg>
             </div>
             <p class="course-code"><small>SCITT Code</small><br>39Z7</p>
@@ -280,7 +278,7 @@
           </div>
         </div>
         <!-- courseReligiousEducation -->
-        <div class="medium-6 large-3 column text-center">
+        <div class="medium-6 large-3 column text-center end">
           <div class="course-container">
             <p class="course-title">Religious Education</p>
             <div class="course-image">
