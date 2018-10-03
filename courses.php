@@ -203,7 +203,7 @@
         <!-- courseMFL -->
         <div class="medium-6 large-3 column text-center">
           <div class="course-container">
-            <p class="course-title">MFL</p>
+            <p class="course-title">Modern Foreign Languages</p>
             <div class="course-image">
               <svg viewBox="0 0 1366 768">
                 <style type="text/css">
