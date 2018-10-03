@@ -78,7 +78,7 @@
           </div>
         </div>
         <!-- courseDance -->
-        <div class="medium-6 large-3 column text-center inactive">
+        <div class="medium-6 large-3 column text-center">
           <div class="course-container">
             <p class="course-title">Dance</p>
             <div class="course-image">
@@ -96,7 +96,7 @@
                 <circle cx="95.8" cy="44.5" r="29"/>
               </svg>
             </div>
-            <p class="course-code"><small>SCITT Code</small><br>Unavailable</p>
+            <p class="course-code"><small>SCITT Code</small><br>39Z7</p>
             <p class="course-select"><a class="button accentbutton" data-open="courseDance">Course Details</a></p>
           </div>
         </div>
@@ -449,11 +449,7 @@
           <table>
             <tr>
               <td>SCITT</td>
-              <td></td>
-            </tr>
-            <tr>
-              <td>School Direct</td>
-              <td></td>
+              <td>39Z7</td>
             </tr>
           </table>
           <br>
