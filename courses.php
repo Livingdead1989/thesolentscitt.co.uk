@@ -620,8 +620,7 @@
         <div class="large reveal" id="coursePrimaryTeaching" data-reveal>
           <h2>Primary Teaching</h2>
           <p class="lead">Primary Teaching</p>
-          <p>The Solent Teaching School Alliance's mission is to recruit and retain high quality candidates into teaching to meet the needs of our locality. Our diverse alliance of schools, which has been involved in delivering high quality teacher training for many years, is offering School Direct, in partnership with The Solent SCITT to ensure excellent quality teacher training.</p>
-          <p>When training with The Solent Teaching School Alliance, you will see outstanding practice and follow a bespoke training programme which will enable you to become a highly competent teacher.</p>
+          <p>At The Solent SCITT, we believe every single pupil deserves access to an excellent primary teacher who will inspire them to love learning and lay the foundations for a bright, exhilarating and rewarding future.</p>
 
           <p class="lead">How is the Primary Training Programme Structured?</p>
           <p>The Primary Training Programme (PTP) has been developed through collaboration with our partnership schools and offers a bespoke, school-based, high-quality, cross-phase and coherent training programme which is adapted to your individual needs.</p>
