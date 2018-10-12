@@ -193,7 +193,7 @@
         <li>experience teaching in at least four contrasting schools.</li>
       </ul>
 
-      <p><strong>The full programme structures can be accessed via <a href="/assets/primary_programme.pdf" target="_blank">Primary Programme</a> or <a href="/assets/secondary_programme.pdf" target="_blank">Secondary Programme</a>.</strong></p>
+      <p><strong>The full primary and secondary TLPD programme structure can be accessed here <a href="/assets/full_programme.pdf" target="_blank">Full Programme</a>.</strong></p>
     </div>
   </section>
   <!-- Back to Top -->
