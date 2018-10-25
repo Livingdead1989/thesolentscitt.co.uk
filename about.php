@@ -21,9 +21,13 @@
     <section class="row">
       <div class="large-6 columns">
         <h2>About The Solent SCITT</h2>
-        <p>Now in its 5th year, The Solent SCITT based at Park Community School is enjoying its most diverse class of trainee teachers yet.</p>
-        <p>Ranging in age from 25 to 54 the student teachers have one thing in common – a desire to teach and inspire the next generation. <br>For some this has meant a continuation from a degree and for others a complete change of career.</p>
-        <p>In the case of Walter Cole, who has moved across the globe from Sydney, the course so far has been <em>“excellent beyond expectation”</em>.</p>
+        <p>Now in its 6th year, The Solent SCITT based at Park Community School has had its best recruitment cycle to date.</p>
+        <p>Ranging in age and experience, the student teachers have one thing in common – a desire to teach and inspire the next generation.</p> 
+        <p>For some this has meant a continuation from a degree and for others a complete change of career.</p>
+        <p>David Lown enjoyed a distinguished career in Bio Medical Science before deciding to train to become a Biology teacher in 2018/19 and found the ‘hands on’ nature of the course hugely beneficial:</p> 
+        <p>"Being able to undertake teacher training with the Solent SCITT offers a unique and safe environment to learn on the job.</p>
+        <p>“With students from a plethora of backgrounds, the Solent SCITT provides the ideal opportunity to train in different school placements, with taught aspects of the course provided in small, close-knit groups."</p> 
+
       </div>
       <div class="small-8 small-pull-2 large-pull-0 large-6 columns">
         <img src="images/logo/thesolentscitt.svg" alt="The Solent SCITT Logo">
@@ -169,10 +173,10 @@
           
           <li>The Solent SCITT was founded in December 2012.</li>
           <li>100% of secondary trainees seeking employment have secured teaching posts on completion.</li>
-          <li>Graded 'Good' by <a href="//reports.ofsted.gov.uk/inspection-reports/find-inspection-report/provider/ELS/70281" target="_blank">Ofsted</a> in October 2015.</li>
-          <li>Incorporating primary places in partnership with <a href="//thesolenttsa.co.uk/" target="_blank">The Solent TSA</a> from September 2016.</li>
-          <li>All partnership schools used in 2016/17 are graded as 'Good' by Ofsted.</li>
-          <li>The Solent TSA have 100% success in our primary trainees obtaining a full-time job within an Alliance school.</li>
+          <li><a href="//reports.ofsted.gov.uk/inspection-reports/find-inspection-report/provider/ELS/70281" target="_blank">Ofsted</a> graded The Solent SCITT ‘Good’ in October 2015.</li>
+          <li>Primary places were incorporated into The Solent SCITT partnership from September 2016.</li>
+          <li>All of our partnership schools have been graded as 'Good' by Ofsted.</li>
+          <li>100% of our our primary trainees have obtaining a full-time teaching post.</li>
 
         </ul>
       </div>

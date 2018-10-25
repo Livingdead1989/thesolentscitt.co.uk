@@ -19,6 +19,9 @@
       </div>
     </header>
 
+    <!-- Include Events -->
+    <?php include("includes/events.html") ?>
+
     <!-- Quick Links & Promo -->
     <section id="hp-qlandpromo" class="row" data-equalizer data-equalize-on="large" id="hp-qlandpromo">
       <div class="large-6 columns" data-equalizer-watch>
@@ -96,14 +99,15 @@
     <section class="row">
       <div class="columns hero hp-hero-sec">
         <div class="hero-text">
-          <p>The Solent SCITT provides:</p>
+          <p>The Solent SCITT:</p>
           <ul>
             <li>High-quality primary and secondary teacher training</li>
+            <li>Graded 'Good' by Ofsted (October 2015)</li>
             <li>A personalised and supportive approach delivered by experts</li>
             <li>A commitment to helping trainees find employment: 100% success to date</li>
             <li>QTS with a PGCE option</li>
             <li>Routes into a broad range of subject areas</li>
-            <li>Graded 'Good' by Ofsted (October 2015)</li>
+            <li>Free gym membership and loan of a brand new laptop</li>
           </ul>
         </div>
       </div>

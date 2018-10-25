@@ -40,6 +40,7 @@ a, a svg {
   a:hover, a:focus, a:active, a svg:hover, a svg:focus, a svg:active {
     color: #18A0DA;
     fill: #18A0DA;
+    border-color: #18A0DA;
     -webkit-transition: color 0.2s ease-out;
     transition: color 0.2s ease-out; }
 
@@ -82,6 +83,16 @@ section {
 
 .circle {
   border-radius: 50%; }
+
+.large-blockquote {
+  font-size: 1.8em;
+  border-left: none;
+  text-align: center; }
+  .large-blockquote cite {
+    font-size: 0.9em; }
+
+.no-indent > li > a {
+  padding: 0.7rem 0rem; }
 
 .notification {
   background-color: #9E1A56;
@@ -229,6 +240,12 @@ section {
   fill: #474747; }
   #hp-qlandpromo .quicklinks-container .quicklink svg:hover, #hp-qlandpromo .quicklinks-container .quicklink svg:focus, #hp-qlandpromo .quicklinks-container .quicklink svg:active {
     fill: #9E1A56; }
+
+.event-wrap {
+  display: inline-block; }
+  .event-wrap > a {
+    border: 1px solid #9E1A56;
+    padding: 3px 10px; }
 
 @media screen and (max-width: 39.9375em) {
   footer {

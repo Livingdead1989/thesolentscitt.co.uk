@@ -26,11 +26,11 @@
         <h4>Teachers are in Demand</h4>
         <p>Latest data shows that 9 out of 10 new teachers who want to teach found teaching jobs in the first 12 months. 95% of primary trained NQTs and 94% of secondary trained respondents were in employment in first 12 months.</p>
 
-        <h4>Starting Salary of between £22k and £27k</h4>
-        <p>The average starting salary for teachers in England now stands at £24,200 [Source: School Workforce Census, November 2013]. This compares favourably with average starting salaries of UK graduates who are employed six months after graduation (£18,345 – £22,535)<br><em>[Source: What Do Graduates Do? 2013, HECSU/AGCAS/UCAS]</em>.</p>
+        <h4>Competitive Salary and Generous Pension</h4>
+        <p><a href="//getintoteaching.education.gov.uk/teachers-salary-and-teaching-benefits/teacher-salaries" target="_blank">Teacher starting salaries</a> compare favourably with average UK Graduate starting salaries. Teachers also benefit from a generous <a href="//www.teacherspensions.co.uk/campaigns/active/nqt-hub/member/nqt-hub.aspx" target="_blank">pension scheme</a> and up to 13 weeks holiday entitlement. </p>
 
-        <h4>Teachers can earn up to £65,000 as a Leading Practitioner</h4>
-        <p>The leading practitioner pay range from 1 September 2014 applies to qualified teachers who are employed in posts that the relevant body has determined have the primary purpose of modelling and leading improvement of teaching skills.</p>
+        <h4>Career Progression Prospects</h4>
+        <p>Teachers have strong <a href="//getintoteaching.education.gov.uk/life-as-a-teacher/career-progression" target="_blank">career progression</a> possibilities with the opportunity to take on additional responsibilities and potentially move into leadership roles. Leading Practitioners can earn up to £68,000.</p>
 
         <div class="small-8 small-push-2">
           <br>
@@ -38,7 +38,7 @@
           <br><br>
         </div>
 
-        <h4>Up to £25,000 Tax-Free to Train</h4>
+        <h4>Up to £26,000 Tax-Free to Train</h4>
         <p>Bursaries are available for trainees on eligible postgraduate courses in England. Bursary amounts will vary depending on teaching subject and degree class or highest relevant academic qualification.</p>
 
         <h4>Teacher Training is better than ever</h4>
@@ -63,7 +63,7 @@
     <?php include 'includes/backtotop.html'; ?>
 
 <!-- Quote -->
-<?php include 'includes/quotes/gbarrett.html' ?>
+<?php include 'includes/quotes/rsargent.html' ?>
 <!-- Quote End -->
 
     <section class="row" id="howbecometeacher">
@@ -204,72 +204,9 @@
 <?php include 'includes/quotes/ofsted.html' ?>
 <!-- Quote End -->
 
+    <!-- include apply_process -->
+    <?php include ("includes/apply_process.html") ?>
 
-    <section class="row">
-      <div class="large-9 columns">
-        <h2 id="applybecometeacher">Apply to become a Teacher</h2>
-        <p>The process is simple. Log on to <a href="//www.ucas.com/ucas/teacher-training/ucas-teacher-training-apply-and-track" target="_blank">UCAS Teacher Training.</a></p>
-        <ul class="vertical menu" data-accordion-menu>
-          <li>
-            <a href="#">Complete the application form ensuring:</a>
-            <ul class="menu vertical nested">
-              <ul>
-                <li>your degree qualification is from a UK higher education institution or equivalent qualification comprising of 300 HE credit points, 60 of which are at level 6 of QCF (foundation degrees must be supplemented with 60 credits at level 6) (obtain NARIC confirmation for overseas qualifications)</li>
-                <li>you have achieved a standard equivalent to a grade C in the GCSE examinations in English and Mathematics.</li>
-              </ul>
-            </ul>
-          </li>
-          <li>
-            <a href="#">We will call you and arrange for an interview. You will be asked to:</a>
-            <ul class="menu vertical nested">
-              <ul>
-                <li>complete a subject task</li>
-                <li>carry out a prioritising exercise</li>
-                <li>complete a professional task</li>
-                <li>present a short microteach session of approximately 5 minutes’ duration</li>
-                <li>attend an interview with one of the SCITT coordinators and a subject teacher</li>
-              </ul>
-            </ul>
-          </li>
-          <li>
-            <a href="#">At interview, we will assess the following:</a>
-            <ul class="menu vertical nested">
-              <ul>
-                <li>The depth of your subject knowledge</li>
-                <li>Your potential to become a teacher</li>
-                <li>Your understanding of teaching and current educational issues</li>
-              </ul>
-            </ul>
-          </li>
-          <li>
-            <a href="#">What you will need to bring to interview:</a>
-            <ul class="menu vertical nested">
-              <ul>
-                <li>Original certificates for the qualifications stated on your application form</li>
-                <li>Proof of identity including: a passport, birth certificate, driving license and a utilities bill</li>
-              </ul>
-            </ul>
-          </li>
-          <li>
-            <a href="#">When will I hear if I have got a provisional place?</a>
-            <ul class="menu vertical nested">
-              <li>You will be informed of the decision including any conditions for an offer e.g. subject knowledge enhancement. <br>We aim to inform you of a decision within 48 hours of your interview.</li>
-            </ul>
-          </li>
-        </ul>
-        <br>
-        <p><strong>Professional skills tests in literacy and numeracy need to be completed before starting training.</strong></p>
-      </div>
-      <div class="hide-for-small-only hide-for-medium-only large-3 columns">
-        <img src="images/scitt19.jpg" alt="Secured employment in a Hampshire school">
-      </div>
-      <div class="column">
-        <p>The Solent SCITT and all partnership organisations are committed to safeguarding and promoting good welfare of pupils. We expect all trainees to share this commitment. All successful candidates will be subject to enhanced Disclosure and Barring Service checks to review suitability of working with pupils.</p>
-
-
-      </div>
-
-    </section>
     <!-- Back to Top -->
     <?php include 'includes/backtotop.html'; ?>
 

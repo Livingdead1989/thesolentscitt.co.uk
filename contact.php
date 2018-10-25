@@ -28,6 +28,9 @@
           <li>
             <a href="//twitter.com/thesolentscitt" target="_blank" class="hollow button"><i class="fa fa-twitter"></i> Twitter</a>
             <a href="//www.facebook.com/pages/The-Solent-SCITT/422876271129768" target="_blank" class="hollow button"><i class="fa fa-facebook"></i> Facebook</a>
+            <a href="//www.linkedin.com/company/the-solent-scitt/" target="_blank" class="hollow button"><i class="fa fa-linkedin"></i> LinkedIn</a>
+
+            
           </li>
         </ul>
         <h2>How to find us</h2>
@@ -114,40 +117,8 @@
       <br>
     </div>
 
-    <section class="row">
-      <div class="column">
-        <h2 class="text-center font-dark">Primary Partnership Schools</h2>
-        <br>
-      </div>
-      <div class="row medium-up-2 large-up-3 text-center">
-        <!-- B -->
-        <div class="column column-block"><a target="_blank" href="//bidbury-inf.hants.sch.uk/">Bidbury Infant School</a></div>
-        <div class="column column-block"><a target="_blank" href="//bordoninfantschool.co.uk/">Bordon Infant School</a></div>
-        <div class="column column-block"><a target="_blank" href="//bordon-junior.hants.sch.uk/">Bordon Junior School</a></div>
-        <div class="column column-block"><a target="_blank" href="//www.boshamprimary.co.uk/">Bosham Primary School</a></div>
-        <!-- C -->
-        <div class="column column-block"><a target="_blank" href="//www.clanfield.hants.sch.uk/">Clanfield Junior School</a></div>
-        <!-- H -->
-        <div class="column column-block"><a target="_blank" href="//horndeaninfants.co.uk/">Horndean Infant School</a></div>
-        <div class="column column-block"><a target="_blank" href="//horndeanjuniorschool.co.uk/">Horndean Junior School</a></div>
-        <!-- M -->
-        <div class="column column-block"><a target="_blank" href="//www.medstead.hants.sch.uk/">Medstead Primary School</a></div>
-        <div class="column column-block"><a target="_blank" href="//menghamjunior.co.uk/">Mengham Junior School</a></div>
-        <div class="column column-block"><a target="_blank" href="//www.meonjuniorschool.org.uk/">Meon Junior School</a></div>
-        <div class="column column-block"><a target="_blank" href="//www.millhillprimary.co.uk/">Mill Hill Primary school</a></div>
-        <!-- P -->
-        <div class="column column-block"><a target="_blank" href="//purbrook-inf.hants.sch.uk/">Purbook Infant School</a></div>
-        <!-- S -->
-        <div class="column column-block"><a target="_blank" href="//www.selborne.hants.sch.uk/">Selborne Primary School</a></div>
-        <div class="column column-block"><a target="_blank" href="//www.sharpscopseprimary.co.uk/">Sharps Copse Primary</a></div>
-        <div class="column column-block"><a target="_blank" href="//www.southbournejuniors.co.uk/">Southbourne Junior School</a></div>
-        <div class="column column-block"><a target="_blank" href="//www.southwayprimary.co.uk/">Southway Primary School</a></div>
-        <!-- T -->
-        <div class="column column-block"><a target="_blank" href="//theholme.schooljotter2.com/">The Holme Primary School</a></div>
-        <div class="column column-block"><a target="_blank" href="//www.waterloo.hants.sch.uk/">The Waterloo School</a></div>
-        <div class="column column-block"><a target="_blank" href="//trosnantschools.co.uk/">The Federation of Trosnant Schools</a></div>
-      </div>
-    </section>
+    <!-- include primary partnership schools -->
+    <?php include("includes/partnership.html") ?>
 
     <!-- FOOTER -->
     <?php include("includes/footer.html") ?>
