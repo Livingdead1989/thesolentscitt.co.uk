@@ -23,8 +23,8 @@
         <h2>Learning from real teachers in real classrooms</h2>
       </div>
       <div class="columns large-7">
-        <p>At the Solent SCITT, we believe every single pupil deserves to be taught by an excellent specialist teacher who will ignite their love of learning and inspire them to continue this learning beyond the school gates.</p>
-        <p><a href="/assets/full_programme.pdf" target="_blank">The Solent SCITT primary programme</a> is an innovative school- led Initial Teacher Training model. Over the course of one intensive year we will give you the skills and experience required to become a highly effective, fully qualified teacher, able to take up a teaching post anywhere in the UK or, with an optional PGCE qualification, anywhere in the world.</p>
+        <p>At The Solent SCITT, we believe every single pupil deserves to be taught by an excellent specialist teacher who will ignite their love of learning and inspire them to continue this learning beyond the school gates.</p>
+        <p><a href="/assets/full_programme.pdf" target="_blank">The Solent SCITT primary programme</a> is an innovative school-led Initial Teacher Training model. Over the course of one intensive year we will give you the skills and experience required to become a highly effective, fully qualified teacher, able to take up a teaching post anywhere in the UK or, with an optional PGCE qualification, anywhere in the world.</p>
 
         <br><br>
 
@@ -46,7 +46,7 @@
     <div class="accent-bg">
       <section class="row">
       <div class="columns">
-        <h2>What we offer</h2>
+        <h2>What we offer:</h2>
         <ul>
           <li>Comprehensive induction programme so that you feel ready to teach</li>
           <li>Immersion in whole school life from the outset</li>
@@ -58,14 +58,14 @@
           <li>Small cohorts so that we get to know you</li>
           <li>A programme tailored to your needs</li>
           <li>QTS and PGCE (option for Master’s credits)</li>
-          <li>Tax- free bursaries and scholarships</li>
+          <li>Tax-free bursaries and scholarships</li>
         </ul>
 
         <blockquote>
-          The Solent SCITT “provides a close knit, caring, training environment supported by personalised well- being and coaching sessions”
+          The Solent SCITT “provides a close-knit, caring, training environment supported by personalised well-being and coaching sessions”
           <br>
           “Trainees prefer to join a ‘small’ SCITT and point to this as being a key element in their success at completion of their training”
-          <cite>MK Duncan External Examiner Report June 2018</cite>
+          <cite>MK Duncan, External Examiner Report June 2018</cite>
         </blockquote>
       </div>
     </section>
@@ -80,7 +80,7 @@
     <div class="accent-bg">
       <section class="row">
       <div class="columns">
-        <h2>What your training year looks like</h2>
+        <h2>What your training year looks like:</h2>
         <h3>End of August</h3>
         <ul>
           <li>Join your secondary colleagues for essential interactive induction covering the essentials of child protection and safeguarding, the Teacher Standards and all that you will need to prepare you for your first day in school.</li>
@@ -95,7 +95,7 @@
           <li>Receive regular offsite training, often with your secondary colleagues, exploring pedagogy and planning lessons, positive behaviour for learning, being a professional and essential subject knowledge.</li> 
           <li>Enjoy some early years immersion so that you understand the context of your choice of Key Stage.</li> 
           <li>Use the professional support to help you find employment including creating a personal statement and developing your interview techniques.</li>
-          <li>Take part in the opportunities for coaching, wellbeing and individual support.</li>
+          <li>Take part in the opportunities for coaching, well-being and individual support.</li>
         </ul>
 
         <h3>January to February</h3>

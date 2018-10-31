@@ -21,10 +21,9 @@
     <section class="row">
       <div class="columns">
         <h2>Become a Primary Teacher and Grow the Future</h2>
-        <h3>Do you have the drive and passion to make a difference?</h3>
         <p>At the Solent SCITT, we believe every single pupil deserves access to an excellent primary teacher who will inspire them to love learning and lay the foundations for a bright, exhilarating and rewarding future.</p>
 
-        <h3>But teaching is so much more than that</h3>
+        <h3>Do you have the drive and passion to make a difference?</h3>
         <p>Young people are naturally curious, creative and fun which means that two days are never the same. You will be the person who develops their self-confidence, helps them to make friends, prevents them from dropping out and inspires their future careers. The rewards from teaching cannot be measured! You will be the teacher who leaves a legacy.</p>
         <p><a href="/assets/full_programme.pdf" target="_blank">The Solent SCITT primary programme</a> is an innovative school- led Initial Teacher Training model. Over the course of one intensive year we will give you the skills and experience required to become a highly effective, fully qualified teacher, able to take up a teaching post in Key Stage 1 or Key Stage 2.</p>
       
@@ -32,7 +31,7 @@
       </div>
 
       <div class="columns medium-12 large-6">
-        <h2>What we offer</h2>
+        <h2>What we offer:</h2>
         <ul>
           <li>Access to over 40 strategic partners in the local area</li>
           <li>100% recruitment and retention rate</li>
@@ -61,10 +60,10 @@
       <div class="columns">
 
         <blockquote class="large-blockquote">
-          The Solent SCITT “provides a close knit, caring, training environment supported by personalised well- being and coaching sessions”
+          The Solent SCITT “provides a close-knit, caring, training environment supported by personalised well-being and coaching sessions”
           <br><br>
           “Trainees prefer to join a ‘small’ SCITT and point to this as being a key element in their success at completion of their training”
-          <cite>MK Duncan External Examiner Report June 2018</cite>
+          <cite>MK Duncan, External Examiner Report June 2018</cite>
         </blockquote>
 
       </div>
@@ -80,10 +79,10 @@
     <div class="accent-bg">
       <section class="row">
       <div class="columns">
-        <h2>What your training year looks like</h2>
+        <h2>What your training year looks like:</h2>
         <h3>End of August</h3>
         <ul>
-          <li>Join your primary colleagues for essential interactive induction covering the essentials of child protection and safeguarding, the Teacher Standards and all that you will need to prepare you for your first day in school.</li>
+          <li>Join your primary colleagues for essential interactive induction covering the essentials of child protection and safeguarding, the Teachers' Standards and all that you will need to prepare you for your first day in school.</li>
         </ul>
 
         <h3>September to December</h3>
