@@ -25,7 +25,7 @@
 
         <h3>Do you have the drive and passion to make a difference?</h3>
         <p>Young people are naturally curious, creative and fun which means that two days are never the same. You will be the person who develops their self-confidence, helps them to make friends, prevents them from dropping out and inspires their future careers. The rewards from teaching cannot be measured! You will be the teacher who leaves a legacy.</p>
-        <p><a href="/assets/full_programme.pdf" target="_blank">The Solent SCITT primary programme</a> is an innovative school- led Initial Teacher Training model. Over the course of one intensive year we will give you the skills and experience required to become a highly effective, fully qualified teacher, able to take up a teaching post in Key Stage 1 or Key Stage 2.</p>
+        <p><a href="/assets/full_programme.pdf" target="_blank">The Solent SCITT full programme</a> is an innovative school-led Initial Teacher Training model. Over the course of one intensive year we will give you the skills and experience required to become a highly effective, fully qualified teacher, able to take up a teaching post in Key Stage 1 or Key Stage 2.</p>
       
         <br>
       </div>
@@ -82,7 +82,7 @@
         <h2>What your training year looks like:</h2>
         <h3>End of August</h3>
         <ul>
-          <li>Join your primary colleagues for essential interactive induction covering the essentials of child protection and safeguarding, the Teachers' Standards and all that you will need to prepare you for your first day in school.</li>
+          <li>Join your secondary colleagues for essential interactive induction covering the essentials of child protection and safeguarding, the Teachers' Standards and all that you will need to prepare you for your first day in school.</li>
         </ul>
 
         <h3>September to December</h3>
@@ -113,7 +113,7 @@
 
         <h3>Last week of June</h3>
         <ul>
-          <li>Take part in offsite challenge days working alongside your primary colleagues.</li>
+          <li>Take part in offsite challenge days working alongside your secondary colleagues.</li>
           <li>Develop an understanding of the skills you will need to become an outstanding teacher.</li>
           <li>Prepare for your NQT transition.</li>
           <li>Graduate as a qualified teacher ready to take employment.</li>

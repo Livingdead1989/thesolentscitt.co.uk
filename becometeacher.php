@@ -182,7 +182,7 @@
       <p>You will gain experience and training from schools who work in association with The Solent SCITT, including Primary, Secondary, Post 16 and Special Schools all located in Hampshire. The length, breadth, and content of the training will be flexible, taking account of your individual previous achievements, strengths and areas of development and ongoing interests.</p>
       <p>Your school based Mentor will be a class teacher of the school in which you are placed. These high-quality practitioners receive regular and bespoke training and updates from The Solent SCITT and have responsibility for ensuring that you have an appropriate Individual Training Plan and that you have every opportunity to meet the Professional Standards for Qualified Teacher Status (QTS).</p>
       <ul>For the award of PGCE and recommendation for QTS, you will need to provide the following evidence:
-        <li>Teaching Standards Portfolio</li>
+        <li>Teachers' Standards Portfolio</li>
         <li>Lesson Observations</li>
         <li>Professional Conduct throughout</li>
         <li>Assignments for Subject Study and 'Teaching and Learning and Personal Development'</li>
