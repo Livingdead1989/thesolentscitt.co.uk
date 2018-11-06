@@ -90,7 +90,7 @@
       </div>
       <div class="large-6 columns hp-promovid" data-equalizer-watch>
         <div class="flex-video">
-		  <iframe src="https://www.youtube.com/embed/vM9eTFCFJQQ?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+		  <iframe src="https://www.youtube-nocookie.com/embed/vM9eTFCFJQQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
       </div>
     </section>
