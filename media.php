@@ -19,12 +19,26 @@
     </div>
 
     <div class="row">
-      <div class="columns">
+      <div class="small-8 small-push-2 columns">
         <br>
         <div class="flex-video">
-          <iframe src="https://www.youtube.com/embed/vM9eTFCFJQQ?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+          <iframe src="https://www.youtube-nocookie.com/embed/vM9eTFCFJQQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
-
+      </div>
+      <div class="columns">
+        <h3>The Solent SCITT</h3>
+        <p>An insight into training with The Solent SCITT. Trainees, mentors and subject experts talk about the school-led teaching programme.</p>
+      </div>
+      <br><hr><br>
+      <div class="small-8 small-push-2 columns">
+        <br>
+        <div class="flex-video">
+          <iframe src="https://www.youtube-nocookie.com/embed/u4e4qhqmMak" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+      </div>
+      <div class="columns">
+        <h3>Management discuss The Solent SCITT programme</h3>
+        <p>Listen to some of the key figures behind The Solent SCITT talking about what the training involves and what makes our programme so successful.</p>
       </div>
     </div>
 
