@@ -7,7 +7,7 @@
   </head>
   <body>
     <!-- TOPNAV -->
-    <!-- <?php include("includes/topnav.html") ?> -->
+    <?php include("includes/topnav.html") ?>
 
     <!-- HEADER -->
     <header class="row hero-container">
