@@ -173,18 +173,17 @@ section {
     padding: 10px 15px;
     border-radius: 0 10px 0 0; }
     .hero .hero-text h1 {
-      font-size: 3em;
+      font-size: 2.5em;
       margin: 0;
-      font-weight: 900; }
+      font-weight: 900;
+      color: #474747; }
     .hero .hero-text p {
-      font-size: 1.3em;
+      font-size: 1.5em;
       margin: 0;
       font-weight: 900; }
     @media screen and (max-width: 39.9375em) {
       .hero .hero-text h1 {
-        font-size: 1.8em; }
-      .hero .hero-text p {
-        font-size: 1em; } }
+        font-size: 1.8em; } }
   @media screen and (max-width: 500px) {
     .hero .hero-text {
       border-radius: 0; } }

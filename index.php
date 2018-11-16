@@ -13,8 +13,8 @@
     <header class="row hero-container">
       <div class="columns hero hp-hero-prim">
         <div class="hero-text">
-          <h1>The Solent SCITT</h1>
           <p>School-centred primary and secondary teacher training</p>
+          <h1>The Solent SCITT</h1>
         </div>
       </div>
     </header>
@@ -26,7 +26,7 @@
     <section id="hp-qlandpromo" class="row" data-equalizer data-equalize-on="large" id="hp-qlandpromo">
       <div class="large-6 columns" data-equalizer-watch>
         <div class="hp-slogan-container">
-          <blockquote class="hp-slogan"><br><small>It is not too late to join the best profession in the world <br>Learn from real teachers in real classrooms</small><br><br></blockquote>
+          <blockquote class="hp-slogan"><br><small>Become a teacher and join the best profession in the world <br>Learn from real teachers in real classrooms</small><br><br></blockquote>
         </div>
 
 

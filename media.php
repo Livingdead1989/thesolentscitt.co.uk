@@ -40,6 +40,17 @@
         <h3>Management discuss The Solent SCITT programme</h3>
         <p>Listen to some of the key figures behind The Solent SCITT talking about what the training involves and what makes our programme so successful.</p>
       </div>
+      <br><hr><br>
+      <div class="small-8 small-push-2 columns">
+        <br>
+        <div class="flex-video">
+          <iframe src="https://www.youtube-nocookie.com/embed/IjEDZq_irzU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+      </div>
+      <div class="columns">
+        <h3>Teaching Maths</h3>
+        <p>Career changer and Solent SCITT graduate Gemma Barrett talking about her passion for Maths and why she wanted to teach.</p>
+      </div>
     </div>
 
     <section class="">
