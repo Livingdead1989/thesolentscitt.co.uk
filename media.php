@@ -19,6 +19,8 @@
     </div>
 
     <div class="row">
+
+
       <div class="small-8 small-push-2 columns">
         <br>
         <div class="flex-video">
@@ -30,6 +32,9 @@
         <p>An insight into training with The Solent SCITT. Trainees, mentors and subject experts talk about the school-led teaching programme.</p>
       </div>
       <br><hr><br>
+
+
+
       <div class="small-8 small-push-2 columns">
         <br>
         <div class="flex-video">
@@ -41,6 +46,9 @@
         <p>Listen to some of the key figures behind The Solent SCITT talking about what the training involves and what makes our programme so successful.</p>
       </div>
       <br><hr><br>
+
+
+
       <div class="small-8 small-push-2 columns">
         <br>
         <div class="flex-video">
@@ -51,6 +59,21 @@
         <h3>Teaching Maths</h3>
         <p>Career changer and Solent SCITT graduate Gemma Barrett talking about her passion for Maths and why she wanted to teach.</p>
       </div>
+
+
+
+      <div class="small-8 small-push-2 columns">
+        <br>
+        <div class="flex-video">
+          <iframe src="https://www.youtube-nocookie.com/embed/8mMbXC49E8A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+      </div>
+      <div class="columns">
+        <h3>SCITT Graduates discuss our high-quality training</h3>
+        <p>Find out about our high-quality teacher training programme from SCITT graduates who have been through it.</p>
+      </div>
+
+
     </div>
 
     <section class="">
