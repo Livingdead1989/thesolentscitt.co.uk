@@ -59,6 +59,7 @@
         <h3>Teaching Maths</h3>
         <p>Career changer and Solent SCITT graduate Gemma Barrett talking about her passion for Maths and why she wanted to teach.</p>
       </div>
+      <br><hr><br>
 
 
 
@@ -72,6 +73,7 @@
         <h3>SCITT Graduates discuss our high-quality training</h3>
         <p>Find out about our high-quality teacher training programme from SCITT graduates who have been through it.</p>
       </div>
+      <br><hr><br>
 
 
     </div>
