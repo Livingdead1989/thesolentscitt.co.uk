@@ -23,6 +23,10 @@
         <h2>Become a Primary Teacher and Grow the Future</h2>
         <p>At the Solent SCITT, we believe every single pupil deserves access to an excellent primary teacher who will inspire them to love learning and lay the foundations for a bright, exhilarating and rewarding future.</p>
 
+        <div class="text-center small-8 small-push-2">
+          <iframe src="https://www.youtube-nocookie.com/embed/0TJzk3la_ck" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+
         <h3>Do you have the drive and passion to make a difference?</h3>
         <p>Young people are naturally curious, creative and fun which means that two days are never the same. You will be the person who develops their self-confidence, helps them to make friends, prevents them from dropping out and inspires their future careers. The rewards from teaching cannot be measured! You will be the teacher who leaves a legacy.</p>
         <p><a href="/assets/full_programme.pdf" target="_blank">The Solent SCITT full programme</a> is an innovative school-led Initial Teacher Training model. Over the course of one intensive year we will give you the skills and experience required to become a highly effective, fully qualified teacher, able to take up a teaching post in Key Stage 1 or Key Stage 2.</p>
