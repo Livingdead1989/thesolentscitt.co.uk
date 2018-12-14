@@ -23,7 +23,7 @@
         <h2>Become a Primary Teacher and Grow the Future</h2>
         <p>At the Solent SCITT, we believe every single pupil deserves access to an excellent primary teacher who will inspire them to love learning and lay the foundations for a bright, exhilarating and rewarding future.</p>
 
-        <div class="text-center small-8 small-push-2">
+        <div class="text-center small-8 small-push-2 flex-video">
           <iframe src="https://www.youtube-nocookie.com/embed/0TJzk3la_ck" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
 
