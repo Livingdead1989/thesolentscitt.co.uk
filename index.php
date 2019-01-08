@@ -26,7 +26,7 @@
     <section id="hp-qlandpromo" class="row" data-equalizer data-equalize-on="large" id="hp-qlandpromo">
       <div class="large-6 columns" data-equalizer-watch>
         <div class="hp-slogan-container">
-          <blockquote class="hp-slogan"><br><small>Free consultation with our SCITT experts about how to get into teaching. <br>Limited places, offer ends 28th January 2019. <br><a style="color: #EBEBEB;" href="//docs.google.com/forms/d/e/1FAIpQLSf5SjCOc8YGG0SFX2ApIb5JUDHKWJg9BjIzjQJ59ZCkybnMFg/viewform?usp=sf_link">Click Here</a></small><br><br></blockquote>
+          <blockquote class="hp-slogan"><br><small>Free consultation with our experts on how to get into teaching. <br>Limited places, offer ends 28th January 2019. <br><a style="color: #EBEBEB;" href="//docs.google.com/forms/d/e/1FAIpQLSf5SjCOc8YGG0SFX2ApIb5JUDHKWJg9BjIzjQJ59ZCkybnMFg/viewform?usp=sf_link">Click Here</a></small><br><br></blockquote>
         </div>
 
 
