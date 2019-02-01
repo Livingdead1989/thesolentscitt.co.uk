@@ -239,7 +239,7 @@
               </svg>
 
             </div>
-            <p class="course-code"><small>SCITT Code</small><br>39Z7</p>
+            <p class="course-code"><small>SCITT Code</small><br>39Z9</p>
             <p class="course-select"><a class="button accentbutton" data-open="courseMFL">Course Details</a></p>
           </div>
         </div>
