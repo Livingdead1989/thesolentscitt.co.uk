@@ -20,7 +20,6 @@
     <!-- Section1 -->
     <section class="row">
       <div class="columns">
-        <h2>Assessment Only Route</h2>
         <p>The Assessment Only Route has been developed for very experienced classroom practitioners who can demonstrate that they meet all the standards for QTS without teacher training.</p>
 
         <h3>Are you a graduate working in school as an unqualified teacher?</h3>
@@ -45,9 +44,13 @@
             <li>Contact the Solent SCITT for an application form.</li>
           </ol>
 
+          <br>
+
           <h3>What happens next?</h3>
           <p>Once we have received your application form, one of our SCITT assessors will come to your school to meet you and will need to see evidence of your qualifications, school experience and passing the skills tests.</p>
           <p>We will then conduct a pre-registration observation of you teaching one of your classes.</p>
+
+          <br>
 
           <h3>Why do we do this?</h3>
           <p>We need to be satisfied that you will be able to meet the rigorous Teachers’ Standards without any additional training. </p>
