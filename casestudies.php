@@ -19,6 +19,21 @@
     </div>
 
     <div class="row">
+      <h2>Primary Teachers</h2>
+      <div class="columns small-up-1 medium-up-2">
+        <?php include 'includes/casestudies/cs-aallen.html' ?>
+
+        <?php include 'includes/casestudies/cs-swelland.html' ?>
+
+      </div>
+    </div>
+
+    <br>
+    <hr>
+    <br>
+
+    <div class="row">
+      <h2>Secondary Teachers</h2>
       <div class="columns small-up-1 medium-up-2">
         <?php include 'includes/casestudies/cs-gbarrett.html' ?>
 
