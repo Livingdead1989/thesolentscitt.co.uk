@@ -34,7 +34,7 @@
     <!-- Section2 -->
     <div class="accent-bg">
       <section class="row">
-        <div class="columns">
+        <div class="columns small-12 medium-6 large-8">
           <h3>The Assessment Only route could be for you.</h3>
           <p>What you need to do:</p>
           <ol>
@@ -55,6 +55,11 @@
           <h3>Why do we do this?</h3>
           <p>We need to be satisfied that you will be able to meet the rigorous Teachers’ Standards without any additional training. </p>
           <p>If this is not the case, we would recommend that you complete a one-year Inital Teacher Training (ITT) course via The Solent SCITT.</p>
+        </div>
+        <div class="columns small-8 small-push-2 medium-6 medium-push-0 large-4">
+          <br>
+          <img src="images/apple.jpg" alt="A fresh red apple placed upon books">
+          <br>
         </div>
       </section>
       <br>
