@@ -31,7 +31,7 @@
         </ol>
       </div>
 
-      <div class="columns small-8 medium-6 large-4">
+      <div class="columns small-8 small-pull-2 medium-6 medium-pull-0 large-4">
         <br>
         <img src="images/apple.jpg" alt="A fresh red apple placed upon books">
         <br>
