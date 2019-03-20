@@ -27,7 +27,6 @@
         <ol>
 	        <li>I have at least two years’ experience teaching in the classroom</li>
 	        <li>I have taught in at least two different schools</li>
-	        <li>I have GCSE C/4 or above in English and Maths (also GCSE C/4 in Science if you are teaching primary)</li>
 			<li>I have a standard equivalent to grade C/4, or above, in the GCSE examinations in English and mathematics</li>
 			<li>I have a standard equivalent to grade C/4, or above, in the GCSE examination in science because I wish to teach primary</li>
 			<li>I have an undergraduate degree awarded by a higher education provider in England or Wales, or a recognised equivalent qualification</li>
