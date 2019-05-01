@@ -26,6 +26,7 @@
           <li><a href="assets/policies/gdpr_protocols.pdf" target="_blank">GDPR Protocols</a> <small>(PDF)</small></li>
           <li><a href="assets/policies/privacy_notice.pdf" target="_blank">Privacy Notice</a> <small>(PDF)</small></li>
           <li><a href="assets/policies/data_breach_response.pdf" target="_blank">Data Breach Response</a> <small>(PDF)</small></li>
+          <li><a href="assets/policies/subject_access_request.pdf" target="_blank">Subject Access Request (SAR)</a> <small>(PDF)</small></li>
         </ul>
         <br>
         <p>Our policies are designed to create a safe and fair environment. <br>All our policies are freely available and transparent.</p>
