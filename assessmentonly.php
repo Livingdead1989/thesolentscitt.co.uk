@@ -26,11 +26,12 @@
         <p>Can you answer 'yes' to the following statements?</p>
         <ol>
 	        <li>I have at least two years’ experience teaching in the classroom</li>
-	        <li>I have taught in at least two different schools</li>
+	        <li>I have taught in at least two different UK schools</li>
 			<li>I have a standard equivalent to grade C/4, or above, in the GCSE examinations in English and mathematics</li>
 			<li>I have a standard equivalent to grade C/4, or above, in the GCSE examination in science because I wish to teach primary</li>
 			<li>I have an undergraduate degree awarded by a higher education provider in England or Wales, or a recognised equivalent qualification</li>
         </ol>
+        <p>*Applicants with a non-UK degree will be required to demonstrate equivalence with UK standards through <a href="//www.naric.org.uk/naric" target="_blank">NARIC</a>.</p>
       </div>
 
       <div class="columns small-8 small-pull-2 medium-6 medium-pull-0 large-4">
