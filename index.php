@@ -26,7 +26,8 @@
     <section id="hp-qlandpromo" class="row" data-equalizer data-equalize-on="large" id="hp-qlandpromo">
       <div class="large-6 columns" data-equalizer-watch>
         <div class="hp-slogan-container">
-          <blockquote class="hp-slogan"><br><small>Become a teacher and join the best profession in the world. <br>Learn from real teachers in real classrooms.</small><br><br></blockquote>
+          <!-- <blockquote class="hp-slogan"><br><small>Become a teacher and join the best profession in the world. <br>Learn from real teachers in real classrooms.</small><br><br></blockquote> -->
+          <blockquote class="hp-slogan"><br><small>Calling all graduates working as unqualified teachers. <br>Gain QTS in 2019/20 via our <a href="/assessmentonly.php">Assessment Only</a> Route.</small><br><br></blockquote>
         </div>
 
 
