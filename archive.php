@@ -22,6 +22,7 @@
       <div class="columns">
         <h2>Newsletters</h2>
         <ul class="circle">
+          <li><a href="/assets/archive/newsletter-jul2019.pdf" target="_blank">July 2019</a></li>
           <li><a href="/assets/archive/newsletter-dec2018.pdf" target="_blank">December 2018</a></li>
           <li><a href="/assets/archive/newsletter-jul2018.pdf" target="_blank">July 2018</a></li>
           <li><a href="/assets/archive/newsletter-mar2018.pdf" target="_blank">March 2018</a></li>
