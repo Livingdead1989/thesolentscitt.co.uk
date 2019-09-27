@@ -98,37 +98,7 @@
         </ul>
         <br>
         <p>All applicants must be able to provide original certificates of academic and equivalent qualifications.</p>
-
-        <h3 id="professionalskillstests"><strong>Professional Skills Tests:</strong></h3>
-        <p><em>We offer <strong>personalised support to help you pass your skills tests</strong>. The £50 fee is fully refunded when you confirm your place at The Solent SCITT on UCAS. If you are interested, please get in touch via the <a href="/contact.php">Contact Page</a>.</em></p>
-        <p>You will be required to have passed the skills tests in both English and Mathematics before the start of the course. The registration system is now open and we encourage all applicants to take the tests as early as possible to avoid the disappointment of gaining a place and not being able to start.</p>
-
-        <ul class="vertical menu" data-accordion-menu>
-          <li>
-            <a href="#">How to apply for the Professional Skills Tests:</a>
-            <ul class="menu vertical nested">
-              <ul>
-                <li>Book your tests via the DfE skills test registration page or by phoning 0300 303 9613. The nearest test centre is 1-8 Ogle Road Southampton SO14 7FB</li>
-                <li>You can access updated practice tests, including punctuation for the literacy test, via the DfE skills test pages. This is updated regularly with relevant information.</li>
-                <li>Special arrangements can be requested and further information on who is eligible and how to apply can be found on the DfE website</li>
-                <li>On the day of your test you will need to take proof of application to ITT with you.</li>
-              </ul>
-            </ul>
-          </li>
-          <li>
-            <a href="#">DBS and Occupational Health:</a>
-            <ul class="menu vertical nested">
-              <ul>
-                <li>You must undertake an Enhanced Disclosure and Barring Service check (DBS) and an occupational health assessment to assess fitness for teaching.</li>
-                <li>If you are successful in securing a SCITT Tuition Fee place you will be required to cover the cost of these clearances yourself – they are currently £51.20 for the DBS and £18 for the standard health assessment however if the health assessment raises any issues further reports may be required at additional expense to you.</li>
-              </ul>
-            </ul>
-          </li>
-        </ul>
-        <br>
-        <div class="text-center">
-          <a class="button rounded large" href="//www.skillstestbooking.com/sta-web/" target="_blank">Book Your Skills Test Online</a>
-        </div>
+        <p>Numeracy and literacy skills will be assessed on interview and we will use this information to identify needs and put tailored support packages in place.</p>
       </div>
 </section>
 
