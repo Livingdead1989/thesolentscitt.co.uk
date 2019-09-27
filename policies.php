@@ -23,6 +23,7 @@
         <h4>Data Protection <small>| collection &amp; use of your data</small></h4>
         <hr>
         <ul>
+          <li><a href="assets/policies/absence.pdf" target="_blank">Absence</a> <small>(PDF)</small></li>
           <li><a href="assets/policies/gdpr_protocols.pdf" target="_blank">GDPR Protocols</a> <small>(PDF)</small></li>
           <li><a href="assets/policies/privacy_notice.pdf" target="_blank">Privacy Notice</a> <small>(PDF)</small></li>
           <li><a href="assets/policies/data_breach_response.pdf" target="_blank">Data Breach Response</a> <small>(PDF)</small></li>
