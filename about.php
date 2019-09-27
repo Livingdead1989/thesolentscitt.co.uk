@@ -21,7 +21,7 @@
     <section class="row">
       <div class="large-6 columns">
         <h2>About The Solent SCITT</h2>
-        <p>Now in its 6th year, The Solent SCITT based at Park Community School has had its best recruitment cycle to date.</p>
+        <p>Now in its 7th year, The Solent SCITT based at Park Community School has had its best recruitment cycle to date.</p>
         <p>Ranging in age and experience, the student teachers have one thing in common – a desire to teach and inspire the next generation.</p> 
         <p>For some this has meant a continuation from a degree and for others a complete change of career.</p>
         <p>David Lown enjoyed a distinguished career in Bio Medical Science before deciding to train to become a Biology teacher in 2018/19 and found the ‘hands on’ nature of the course hugely beneficial:</p> 

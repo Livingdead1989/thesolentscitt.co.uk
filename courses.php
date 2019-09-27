@@ -680,7 +680,6 @@
 
         <div class="column text-center">
           <p>Bursaries can be found on the <a href="//getintoteaching.education.gov.uk/funding-and-salary/overview" target="_blank">GetIntoTeaching website</a>.</p>
-          <p>The full primary and secondary TLPD programme structure can be accessed here <a href="/assets/full_programme.pdf" target="_blank">Full Programme</a>.</p>
         </div>
     </section>
 

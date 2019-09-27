@@ -162,8 +162,6 @@
         <li>teach across two consecutive age ranges/phases</li>
         <li>experience teaching in at least four contrasting schools.</li>
       </ul>
-
-      <p><strong>The full primary and secondary TLPD programme structure can be accessed here <a href="/assets/full_programme.pdf" target="_blank">Full Programme</a>.</strong></p>
     </div>
   </section>
   <!-- Back to Top -->
