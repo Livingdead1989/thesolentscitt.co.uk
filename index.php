@@ -132,9 +132,9 @@
         </div>
 
         <div class="column text-center">
-          <a href="/becometeacher.php#professionalskillstests">
+          <a href="/becometeacher.php">
             <img class="thumbnail" src="images/scitt17.jpg" alt="Graduates apply for teacher training via UCAS stating their degree and other qualifications">
-            <p class="thumbnail-caption">Professional Skills Tests</p>
+            <p class="thumbnail-caption">Becoming a Teacher</p>
           </a>
         </div>
 
