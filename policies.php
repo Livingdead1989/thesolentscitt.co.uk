@@ -20,8 +20,6 @@
 
     <section class="row">
       <div class="medium-8 large-6 columns">
-        <h4>Data Protection <small>| collection &amp; use of your data</small></h4>
-        <hr>
         <ul>
           <li><a href="assets/policies/absence.pdf" target="_blank">Absence</a> <small>(PDF)</small></li>
           <li><a href="assets/policies/gdpr_protocols.pdf" target="_blank">GDPR Protocols</a> <small>(PDF)</small></li>
