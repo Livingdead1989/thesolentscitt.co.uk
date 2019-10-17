@@ -162,6 +162,11 @@
         <li>teach across two consecutive age ranges/phases</li>
         <li>experience teaching in at least four contrasting schools.</li>
       </ul>
+
+      <div class="text-center">
+      	<a class="button large" href="/assets/tlpd_programme_overview.pdf" target="_blank">Training Programme Overview</a>
+      </div>
+      <br><br>
     </div>
   </section>
   <!-- Back to Top -->

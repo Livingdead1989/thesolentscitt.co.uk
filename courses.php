@@ -681,6 +681,11 @@
         <div class="column text-center">
           <p>Bursaries can be found on the <a href="//getintoteaching.education.gov.uk/funding-and-salary/overview" target="_blank">GetIntoTeaching website</a>.</p>
         </div>
+
+      <div class="text-center">
+        <a class="button large" href="/assets/tlpd_programme_overview.pdf" target="_blank">Training Programme Overview</a>
+      </div>
+      <br>
     </section>
 
 
