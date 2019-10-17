@@ -166,7 +166,6 @@
       <div class="text-center">
       	<a class="button large" href="/assets/tlpd_programme_overview.pdf" target="_blank">Training Programme Overview</a>
       </div>
-      <br><br>
     </div>
   </section>
   <!-- Back to Top -->
