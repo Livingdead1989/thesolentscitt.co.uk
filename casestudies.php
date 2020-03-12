@@ -25,6 +25,8 @@
 
         <?php include 'includes/casestudies/cs-swelland.html' ?>
 
+        <?php include 'includes/casestudies/cs-kpennell.html' ?>
+
       </div>
     </div>
 
