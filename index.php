@@ -26,7 +26,7 @@
     <section id="hp-qlandpromo" class="row" data-equalizer data-equalize-on="large" id="hp-qlandpromo">
       <div class="large-6 columns" data-equalizer-watch>
         <div class="hp-slogan-container">
-          <blockquote class="hp-slogan"><br><small>Become a teacher and join the best profession in the world. <br>Learn from real teachers in real classrooms.</small><br><br></blockquote>
+          <blockquote class="hp-slogan"><br><small>Become a teacher and join the best profession in the world. <br>Learn from real teachers in real classrooms.<br> <a href="/assets/learn-more.pdf" style="color: black;">Learn more about teacher training with The Solent SCITT</a></small><br></blockquote>
         </div>
 
 
