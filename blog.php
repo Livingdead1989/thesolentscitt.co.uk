@@ -19,6 +19,7 @@
     </div>
 
     <!-- INSERT BLOG -->
+    <?php include("includes/blog/2020-05-04-top-tips-for-behaviour-for-learning.html") ?>
     <?php include("includes/blog/2020-02-04-the-importance-of-mfl.html") ?>
 
     <section class="">
@@ -32,7 +33,8 @@
 
 
     <!-- AUTHORS -->
-    <div class="reveal" id="author-mariedermy" aria-labelledby="AuthorMarieDermy" data-reveal>
+    <!-- Marie Dermy -->
+  <div class="reveal" id="author-mariedermy" aria-labelledby="AuthorMarieDermy" data-reveal>
 		<div class="row">
 			<div class="small-6 medium-3 columns">
 				<img src="images/blog/authors/mariedermy.jpg" class="circle profile-img" alt="Marie Dermy">
@@ -54,6 +56,30 @@
 			<span aria-hidden="true">&times;</span>
 		</button>
 	</div>
+
+  <!-- Gill Millet -->
+  <div class="reveal" id="author-gillmillet" aria-labelledby="AuthorGillMillet" data-reveal>
+    <div class="row">
+      <div class="small-6 medium-3 columns">
+        <img src="images/blog/authors/gillmillet.jpg" class="circle profile-img" alt="Gill Millet">
+      </div>
+      <div class="small-12 medium-9 columns">
+        <h1 id="AuthorMarieDermy">Gill Millet</h1>
+        <p class="lead">SCITT Trainer | Cert Ed, AST</p>
+      </div>
+    </div>
+
+
+    <div class="row">
+      <p>Gill is a very experienced Teacher of 42 years in the Secondary Sector. Initially trained as a PE Teacher in 1975, she has been Head of PE Department and has experience in teaching History and English and Performing Arts. She has qualified as an Advanced Skills Teacher and an ITP /OTP facilitator. Her Training has included qualifications in Coaching and Teaching and Learning.</p>
+     
+      <p>In the latter years, Gill has been involved in coaching teachers in schools that have 'Required Improvement' and for the last 3 years has been working with The Solent SCITT training the next generation of teachers.</p> 
+    </div>
+
+    <button class="close-button" data-close aria-label="Close Accessible Modal" type="button">
+      <span aria-hidden="true">&times;</span>
+    </button>
+  </div>
     <!-- /AUTHORS -->
 
     <!-- FOOTER -->
