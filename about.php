@@ -65,7 +65,7 @@
             <div class="column text-center">
               <a data-open="exampleModalseery">
                 <img class="circle" src="images/team/phil.jpg" alt="Phil, Course Administrator">
-                <p>Phil Seery <br>Course Administrator</p>
+                <p>Phil Seery <br>Training Manager</p>
               </a>
             </div>
             <!-- Jane Wood -->
@@ -101,7 +101,7 @@
                 <h2>Phil Seery</h2>
                 <p class="lead">Qualifications</p>
                 <p>BA (Hons), PGCE: Park Community School</p>
-                <p>Phil is the Solent SCITT's course administrator. Phil worked in the media for Sky and Agence France Presse (AFP) for over a decade as a lead journalist and editor in both England and Germany. Whilst working in the Spanish capital of Madrid, Phil moved into the Education sector, combining his passion for teaching, writing and advertising to help establish a successful teaching company in Spain. On returning to England, Phil has brought his skills into initial teacher training and is now Community Project Coordinator at Park Community School working on teaching, community and media projects.</p>
+                <p>Phil is the Solent SCITT's training manager. Phil worked in the media for Sky and Agence France Presse (AFP) for over a decade as a lead journalist and editor in both England and Germany. Whilst working in the Spanish capital of Madrid, Phil moved into the Education sector, combining his passion for teaching, writing and advertising to help establish a successful teaching company in Spain. On returning to England, Phil has brought his skills into initial teacher training and is now the training manager at Park Community School working on teaching, community and media projects.</p>
               </div>
               <div class="small-4 column">
                 <img class="modal-profile-img circle" src="images/team/phil.jpg" alt="Phil Profile Image">
