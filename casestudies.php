@@ -21,11 +21,14 @@
     <div class="row">
       <h2>Primary Teachers</h2>
       <div class="columns small-up-1 medium-up-2">
+        
+        <?php include 'includes/casestudies/cs-emaloney.html' ?>
+
+        <?php include 'includes/casestudies/cs-kpennell.html' ?>
+
         <?php include 'includes/casestudies/cs-aallen.html' ?>
 
         <?php include 'includes/casestudies/cs-swelland.html' ?>
-
-        <?php include 'includes/casestudies/cs-kpennell.html' ?>
 
       </div>
     </div>
@@ -37,11 +40,12 @@
     <div class="row">
       <h2>Secondary Teachers</h2>
       <div class="columns small-up-1 medium-up-2">
+
+        <?php include 'includes/casestudies/cs-hwilkinson.html' ?>
+
+        <?php include 'includes/casestudies/cs-ehughes.html' ?>
+
         <?php include 'includes/casestudies/cs-gbarrett.html' ?>
-
-        <?php include 'includes/casestudies/cs-rpurkis.html' ?>
-
-        <?php include 'includes/casestudies/cs-swareham.html' ?>
 
         <?php include 'includes/casestudies/cs-dlown.html' ?>
 
