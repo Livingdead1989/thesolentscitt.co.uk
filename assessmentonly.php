@@ -48,7 +48,6 @@
           <p>What you need to do:</p>
           <ol>
             <li>Speak to your current school and make sure that they are happy to support you. It will cost £2,500, payable in advance, and you will need a letter of support from your headteacher.</li>
-            <li>Apply to complete the professional skills test in literacy and numeracy</li>
             <li>Put together a portfolio of evidence demonstrating that you have met the Teachers’ Standards.</li>
             <li>Contact the Solent SCITT for an application form.</li>
           </ol>
@@ -56,7 +55,7 @@
           <br>
 
           <h3>What happens next?</h3>
-          <p>Once we have received your application form, one of our SCITT assessors will come to your school to meet you and will need to see evidence of your qualifications, school experience and passing the skills tests.</p>
+          <p>Once we have received your application form, one of our SCITT assessors will come to your school to meet you and will need to see evidence of your qualifications, school experience.</p>
           <p>We will then conduct a pre-registration observation of you teaching one of your classes.</p>
 
           <br>
