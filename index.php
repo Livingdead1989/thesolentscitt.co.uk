@@ -104,7 +104,7 @@
             <li>High-quality primary and secondary teacher training</li>
             <li>Graded 'Good' by Ofsted (October 2015)</li>
             <li>A personalised and supportive approach delivered by experts</li>
-            <li>A commitment to helping trainees find employment: 100% success to date</li>
+            <li>A commitment to helping trainees find employment with an impressive success rate</li>
             <li>QTS with a PGCE option</li>
             <li>Routes into a broad range of subject areas</li>
             <li>Free gym membership and loan of a brand new laptop</li>
