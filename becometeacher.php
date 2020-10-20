@@ -89,8 +89,8 @@
             <a href="#">GCSEs Requirements</a>
             <ul class="menu vertical nested">
               <ul>
-                <li>You must be in possession of appropriate prior qualifications including GCSE grade C or above in English (or English Language) and Mathematics. If you are training within Primary you must also hold a GCSE grade C or above in Science.</li>
-                <li>If you are otherwise suitable for ITT but, for whatever reason, have not successfully achieved a GCSE grade C you may be given an opportunity to show that you can nevertheless meet the required standard by taking an equivalence test.</li>
+                <li>You must be in possession of appropriate prior qualifications including GCSE grade C/4 or above in English (or English Language) and Mathematics. If you are training within Primary, you must also hold a GCSE grade C/4 or above in a science subject.</li>
+                <li>If you are otherwise suitable for ITT but, for whatever reason, have not successfully achieved a GCSE grade C/4 you may be given an opportunity to show that you can nevertheless meet the required standard by taking an equivalence test. This is something we can facilitate for you.</li>
                 <li>Applicants with non-UK secondary school qualifications will be required to demonstrate equivalence with UK GCSE standards through NARIC.</li>
               </ul>
             </ul>
