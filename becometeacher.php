@@ -98,7 +98,6 @@
         </ul>
         <br>
         <p>All applicants must be able to provide original certificates of academic and equivalent qualifications.</p>
-        <p>Numeracy and literacy skills will be assessed on interview and we will use this information to identify needs and put tailored support packages in place.</p>
       </div>
 </section>
 
