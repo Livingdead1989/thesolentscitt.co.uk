@@ -65,7 +65,7 @@
           </div>
         </div>
         <!-- courseComputerScience -->
-        <div class="medium-6 large-3 column text-center inactive">
+        <div class="medium-6 large-3 column text-center">
           <div class="course-container">
             <p class="course-title">Computer Science</p>
             <div class="course-image">
@@ -73,7 +73,7 @@
                 <path d="M325,0H41A41.12,41.12,0,0,0,0,41V244a41.12,41.12,0,0,0,41,41H159v17s-22.38-.54-35,4c-25,9-40.39,28-21,28H262c19.36,0,5-22-26-30-11-2.85-29-2-29-2V285H325a41.12,41.12,0,0,0,41-41V41A41.12,41.12,0,0,0,325,0ZM279,272a10,10,0,1,1,10-10A10,10,0,0,1,279,272Zm41-38a5,5,0,0,1-5,5H52a5,5,0,0,1-5-5V49a5,5,0,0,1,5-5H315a5,5,0,0,1,5,5Z"/>
               </svg>
             </div>
-            <p class="course-code"><small>SCITT Code</small><br>Unavailable</p>
+            <p class="course-code"><small>SCITT Code</small><br>Q404</p>
             <p class="course-select"><a class="button accentbutton" data-open="courseComputerScience">Course Details</a></p>
           </div>
         </div>
@@ -386,21 +386,17 @@
         <div class="large reveal" id="courseComputerScience" data-reveal>
           <h2>Computer Science</h2>
           <p class="lead">Why Computer Science?</p>
-          <p>Teaching Computer Science with ICT is like surfing the crest of a wave. It is challenging, exhilarating, has massive highs and its direction is ever changing. Computer Science and ICT education is going through the biggest shift in direction it has ever seen. Studying at The Solent SCITT will ensure that you are at the forefront of development of a curriculum area. Pupils need to understand the functionality of software but also program and design the next groundbreaking aspects of technology. You will receive training, support and expertise that will enable you to become a competent Computer Science teacher.</p>
-          <p>You will be immersed in the real life world of education on a daily basis supported by people that are equipped to shape and build the outstanding teachers of the future. The Solent SCITT provides an exciting opportunity to learn the skills of the trade in a hands on practical way that will help you to be part of a new cohort of teachers ready to inspire the next Turing or Gates.</p>
+          <p>As a trainee at The Solent SCITT, you will develop the knowledge and skills to inspire the next generation of computer scientists. In addition, you will receive tailored training focused on the key challenges faced by the teaching of this fundamental subject.</p>
 
           <p class="lead">How is Subject Study structured?</p>
-          <p>Subject specific sessions are run by Subject Experts for each specialism and take place for half a day each week. In addition there will be a weekly half day session in school for subject specialist development.</p>
+          <p>Subject specific sessions are run by Subject Experts for each specialism and take place fortnightly. In addition, there will be a weekly half day session in school for subject specialist development.</p>
           <p>Subject sessions being delivered by a Subject Expert who is a current outstanding practitioner ensures that you will get up to date advice on subject specific teaching and learning, and the most effective ways of making this outstanding within the classroom.</p>
-
-          <p class="lead">Do I need subject knowledge enhancement?</p>
-          <p>There are a number of fully funded subject enhancement courses which can be completed in the Summer term before you start your training.  Once you have secured your training place you will be eligible to apply - don't delay, apply for a SCITT PGCE place today!</p>
 
           <p class="lead">Course Codes</p>
           <table>
             <tr>
               <td>SCITT</td>
-              <td></td>
+              <td>Q404</td>
             </tr>
           </table>
           <br>
