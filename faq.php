@@ -34,30 +34,30 @@
           <li>
             <a href="#">Why should I choose The Solent SCITT?</a>
             <ul class="menu vertical nested">
-              <p>We are an experienced provider focused on high-quality ‘hands on’ training with the opportunity to learn from real teachers in real classrooms. We have strong school networks and our committed to helping the cohort find suitable teaching posts with many SCITT graduates employed in partnership and placement schools.</p>
+              <p>We are an experienced provider focused on high-quality ‘hands on’ training with the opportunity to learn from real teachers in real classrooms. We have strong school networks and are committed to helping the cohort find suitable teaching posts with many SCITT graduates employed in partnership and placement schools.</p>
             </ul>
           </li>
 
           <li>
             <a href="#">Can I gain the PGCE award along with QTS?</a>
             <ul class="menu vertical nested">
-              <p>Yes, all trainees who complete the course with be awarded Qualified Teacher Status (QTS) and there is an option to achieve as Post Graduate Certificate in Education (PGCE) accredited by the University of Portsmouth.</p>
+              <p>Yes, all trainees who complete the course with be awarded Qualified Teacher Status (QTS) and there is an option to achieve a Post Graduate Certificate in Education (PGCE) accredited by the University of Portsmouth.</p>
             </ul>
           </li>
 
           <li>
             <a href="#">What is a SCITT programme? What is the difference with a University-led route?</a>
             <ul class="menu vertical nested">
-              <p>A SCITT or school-centred route means you are in school from the September start and the emphasis is on mixed important academic theory with on the job learning alongside high-quality teachers. University-led course involves more classroom-based teaching, theory and reduced school days.</p>
+              <p>A SCITT or school-centred route means you are in school from the September start and the emphasis is learning on the job. Leading teachers will help develop your teaching practice with academic theory underpinning this. A University-led course involves more classroom-based teaching, theory and reduced school days.</p>
             </ul>
           </li>
 
           <li>
             <a href="#">What are the qualification entry requirements?</a>
             <ul class="menu vertical nested">
-              <p>To apply for a teacher training course, you must have GCSE English and Maths at Level 4 (Grade C) or above for all courses. If you wish to train for primary, you will also need a Level (Grade C) or above in a GCSE Science subject. We accept equivalency tests and can help arrange these for you if required.</p>
+              <p>To apply for a teacher training course, you must have GCSE English and Maths at Level 4 (Grade C) or above for all courses. If you wish to train for primary, you will also need a Level 4 (Grade C) or above in a GCSE Science subject. We accept equivalency tests and can help arrange these for you if required.</p>
 
-              <p>You must hold a UK degree or equivalent to access this post graduate course and qualifications achieved abroad will need to be verified via NARIC. It is advantageous if the degree relates to the subject you wish to teach but we understand that sometimes this is not possible. All degree subjects and classifications are welcome.</p>
+              <p>You must hold a UK degree or equivalent to access this postgraduate course and qualifications achieved abroad will need to be verified via NARIC. It is advantageous if the degree relates to the subject you wish to teach, but we understand that sometimes this is not possible. All degree subjects and classifications are welcome.</p>
 
               <p>All qualifications should be in place before the course starts in September.</p>
             </ul>
@@ -66,7 +66,7 @@
           <li>
             <a href="#">Do you offer primary and secondary courses?</a>
             <ul class="menu vertical nested">
-              <p>Yes, we offer courses for both primary and secondary. SCITT primary places are available each year and there are school direct salaried places. For secondary we offer both SCITT and School Direct courses. For all course information look at our <a href="courses.php">Courses page</a>.</p>
+              <p>Yes, we offer courses for both primary and secondary. SCITT primary places are available each year and there are School Direct salaried places. For secondary we offer both SCITT and School Direct training courses. For all course information look at our <a href="courses.php">Courses page</a>.</p>
             </ul>
           </li>
 
@@ -129,7 +129,7 @@
           <li>
             <a href="#">Do you offer the Assessment Only route?</a>
             <ul class="menu vertical nested">
-              <p>Yes, we offer the <a href="assessmentonly.php">Assessment Only (AO) route</a> for very experienced classroom practitioners who can demonstrated that they meet the standards for QTS without teacher training.</p>
+              <p>Yes, we offer the <a href="assessmentonly.php">Assessment Only (AO) route</a> for very experienced classroom practitioners who can demonstrate that they meet the standards for QTS without teacher training.</p>
             </ul>
           </li>
 
