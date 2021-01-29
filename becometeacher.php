@@ -119,10 +119,11 @@
 
         <p><strong>In addition:</strong></p>
         <p>As well as meeting the above criteria, It is important that you can demonstrate an ability to work independently as well as being an effective team member. You will need to be hard-working, committed and resilient, all qualities which will be sought after during the selection process.</p>
-        <p>Applications should be made through UCAS Teacher Training via the button below.</p>
+        <p>Applications should be made through DfE Apply for Teacher Training.</p>
         <br>
         <div class="text-center">
-          <a class="button rounded large" href="//www.ucas.com/ucas/teacher-training/ucas-teacher-training-apply-and-track" target="_blank">UCAS Teacher Training</a>
+          <a class="button rounded large" href="//www.gov.uk/apply-for-teacher-training" target="_blank">DfE Apply for Teacher Training</a>
+
         </div>
         <br>
         <p>Apply here using the following information:</p>
