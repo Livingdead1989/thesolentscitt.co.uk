@@ -38,15 +38,9 @@
       <section class="row">
         <div class="columns">
           <h2>Meet the team</h2>
-          <div class="small-up-2 medium-up-3 large-up-5 team-container">
+          <div class="small-up-1 medium-up-3 large-up-3 team-container">
 
-            <!-- Clare Harrison -->
-            <div class="column text-center">
-              <a data-open="exampleModalharrison">
-                <img class="circle" src="images/team/clare.jpg" alt="Clare, SCITT Coordinator">
-                <p>Clare Harrison <br>SCITT Coordinator</p>
-              </a>
-            </div>
+            
             <!-- Jackie Lowe -->
             <div class="column text-center">
               <a data-open="exampleModallowe">
@@ -67,31 +61,6 @@
                 <img class="circle" src="images/team/phil.jpg" alt="Phil, Course Administrator">
                 <p>Phil Seery <br>Training Manager</p>
               </a>
-            </div>
-            <!-- Jane Wood -->
-            <div class="column text-center">
-              <a data-open="exampleModalwood">
-                <img class="circle" src="images/team/jane.jpg" alt="Jane, SCITT Coordinator">
-                <p>Jane Wood <br>SCITT Coordinator</p>
-              </a>
-            </div>
-
-
-            <!-- MODAL 1 -->
-            <div class="large reveal" id="exampleModalharrison" data-reveal>
-              <div class="small-8 column">
-                <h2>Clare Harrison</h2>
-                <p class="lead">Qualifications</p>
-                <p>BA MA (Ed) PGCE</p>
-                <p>Clare Harrison is an Assistant Head Teacher at Park Community School and is one of the Solent SCITT’s three Coordinators. She is an outstanding English teacher with an MA in Teaching and Learning from the University of Chichester. Clare was a Lead Teacher for English in Hampshire and her experience in developing curriculum drove her to take on leadership of Park's year 7 trans-disciplinary curriculum; The Star Curriculum.</p>
-                <p>Clare is a NC ITP/OTP facilitator and a Learning Leader at Park Community School. She believes passionately in the importance of coaching and mentoring in the development of all teachers.</p>
-              </div>
-              <div class="small-4 column">
-                <img class="modal-profile-img circle" src="images/team/clare.jpg" alt="Clare Profile Image">
-              </div>
-              <button class="close-button" data-close aria-label="Close modal" type="button">
-                <span aria-hidden="true">&times;</span>
-              </button>
             </div>
 
 
@@ -142,22 +111,7 @@
                 <span aria-hidden="true">&times;</span>
               </button>
             </div>
-            <!-- MODAL 5 -->
-            <div class="large reveal" id="exampleModalwood" data-reveal>
-              <div class="small-8 column">
-                <h2>Jane Wood</h2>
-                <p class="lead">Qualifications</p>
-                <p>BA (Hons), PGCE, NPQH: Warblington School</p>
-                <p>Jane is one of the Solent SCITT’s three coordinators who has vast experience of initial teacher, training having been a mentor and a professional tutor for many years. Jane was a career changer when she started teaching from the financial sector and is a passionate advocate of the rewards of joining the profession at any time in working life.</p>
-                <p>Jane started her teaching career as a teacher of English and was soon recognised as an outstanding practitioner, quickly promoted to Head of English as well as a Lead Teacher of English for Hampshire. Jane is now an Assistant Headteacher at Warblington School with responsibility for teaching and learning, continual professional learning, Induction tutor and line manager of science and Performing arts. Jane is a qualified facilitator for the Improving Teacher Programme and the Outstanding Teacher Programme and has delivered training at both local and national level on the power of guided reading.</p>
-              </div>
-              <div class="small-4 column">
-                <img class="modal-profile-img circle" src="images/team/jane.jpg" alt="Jane Profile Image">
-              </div>
-              <button class="close-button" data-close aria-label="Close modal" type="button">
-                <span aria-hidden="true">&times;</span>
-              </button>
-            </div>
+            
 
 
 
