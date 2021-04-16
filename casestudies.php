@@ -47,7 +47,7 @@
 
         <?php include 'includes/casestudies/cs-jmacefield.html' ?>
 
-        <?php include 'includes/casestudies/cs-hwilkinson.html' ?>
+        <?php include 'includes/casestudies/cs-jbreeze.html' ?>
 
       </div>
     </div>
