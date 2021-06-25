@@ -1,4 +1,4 @@
-// BASE]
+// BASE
 .hidden
   display: none !important
   
@@ -28,10 +28,19 @@ a, a svg
   color: $accent-color
   fill: $accent-color
   &:hover, &:focus, &:active
-    color: $primary-color
-    fill: $primary-color
-    border-color: $primary-color
+    color: $accent-color-dark
+    fill: $accent-color-dark
+    border-color: $accent-color-dark
     transition: color .2s ease-out
+
+.accent-blue a
+  color: $primary-color
+  fill: $primary-color
+  &:hover, &:focus, &:active
+    color: $primary-color-dark
+    fill: $primary-color-dark
+    border-color: $primary-color-dark
+
 
 .dropdown.menu>li.is-dropdown-submenu-parent>a:after
   border-color: $accent-color transparent transparent

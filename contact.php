@@ -24,18 +24,10 @@
         <ul class="no-bullet">
           <li>Telephone Number: <a href="tel://02392-489819">02392 489 819</a></li>
           <li>Info Email: <a href="javascript:location='mailto:\u0069\u006e\u0066\u006f\u0040\u0074\u0068\u0065\u0073\u006f\u006c\u0065\u006e\u0074\u0073\u0063\u0069\u0074\u0074\u002e\u0063\u006f\u002e\u0075\u006b';void 0"><script type="text/javascript">document.write('\u0069\u006e\u0066\u006f\u0040\u0074\u0068\u0065\u0073\u006f\u006c\u0065\u006e\u0074\u0073\u0063\u0069\u0074\u0074\u002e\u0063\u006f\u002e\u0075\u006b')</script></a></li>
-          <br>
-          <li>
-            <a href="//twitter.com/thesolentscitt" target="_blank" class="hollow button"><i class="fa fa-twitter"></i> Twitter</a>
-            <a href="//www.facebook.com/pages/The-Solent-SCITT/422876271129768" target="_blank" class="hollow button"><i class="fa fa-facebook"></i> Facebook</a>
-            <a href="//www.linkedin.com/company/the-solent-scitt/" target="_blank" class="hollow button"><i class="fa fa-linkedin"></i> LinkedIn</a>
-
-            
-          </li>
         </ul>
+        <br>
         <h2>How to find us</h2>
         <ul class="no-bullet">
-          <li>The Solent SCITT</li>
           <li>Dickinson Centre</li>
           <li>c/o Park Community School</li>
           <li>143 Middle Park Way</li>
@@ -49,76 +41,69 @@
         </div>
       </div>
     </section>
-    <!-- School Logo -->
-    <div class="accent-bg">
+
+    <!-- <div class="accent-bg">
       <section class="row">
-        <div class="partnershipschools column">
-
-          <div class="contact-school">
-            <a href="//www.horndeantc.hants.sch.uk/" target="_blank">
-              <img src="images/logo/htc-logo.png" alt="Horndean Technology College Logo">
-              <div class="banner">
-                <p>Horndean Technology College</p>
-              </div>
-            </a>
-          </div>
-
-          <div class="contact-school">
-            <a href="//www.pcs.hants.sch.uk/" target="_blank">
-              <img src="images/logo/pcs-logo.png" alt="Park Community School Logo">
-              <div class="banner">
-                <p>Park Community School</p>
-              </div>
-            </a>
-          </div>
-
-          <div class="contact-school">
-            <a href="//www.warblington.hants.sch.uk/" target="_blank">
-              <img src="images/logo/warblington-logo.png" alt="Warblington School Logo">
-              <div class="banner">
-                <p>Warblington School</p>
-              </div>
-            </a>
-          </div>
-
-        </div>
-      <!-- Minors -->
-        <div class="partnershipschools column">
-
-          <div class="contact-school">
-            <a href="//www.crookhorn.hants.sch.uk/" target="_blank">
-              <img src="images/logo/crookhorn-logo.png" alt="Crookhorn College Logo">
-              <div class="banner">
-                <p>Crookhorn College</p>
-              </div>
-            </a>
-          </div>
-
-          <div class="contact-school">
-            <a href="//www.oaklands.hants.sch.uk/" target="_blank">
-              <img src="images/logo/oaklands-logo.png" alt="Oaklands Catholic School Logo">
-              <div class="banner">
-                <p>Oaklands Catholic School</p>
-              </div>
-            </a>
-          </div>
-
-          <div class="contact-school">
-            <a href="//thesolenttsa.co.uk/" target="_blank">
-              <img src="images/logo/tstsa.svg" alt="The Solent TSA Logo">
-              <div class="banner">
-                <p>The Solent TSA</p>
-              </div>
-            </a>
-          </div>
-
-        </div>
+        <div class="columns">
+        </div>        
       </section>
       <br>
-    </div>
+    </div> -->
 
-    <!-- include primary partnership schools -->
-    <?php include("includes/partnership.html") ?>
+    <!-- partnership schools -->
+    <section class="row">
+      <div class="columns">
+        <p>The Solent Hub will enable people to train to teach in local placement partner schools and at a modern local training centre in Havant.</p>
+        <p>Solent Hub Partnership schools include:</p>
+      </div>
+
+      <div class="column">
+        <h2 class="text-center font-dark">Secondary Schools</h2>
+        <br>
+      </div>
+      <div class="row medium-up-2 large-up-3 text-center">
+        <!-- <div class="column column-block"><a target="_blank" href=""></a></div> -->
+
+        <a class="column column-block" href="//www.cowplainschool.co.uk" target="_blank">The Cowplain School</a>
+        <a class="column column-block" href="//www.crookhorn.hants.sch.uk" target="_blank">Crookhorn College</a>
+        <a class="column column-block" href="//horndeantc.hants.sch.uk" target="_blank">Horndean Technology College</a>
+        <a class="column column-block" href="//pcs.hants.sch.uk" target="_blank">Park Community School</a>
+        <a class="column column-block" href="//www.purbrookparkschool.co.uk" target="_blank">Purbrook Park School</a>
+      </div>
+
+
+        <br><br>
+
+      <div class="column">
+        <h2 class="text-center font-dark">Primary Schools</h2>
+        <br>
+      </div>
+      <div class="row medium-up-2 large-up-2 text-center">
+        <!-- <div class="column column-block"><a target="_blank" href=""></a></div> -->
+
+        <a class="column column-block" href="//www.barncroftprimary.co.uk" target="_blank">Barncroft Primary School</a>
+        <a class="column column-block" href="//denmeadinfantschool.co.uk" target="_blank">Denmead Infant School</a>
+        <a class="column column-block" href="//www.denmead-jun.hants.sch.uk" target="_blank">Denmead Junior School</a>
+        <a class="column column-block" href="//www.eastmeon.hants.sch.uk" target="_blank">East Meon Primary School</a>
+        <a class="column column-block" href="//www.horndeaninfants.co.uk" target="_blank">Horndean Infant School</a>
+        <a class="column column-block" href="//www.jys.org.uk/website" target="_blank">Jessie Younghusband Primary School</a>
+        <a class="column column-block" href="//www.mengham-inf.hants.sch.uk" target="_blank">Mengham Infant School</a>
+        <a class="column column-block" href="//www.menghamjunior.co.uk" target="_blank">Mengham Junior School</a>
+        <a class="column column-block" href="//www.millrytheinfants.co.uk" target="_blank">Mill Rythe Infant School</a>
+        <a class="column column-block" href="//padnell-inf.hants.sch.uk" target="_blank">Padnell Infant School</a>
+        <a class="column column-block" href="//www.padnell-jun.hants.sch.uk" target="_blank">Padnell Junior School</a>
+        <a class="column column-block" href="//www.petersgateinfantschool.co.uk" target="_blank">Petersgate Infant School</a>
+        <a class="column column-block" href="//www.purbrook-inf.hants.sch.uk" target="_blank">Purbrook Infant School</a>
+        <a class="column column-block" href="//www.purbrook-jun.hants.sch.uk" target="_blank">Purbrook Junior School</a>
+        <a class="column column-block" href="//www.queensinclosure.hants.sch.uk" target="_blank">Queen’s Inclosure Primary school</a>
+        <a class="column column-block" href="//www.sharpscopseprimary.co.uk" target="_blank">Sharps Copse Primary School</a>
+        <a class="column column-block" href="//www.stalbanscatholicprimary.co.uk" target="_blank">St Alban’s Primary School</a>
+        <a class="column column-block" href="//www.trosnantschools.co.uk" target="_blank">The Federation of Trosnant Schools</a>
+        <a class="column column-block" href="//www.warrenpark.hants.sch.uk" target="_blank">Warren Park Primary School</a>
+      </div>
+    </section>
+
+    
 
     <!-- FOOTER -->
     <?php include("includes/footer.html") ?>
