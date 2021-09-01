@@ -8,4 +8,4 @@ The Solent SCITT was a teacher training organisation based within Park Community
 
 ## End of the Road
 
-The Solent SCITT has now merged with a parent company and as a result the website is no longer required. Its been a great experience working with this site and their lead content provider.
+The Solent SCITT has now merged with a parent company and as a result the website is no longer required. Its been a great experience working with this site and their lead content provider Phil Seery.
